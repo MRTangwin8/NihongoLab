@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title description">
+  <title id="title">日语学习工具</title>
+  <desc id="description">一本展开的书与日轮</desc>
+  <rect width="64" height="64" rx="12" fill="#18384b"/>
+  <circle cx="48" cy="15" r="6" fill="#dc5a4f"/>
+  <path d="M9 20c8-2 15-1 22 4v29c-7-4-14-5-22-3z" fill="#fff"/>
+  <path d="M55 20c-8-2-15-1-22 4v29c7-4 14-5 22-3z" fill="#fff"/>
+  <path d="M32 24v29" fill="none" stroke="#3c8b66" stroke-width="3" stroke-linecap="round"/>
+  <path d="M15 29c4-.4 8 .5 12 2M15 36c4-.3 8 .5 12 2M49 29c-4-.4-8 .5-12 2M49 36c-4-.3-8 .5-12 2" fill="none" stroke="#b7c8d2" stroke-width="2" stroke-linecap="round"/>
+</svg>
