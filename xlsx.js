@@ -117,10 +117,17 @@
       mergesXml = '<mergeCells count="' + sheet.merges.length + '">' +
         sheet.merges.map(function (m) { return '<mergeCell ref="' + m + '"/>'; }).join('') + '</mergeCells>';
     }
+    var viewsXml = '<sheetViews><sheetView workbookViewId="0">' +
+      (sheet.freeze ? '<pane ySplit="6" topLeftCell="' + esc(sheet.freeze) + '" activePane="bottomLeft" state="frozen"/>' : '') +
+      '</sheetView></sheetViews>';
+    var pageXml = '<pageMargins left="0.3" right="0.3" top="0.45" bottom="0.45" header="0.2" footer="0.2"/>' +
+      '<pageSetup orientation="' + (sheet.landscape ? 'landscape' : 'portrait') + '" paperSize="9" fitToWidth="' +
+      (sheet.fitToWidth || 1) + '" fitToHeight="0"/>';
     return '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' +
       '<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">' +
+      '<sheetPr><pageSetUpPr fitToPage="1"/></sheetPr>' + viewsXml +
       '<sheetFormatPr defaultRowHeight="15"/>' + colsXml +
-      '<sheetData>' + rowsXml + '</sheetData>' + mergesXml + '</worksheet>';
+      '<sheetData>' + rowsXml + '</sheetData>' + mergesXml + pageXml + '</worksheet>';
   }
 
   var STYLES = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>' +
@@ -239,8 +246,8 @@
   }
 
   /* the sample shades the 题型 column by question type */
-  var TYPE_STYLE = { '写读音': 8, '写汉字': 9, '选意思': 10, '写单词': 11, '例句填空': 12, '选读音': 8, '选汉字': 9 };
-  var TYPE_STYLE_SMALL = { '写读音': 15, '写汉字': 16, '选意思': 17, '写单词': 18, '例句填空': 19, '选读音': 15, '选汉字': 16 };
+  var TYPE_STYLE = { '写读音': 8, '写汉字': 9, '选意思': 10, '写单词': 11, '例句填空': 12, '选读音': 8, '选汉字': 9, '选单词': 11 };
+  var TYPE_STYLE_SMALL = { '写读音': 15, '写汉字': 16, '选意思': 17, '写单词': 18, '例句填空': 19, '选读音': 15, '选汉字': 16, '选单词': 18 };
   global.EjuXlsx = {
     build: buildWorkbook, download: download, TYPE_STYLE: TYPE_STYLE,
     typeStyle: function (label, small) { return (small ? TYPE_STYLE_SMALL : TYPE_STYLE)[label] || (small ? 13 : 5); },

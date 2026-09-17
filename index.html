@@ -6,7 +6,7 @@
   <link rel="icon" type="image/svg+xml" href="assets/icon.svg">
   <meta name="theme-color" content="#4c827b">
   <script src="assets/theme.js"></script>
-<title>日语学习工具</title>
+<title>NihongoLab - 日语学习工具</title>
 <style>
   :root{
     color-scheme:light;
@@ -27,7 +27,6 @@
   .credits-link{font-size:12.5px;color:#fff;text-decoration:none;white-space:nowrap}.credits-link:hover{text-decoration:underline}
   header.top h1{margin:0;font-size:21px;letter-spacing:0;display:flex;align-items:center;gap:10px}
   .site-icon{display:block;width:34px;height:34px;flex:0 0 auto}
-  header.top p{margin:4px 0 0;font-size:12.5px;color:rgba(255,255,255,.82)}
   .theme-toggle{font:inherit;font-size:12.5px;display:inline-flex;align-items:center;gap:6px;padding:6px 9px;border:1px solid rgba(255,255,255,.5);border-radius:6px;background:transparent;color:#fff;cursor:pointer;white-space:nowrap}
   .theme-toggle:hover{background:rgba(255,255,255,.12)}
   .theme-symbol{font-size:15px;line-height:1}
@@ -45,10 +44,6 @@
   .btn.ghost{background:var(--surface);color:var(--navy)}
   .btn.ghost:hover{background:var(--soft)}
   .btn:disabled{opacity:.45;cursor:default}
-  .range-mode{display:inline-flex;border:1px solid var(--line);border-radius:7px;overflow:hidden;background:var(--surface)}
-  .range-mode button{font:inherit;font-size:13px;padding:6px 12px;border:0;border-right:1px solid var(--line);background:var(--surface);color:var(--muted);cursor:pointer}
-  .range-mode button:last-child{border-right:0}
-  .range-mode button.on{background:var(--navy);color:var(--on-primary)}
   .chips{display:flex;flex-wrap:wrap;gap:8px}
   .chip{font-size:13px;border:1px solid var(--line);border-radius:20px;padding:5px 13px;cursor:pointer;
     user-select:none;background:var(--surface);color:var(--muted)}
@@ -77,11 +72,12 @@
   .fb .ex{color:var(--muted);font-size:13.5px;margin-top:6px}
   .list{max-height:430px;overflow:auto;border:1px solid var(--line);border-radius:8px}
   table{width:100%;border-collapse:collapse;font-size:13.5px}
+  .list table{min-width:720px}
   th,td{padding:7px 9px;border-bottom:1px solid #e7eef4;text-align:left;vertical-align:top}
   th{background:var(--soft);position:sticky;top:0;font-weight:600;color:var(--navy);font-size:13px}
   td.num{color:var(--muted);width:52px}
   td.w{font-weight:700;font-size:15px}
-  td.r{color:var(--navy)}
+  td.r{color:var(--navy);min-width:110px;white-space:nowrap;word-break:keep-all}
   .muted{color:var(--muted)}
   .miss{border-left:3px solid var(--bad);padding-left:10px;margin-bottom:10px}
   .stat{display:flex;gap:26px;margin:6px 0 14px}
@@ -139,11 +135,19 @@
   .study-grade .easy{border-color:#3477a5;background:#3477a5}
   .study-grade .btn:hover{filter:brightness(.93)}
   .study-note{font-size:12.5px;color:var(--muted);margin-top:8px}
+  .history-summary{display:grid;grid-template-columns:repeat(4,minmax(110px,1fr));gap:10px;margin-bottom:14px}
+  .history-summary div{border:1px solid var(--line);border-radius:7px;padding:10px 12px;color:var(--muted);font-size:12px}
+  .history-summary b{display:block;color:var(--navy);font-size:21px;margin-top:2px}
+  .history-tabs{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}
+  .history-tabs .btn.on{background:var(--navy);color:var(--on-primary)}
+  .history-empty{padding:18px;text-align:center;color:var(--muted)}
+  .history-table{max-height:360px;overflow:auto;border:1px solid var(--line);border-radius:7px}
   :root[data-theme="dark"]{color-scheme:dark;--navy:#78b8af;--navy-d:#94ccc4;--line:#3b4e49;--ink:#e5eeeb;--muted:#a6b6b2;--bg:#111816;--surface:#1a2421;--soft:#23332f;--header:#1d302c;--on-primary:#fff;--accent:#e38a74;--ok:#83c79e;--bad:#ee9588;--ok-bg:#20382b;--bad-bg:#402724;--warn-bg:#352f1f;--warn-line:#665a32;--warn-ink:#e7cf85}
   @media(prefers-color-scheme:dark){:root:not([data-theme]){color-scheme:dark;--navy:#78b8af;--navy-d:#94ccc4;--line:#3b4e49;--ink:#e5eeeb;--muted:#a6b6b2;--bg:#111816;--surface:#1a2421;--soft:#23332f;--header:#1d302c;--on-primary:#fff;--accent:#e38a74;--ok:#83c79e;--bad:#ee9588;--ok-bg:#20382b;--bad-bg:#402724;--warn-bg:#352f1f;--warn-line:#665a32;--warn-ink:#e7cf85}}
   :root[data-theme="dark"] .tag{background:var(--soft)}
   @media(prefers-color-scheme:dark){:root:not([data-theme]) .tag{background:var(--soft)}}
   @media(max-width:620px){
+    .history-summary{grid-template-columns:1fr 1fr}
     .course-tools{align-items:stretch;flex-direction:column}
     .course-directory{align-self:flex-start}
     .level-tabs{display:grid;grid-template-columns:repeat(4,1fr);width:100%}
@@ -157,8 +161,7 @@
 <body>
 <header class="top">
   <div class="inner header-row">
-    <div><h1><img class="site-icon" src="assets/icon.svg" alt="">日语学习工具</h1>
-    <p id="bookSubtitle">JLPT N5 基础词汇</p></div>
+    <h1><img class="site-icon" src="assets/icon.svg" alt="">NihongoLab - 日语学习工具</h1>
     <div class="header-actions"><a class="credits-link" href="thanks/index.html">特别鸣谢</a><button id="themeToggle" class="theme-toggle" type="button" aria-label="切换配色"></button></div>
   </div>
 </header>
@@ -177,7 +180,7 @@
     <div class="level-bar"><div class="level-tabs" id="grammarLevels" aria-label="语法等级"></div><span class="meta" id="grammarMeta"></span></div>
     <div class="course-tools">
       <input class="course-search" id="grammarSearch" type="search" placeholder="搜索文型、中文意思或接续" aria-label="搜索语法">
-      <a class="course-directory" href="grammar/index.html">打开完整语法目录</a>
+      <a class="course-directory" href="grammar/quiz.html">语法练习</a><a class="course-directory" href="grammar/index.html">打开完整语法目录</a>
     </div>
     <div class="lesson-grid" id="grammarList"></div>
     <div class="course-more"><button id="grammarMore" type="button">显示更多</button></div>
@@ -201,11 +204,7 @@
       <select id="posFilter" class="filter-select"><option value="all">全部词性</option></select>
     </div>
     <div class="row">
-      <label class="lb" id="rangeLabel">序号范围</label>
-      <div class="range-mode hide" id="rangeMode" role="group" aria-label="范围单位">
-        <button type="button" class="on" data-range-mode="number">序号</button>
-        <button type="button" data-range-mode="page">书页</button>
-      </div>
+      <label class="lb">序号范围</label>
       <select id="bucket"><option value="custom">自定义</option></select>
       <input type="number" id="start" value="1" min="1" max="80">
       <span class="muted">—</span>
@@ -218,11 +217,12 @@
   <div class="card" id="vocabQuizSetup">
     <h2>② 题型</h2>
     <div class="chips" id="types">
-      <span class="chip on" data-t="r2k">假名 → 汉字</span>
-      <span class="chip on" data-t="k2r">汉字 → 假名</span>
-      <span class="chip" data-t="k2r_sel">汉字 → 假名（选择）</span>
-      <span class="chip" data-t="r2k_sel">假名 → 汉字（选择）</span>
-      <span class="chip" data-t="k2c">汉字 → 中文（选择）</span>
+      <span class="chip" data-t="r2k">假名 → 汉字</span>
+      <span class="chip" data-t="k2r">汉字 → 假名</span>
+      <span class="chip on" data-t="k2r_sel">汉字 → 假名（选择）</span>
+      <span class="chip on" data-t="r2k_sel">假名 → 汉字（选择）</span>
+      <span class="chip on" data-t="k2c">汉字 → 中文（选择）</span>
+      <span class="chip on" data-t="c2k_sel">中文 → 单词（选择）</span>
       <span class="chip" data-t="c2k">中文 → 单词</span>
       <span class="chip" data-t="fill">例句填空</span>
       <span class="chip" data-t="l2k">听朗读 → 写单词</span>
@@ -315,6 +315,23 @@
     </div>
   </div>
 
+  <div class="card" id="historyCard">
+    <h2>⑥ 学习与考试记录</h2>
+    <div class="history-summary">
+      <div>完成考试<b id="historyExamCount">0</b></div>
+      <div>平均得分<b id="historyAverage">0%</b></div>
+      <div>累计学习<b id="historyStudyCount">0</b></div>
+      <div>练习词汇<b id="historyWordCount">0</b></div>
+    </div>
+    <div class="history-tabs" id="historyTabs">
+      <button class="btn ghost" data-history="exams">考试成绩</button>
+      <button class="btn ghost" data-history="study">学习记录</button>
+      <button class="btn ghost" data-history="words">词汇记录</button>
+      <button class="btn ghost" id="historyClear">清空历史</button>
+    </div>
+    <div id="historyList"></div>
+  </div>
+
   <div class="card hide" id="listCard">
     <h2>词表</h2>
     <div class="meta" id="listMeta" style="margin-bottom:8px"></div>
@@ -348,32 +365,12 @@
   var $ = function (id) { return document.getElementById(id); };
   var startEl = $('start'), endEl = $('end'), bucketEl = $('bucket'), countEl = $('count');
   var bookEl = $('book'), categoryEl = $('category'), posEl = $('posFilter');
-  var rangeModeEl = $('rangeMode'), rangeMode = 'number';
   var pool = [], quiz = [], qi = 0, correct = 0, wrongs = [], answered = false, flow = null;
   var studyState = C.loadStudyState(), studyList = [], studyQueue = [], studyIndex = 0, studyRevealed = false;
+  var HISTORY_KEY = 'nihongolab-vocab-history-v1';
+  var historyState = loadHistory(), historyView = 'exams';
 
-  function rangeBounds() {
-    var byPage = rangeMode === 'page' && C.getBook().id === 'n2';
-    var values = V.map(function (item) { return byPage ? item.page : item.n; })
-      .filter(function (value) { return typeof value === 'number' && isFinite(value); });
-    return {
-      min: values.length ? Math.min.apply(Math, values) : 1,
-      max: values.length ? Math.max.apply(Math, values) : 1
-    };
-  }
-
-  function rangeSelection() {
-    return {
-      mode: rangeMode,
-      start: parseInt(startEl.value, 10),
-      end: parseInt(endEl.value, 10)
-    };
-  }
-
-  function rangeText() {
-    return rangeMode === 'page' ? '书上第 ' + startEl.value + '—' + endEl.value + ' 页' :
-      '第 ' + startEl.value + '—' + endEl.value + ' 词';
-  }
+  function maxNumber() { return V.length ? V[V.length - 1].n : 1; }
 
   function fillSelect(select, values, allLabel) {
     select.innerHTML = '<option value="all">' + allLabel + '</option>';
@@ -385,10 +382,9 @@
 
   function rebuildBuckets() {
     bucketEl.innerHTML = '<option value="custom">自定义</option>';
-    var bounds = rangeBounds();
-    var size = rangeMode === 'page' ? 10 : 100;
-    for (var s = bounds.min; s <= bounds.max; s += size) {
-      var e = Math.min(s + size - 1, bounds.max);
+    var maximum = maxNumber();
+    for (var s = 1; s <= maximum; s += 100) {
+      var e = Math.min(s + 99, maximum);
       var o = document.createElement('option');
       o.value = s + '-' + e;
       o.textContent = s + ' – ' + e;
@@ -404,26 +400,14 @@
 
   function selectBook(id) {
     V = C.setBook(id);
-    var book = C.getBook();
-    rangeMode = book.id === 'n2' ? 'page' : 'number';
-    rangeModeEl.classList.toggle('hide', book.id !== 'n2');
-    Array.prototype.forEach.call(rangeModeEl.querySelectorAll('button'), function (button) {
-      button.classList.toggle('on', button.dataset.rangeMode === rangeMode);
-    });
-    $('rangeLabel').textContent = rangeMode === 'page' ? '书页范围' : '序号范围';
-    $('randRange').textContent = rangeMode === 'page' ? '随机取 5 页' : '随机取一段（约100词）';
-    $('bookSubtitle').textContent = book.label + '　共 ' + V.length + ' 词';
-    document.title = book.label + ' · 日语学习工具';
     var categories = Array.from(new Set(V.map(function (item) { return item.category; }).filter(Boolean))).sort();
     var positions = Array.from(new Set(V.map(function (item) { return item.posStd; }).filter(Boolean))).sort();
     fillSelect(categoryEl, categories, '全部类别');
     fillSelect(posEl, positions, '全部词性');
     rebuildBuckets();
-    var bounds = rangeBounds();
-    startEl.min = bounds.min; endEl.min = bounds.min;
-    startEl.max = bounds.max; endEl.max = bounds.max;
-    startEl.value = bounds.min;
-    endEl.value = Math.min(bounds.min + (rangeMode === 'page' ? 9 : 99), bounds.max);
+    startEl.min = 1; endEl.min = 1;
+    startEl.max = maxNumber(); endEl.max = maxNumber();
+    startEl.value = 1; endEl.value = Math.min(100, maxNumber());
     var hasExamples = V.some(function (item) { return !!(item.ex && item.ex.trim()); });
     var hasListening = !!(window.speechSynthesis && window.SpeechSynthesisUtterance);
     Array.prototype.forEach.call(document.querySelectorAll('.chip'), function (chip) {
@@ -432,30 +416,12 @@
       chip.classList.toggle('off', unavailable);
       if (unavailable) chip.classList.remove('on');
     });
-    if (!$('types').querySelector('.chip.on')) $('types').querySelector('.chip:not(.off)').classList.add('on');
     refreshPool();
   }
 
   bookEl.addEventListener('change', function () { selectBook(bookEl.value); });
   categoryEl.addEventListener('change', refreshPool);
   posEl.addEventListener('change', refreshPool);
-  rangeModeEl.addEventListener('click', function (event) {
-    var button = event.target.closest('button[data-range-mode]');
-    if (!button || C.getBook().id !== 'n2') return;
-    rangeMode = button.dataset.rangeMode;
-    Array.prototype.forEach.call(rangeModeEl.querySelectorAll('button'), function (item) {
-      item.classList.toggle('on', item === button);
-    });
-    $('rangeLabel').textContent = rangeMode === 'page' ? '书页范围' : '序号范围';
-    $('randRange').textContent = rangeMode === 'page' ? '随机取 5 页' : '随机取一段（约100词）';
-    rebuildBuckets();
-    var bounds = rangeBounds();
-    startEl.min = bounds.min; endEl.min = bounds.min;
-    startEl.max = bounds.max; endEl.max = bounds.max;
-    startEl.value = bounds.min;
-    endEl.value = Math.min(bounds.min + (rangeMode === 'page' ? 9 : 99), bounds.max);
-    refreshPool();
-  });
   bucketEl.addEventListener('change', function () {
     if (bucketEl.value === 'custom') return;
     var p = bucketEl.value.split('-');
@@ -463,13 +429,13 @@
   });
 
   function refreshPool() {
-    var bounds = rangeBounds();
-    var a = parseInt(startEl.value || String(bounds.min), 10), b = parseInt(endEl.value || String(bounds.max), 10);
-    if (isNaN(a)) a = bounds.min; if (isNaN(b)) b = bounds.max;
-    if (a < bounds.min) a = bounds.min; if (b > bounds.max) b = bounds.max;
+    var maximum = maxNumber();
+    var a = parseInt(startEl.value || '1', 10), b = parseInt(endEl.value || String(maximum), 10);
+    if (isNaN(a)) a = 1; if (isNaN(b)) b = maximum;
+    if (a < 1) a = 1; if (b > maximum) b = maximum;
     if (b < a) { var t = a; a = b; b = t; startEl.value = a; endEl.value = b; }
     startEl.value = a; endEl.value = b;
-    pool = C.inRange(a, b, rangeMode).filter(function (item) {
+    pool = C.inRange(a, b).filter(function (item) {
       return (categoryEl.value === 'all' || item.category === categoryEl.value) &&
         (posEl.value === 'all' || item.posStd === posEl.value);
     });
@@ -490,10 +456,9 @@
   endEl.addEventListener('input', refreshPool);
 
   $('randRange').addEventListener('click', function () {
-    var bounds = rangeBounds();
-    var span = rangeMode === 'page' ? 4 : 99;
-    var s = bounds.min + Math.floor(Math.random() * Math.max(1, bounds.max - bounds.min - span + 1));
-    startEl.value = s; endEl.value = Math.min(s + span, bounds.max); refreshPool();
+    var maximum = maxNumber();
+    var s = 1 + Math.floor(Math.random() * Math.max(1, maximum - 99));
+    startEl.value = s; endEl.value = Math.min(s + 99, maximum); refreshPool();
   });
 
   /* --- type chips --- */
@@ -501,10 +466,15 @@
     var el = e.target.closest('.chip');
     if (!el || el.classList.contains('off')) return;
     el.classList.toggle('on');
-    if (!$('types').querySelector('.chip.on')) el.classList.add('on');
   });
   function activeTypes() {
     return Array.prototype.map.call($('types').querySelectorAll('.chip.on:not(.off)'), function (c) { return c.dataset.t; });
+  }
+  function paperTypes() {
+    var mapped = activeTypes().map(function (type) {
+      return { k2r_sel: 'k2r', r2k_sel: 'r2k', k2c: 'c2k', c2k_sel: 'c2k', l2c: 'l2k' }[type] || type;
+    });
+    return mapped.filter(function (type, index) { return mapped.indexOf(type) === index; });
   }
 
   function wantCount() {
@@ -518,6 +488,7 @@
     refreshPool();
     if (!pool.length) { alert('该范围内没有单词。'); return; }
     var types = activeTypes();
+    if (!types.length) { alert('请至少选择一种题型。'); return; }
     quiz = C.makePaper(pool, types, wantCount());
     if (!quiz.length) { alert('所选题型在该范围内没有可用题目，请更换题型或范围。'); return; }
     qi = 0; correct = 0; wrongs = [];
@@ -591,9 +562,11 @@
     if (q.item.cn) body += '<div class="ex">意思：' + esc(q.item.cn) + '　' + (q.item.en ? '／ ' + esc(q.item.en) : '') + '</div>';
     if (q.item.ex) body += '<div class="ex">例句：' + esc(q.item.ex) + '</div>';
     if (q.item.exCn) body += '<div class="ex">' + esc(q.item.exCn) + '</div>';
+    body += '<div class="ex"><a href="' + wordDetailUrl(q.item) + '">查看词条 →</a></div>';
     fb.innerHTML = body;
     if (ok) correct++;
     else wrongs.push({ q: q, user: userAnswer });
+    recordWord(q.item, 'quiz', ok);
     $('qsubmit').classList.add('hide');
     $('qnext').classList.remove('hide');
     $('qnext').textContent = (qi === quiz.length - 1) ? '查看结果' : '下一题';
@@ -604,6 +577,90 @@
 
   function esc(s) {
     return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  function wordDetailUrl(item) {
+    return 'vocab/detail.html?book=' + encodeURIComponent(item.book || C.getBook().id) + '&n=' + encodeURIComponent(item.n);
+  }
+
+  function emptyHistory() { return { version: 1, exams: [], study: [], words: {} }; }
+
+  function loadHistory() {
+    var parsed = null;
+    try { parsed = JSON.parse(localStorage.getItem(HISTORY_KEY) || 'null'); } catch (e) {}
+    if (!parsed || typeof parsed !== 'object') parsed = emptyHistory();
+    if (!Array.isArray(parsed.exams)) parsed.exams = [];
+    if (!Array.isArray(parsed.study)) parsed.study = [];
+    if (!parsed.words || typeof parsed.words !== 'object') parsed.words = {};
+    return parsed;
+  }
+
+  function saveHistory() {
+    try { localStorage.setItem(HISTORY_KEY, JSON.stringify(historyState)); } catch (e) {}
+  }
+
+  function historyWordKey(item) { return (item.book || C.getBook().id) + ':' + item.n; }
+
+  function recordWord(item, kind, result) {
+    var key = historyWordKey(item), old = historyState.words[key] || {
+      book: item.book || C.getBook().id, n: item.n, w: item.w, r: item.r,
+      quiz: 0, correct: 0, wrong: 0, study: 0, grades: {}
+    };
+    old.w = item.w; old.r = item.r; old.last = Date.now();
+    if (kind === 'quiz') {
+      old.quiz++; result ? old.correct++ : old.wrong++;
+    } else {
+      old.study++; old.grades[result] = Number(old.grades[result] || 0) + 1;
+    }
+    historyState.words[key] = old;
+    saveHistory();
+    renderHistory();
+  }
+
+  function formatHistoryTime(value) {
+    var d = new Date(value);
+    if (isNaN(d.getTime())) return '—';
+    function two(n) { return n < 10 ? '0' + n : String(n); }
+    return d.getFullYear() + '-' + two(d.getMonth() + 1) + '-' + two(d.getDate()) + ' ' +
+      two(d.getHours()) + ':' + two(d.getMinutes());
+  }
+
+  function renderHistory() {
+    var exams = historyState.exams, studies = historyState.study;
+    var words = Object.keys(historyState.words).map(function (key) { return historyState.words[key]; });
+    var average = exams.length ? Math.round(exams.reduce(function (sum, item) { return sum + item.rate; }, 0) / exams.length) : 0;
+    $('historyExamCount').textContent = exams.length;
+    $('historyAverage').textContent = average + '%';
+    $('historyStudyCount').textContent = studies.length;
+    $('historyWordCount').textContent = words.length;
+    Array.prototype.forEach.call($('historyTabs').querySelectorAll('[data-history]'), function (button) {
+      button.classList.toggle('on', button.dataset.history === historyView);
+    });
+    var rows = '', head = '';
+    if (historyView === 'exams') {
+      head = '<tr><th>时间</th><th>词库</th><th>范围</th><th>得分</th><th>正确率</th></tr>';
+      rows = exams.slice().reverse().map(function (item) {
+        return '<tr><td>' + formatHistoryTime(item.time) + '</td><td>' + esc(item.bookLabel) + '</td><td>' +
+          item.start + '—' + item.end + '</td><td>' + item.correct + ' / ' + item.total + '</td><td>' + item.rate + '%</td></tr>';
+      }).join('');
+    } else if (historyView === 'study') {
+      var gradeLabels = { again: '再来', hard: '困难', remember: '记住', easy: '简单' };
+      head = '<tr><th>时间</th><th>词库</th><th>单词</th><th>反馈</th></tr>';
+      rows = studies.slice().reverse().map(function (item) {
+        return '<tr><td>' + formatHistoryTime(item.time) + '</td><td>' + esc(item.bookLabel) + '</td><td><b>' +
+          esc(item.w) + '</b>　<span class="muted">' + esc(item.r) + '</span></td><td>' + esc(gradeLabels[item.grade] || item.grade) + '</td></tr>';
+      }).join('');
+    } else {
+      words.sort(function (a, b) { return Number(b.last || 0) - Number(a.last || 0); });
+      head = '<tr><th>最近练习</th><th>词库</th><th>单词</th><th>测试</th><th>答对</th><th>答错</th><th>学习</th></tr>';
+      rows = words.map(function (item) {
+        return '<tr><td>' + formatHistoryTime(item.last) + '</td><td>' + esc(String(item.book || '').toUpperCase()) + '</td><td><b>' +
+          esc(item.w) + '</b>　<span class="muted">' + esc(item.r) + '</span></td><td>' + item.quiz + '</td><td>' +
+          item.correct + '</td><td>' + item.wrong + '</td><td>' + item.study + '</td></tr>';
+      }).join('');
+    }
+    $('historyList').innerHTML = rows ? '<div class="history-table"><table><thead>' + head + '</thead><tbody>' + rows +
+      '</tbody></table></div>' : '<div class="history-empty">还没有记录</div>';
   }
 
   function submitInput() {
@@ -642,6 +699,13 @@
     $('rOk').textContent = correct;
     $('rNo').textContent = wrongs.length;
     $('rRate').textContent = Math.round(correct / quiz.length * 100) + '%';
+    historyState.exams.push({
+      time: Date.now(), book: C.getBook().id, bookLabel: C.getBook().label,
+      start: Number(startEl.value), end: Number(endEl.value), total: quiz.length,
+      correct: correct, wrong: wrongs.length, rate: Math.round(correct / quiz.length * 100)
+    });
+    if (historyState.exams.length > 200) historyState.exams = historyState.exams.slice(-200);
+    saveHistory(); renderHistory();
     var box = $('rMiss');
     if (!wrongs.length) { box.innerHTML = '<p class="meta">全部答对，太强了 🎉</p>'; }
     else {
@@ -684,6 +748,7 @@
       (item.en ? '　／ ' + esc(item.en) : '') + '</div>';
     if (item.ex) html += '<div class="line">例句：' + esc(item.ex) + '</div>';
     if (item.exCn) html += '<div class="line">' + esc(item.exCn) + '</div>';
+    html += '<div class="line"><a href="' + wordDetailUrl(item) + '">查看词条 →</a></div>';
     return html;
   }
 
@@ -736,6 +801,11 @@
     var item = studyQueue[studyIndex];
     studyState = C.scheduleReview(studyState, item, grade, Date.now());
     C.saveStudyState(studyState);
+    recordWord(item, 'study', grade);
+    historyState.study.push({ time: Date.now(), book: C.getBook().id, bookLabel: C.getBook().label,
+      n: item.n, w: item.w, r: item.r, grade: grade });
+    if (historyState.study.length > 1000) historyState.study = historyState.study.slice(-1000);
+    saveHistory(); renderHistory();
     studyQueue.splice(studyIndex, 1);
     if (!studyQueue.length) {
       $('studySession').classList.add('hide');
@@ -770,12 +840,26 @@
     $('studySession').classList.add('hide');
     refreshStudySummary();
   });
+  $('historyTabs').addEventListener('click', function (event) {
+    var button = event.target.closest('[data-history]');
+    if (!button) return;
+    historyView = button.dataset.history;
+    renderHistory();
+  });
+  $('historyClear').addEventListener('click', function () {
+    if (!confirm('确定清空考试成绩、学习流水和词汇历史吗？')) return;
+    historyState = emptyHistory();
+    try { localStorage.removeItem(HISTORY_KEY); } catch (e) {}
+    renderHistory();
+  });
 
   /* --- export & list --- */
   function doExport() {
     refreshPool();
     if (!pool.length) { alert('该范围内没有单词。'); return; }
-    C.exportPaper(pool, activeTypes(), wantCount(), rangeSelection());
+    var types = paperTypes();
+    if (!types.length) { alert('请至少选择一种题型后再导出试卷。'); return; }
+    C.exportPaper(pool, types, wantCount());
   }
   $('qplay').addEventListener('click', function () { C.speakWord(quiz[qi].item.n); });
   $('listBox').addEventListener('click', function (e) {
@@ -783,7 +867,7 @@
     if (b && b.dataset.n) C.speakWord(parseInt(b.dataset.n, 10));
   });
   $('exportBtn').addEventListener('click', doExport);
-  $('listExportBtn').addEventListener('click', function () { refreshPool(); C.exportList(pool, rangeSelection()); });
+  $('listExportBtn').addEventListener('click', function () { refreshPool(); C.exportList(pool); });
   $('exportBtn2').addEventListener('click', doExport);
   $('begin').addEventListener('click', startQuiz);
   $('again').addEventListener('click', startQuiz);
@@ -793,18 +877,17 @@
     refreshPool();
     var card = $('listCard');
     if (wasOpen) { card.classList.add('hide'); return; }
-    $('listMeta').textContent = rangeText() + '，共 ' + pool.length + ' 词';
+    $('listMeta').textContent = '第 ' + startEl.value + '—' + endEl.value + ' 词，共 ' + pool.length + ' 词';
     var withMeaning = pool.some(function (v) { return v.cn || v.en; });
-    var withPage = C.getBook().id === 'n2' && pool.some(function (v) { return typeof v.page === 'number'; });
     var rows = pool.map(function (v) {
       return '<tr><td class="num">' + v.n + '</td><td>' +
         (C.hasSpeech && C.hasSpeech(v.n) ? '<button class="playb" data-n="' + v.n + '" title="播放读音">🔊</button>' : '') +
-        '</td>' + (withPage ? '<td class="num">' + v.page + '</td>' : '') + '<td class="w">' + esc(C.withSuru(v.w, v.suru)) +
+        '</td><td class="w">' + esc(C.withSuru(v.w, v.suru)) +
         '</td><td class="r">' + esc(C.withSuru(v.r || '', v.suru)) + '</td><td class="muted">' + esc(v.posStd || v.pos || '') + '</td>' +
         (withMeaning ? '<td>' + esc(v.cn || '') + '</td><td class="muted">' + esc(v.en || '') + '</td>' : '') +
         '</tr>';
     }).join('');
-    $('listBox').innerHTML = '<table><thead><tr><th>№</th><th></th>' + (withPage ? '<th>书页</th>' : '') + '<th>单词</th><th>读音</th><th>词性</th>' +
+    $('listBox').innerHTML = '<table><thead><tr><th>№</th><th></th><th>单词</th><th>读音</th><th>词性</th>' +
       (withMeaning ? '<th>意思</th><th>英文</th>' : '') + '</tr></thead><tbody>' +
       rows + '</tbody></table>';
     card.classList.remove('hide');
@@ -893,7 +976,7 @@
     Array.prototype.forEach.call($('moduleNav').querySelectorAll('button'), function (x) {
       x.classList.toggle('on', x === b);
     });
-    ['vocabModule', 'vocabQuizSetup', 'quizCard', 'resultCard', 'studyCard', 'listCard'].forEach(function (id) {
+    ['vocabModule', 'vocabQuizSetup', 'quizCard', 'resultCard', 'studyCard', 'historyCard', 'listCard'].forEach(function (id) {
       var node = $(id);
       if (node) node.style.display = m === 'vocab' ? '' : 'none';
     });
@@ -903,6 +986,7 @@
 
   bookEl.value = 'n5';
   selectBook('n5');
+  renderHistory();
 })();
 </script>
 </body>

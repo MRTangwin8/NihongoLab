@@ -8,7 +8,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "孔；洞；坑",
     "en": "hole; opening; orifice; perforation; pit; hollow",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -20,7 +19,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "云",
     "en": "cloud",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -32,7 +30,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "旱田；田地",
     "en": "field (for growing wheat, fruit, vegetables, etc.); cultivated land; vegetable plot; kitchen garden; plantation; field (of specialization)",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -44,7 +41,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "油",
     "en": "oil",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -56,7 +52,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "烟",
     "en": "smoke; fumes",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -68,7 +63,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "羽毛；羽；向下；翼；叶片（风扇、螺旋桨等）；毽子（羽毛球运动中的）",
     "en": "feather; plume; down; wing; blade (of a fan, propeller, etc.); shuttlecock (in badminton)",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -80,7 +74,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "胃；中国“胃”星座（二十八宅之一）",
     "en": "stomach; Chinese \"stomach\" constellation (one of the 28 mansions)",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -92,7 +85,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "盐",
     "en": "salt; common salt; table salt; sodium chloride; hardship; toil",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -104,7 +96,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "宽度；幅度",
     "en": "width; breadth; freedom (e.g. of thought); latitude; gap; difference (e.g. in price)",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -116,7 +107,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "呼吸；呼吸；和睦；和谐；关系；蒸汽（来自热食物、茶等）",
     "en": "breath; breathing; concord; harmony; rapport; steam (coming off hot food, tea, etc.)",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -128,7 +118,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "岛；某人的领土（性工作者、有组织犯罪团伙等的领土）；某人的地盘",
     "en": "island; one's territory (of a sex worker, organized crime gang, etc.); one's turf",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -140,7 +129,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "膝盖；圈；膝盖和大腿（坐着时）",
     "en": "knee; lap; knee and thigh (while sitting)",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -152,7 +140,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "背面；后面",
     "en": "opposite side; bottom; other side; side hidden from view; undersurface; reverse side",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -164,7 +151,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "城堡",
     "en": "castle",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -176,7 +162,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "包；解雇；小袋；橙子皮（和其他类似水果）；死胡同；被水包围的一块土地",
     "en": "bag; sack; pouch; skin of an orange (and other like fruits); dead end; plot of land surrounded by water",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -188,7 +173,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "谈论，闲谈；风言风语",
     "en": "rumour; rumor; report; hearsay; gossip; common talk",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -200,7 +184,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "角落；角落；课间休息；前台右侧（能剧舞台上）",
     "en": "corner; nook; recess; downstage right (on a noh stage)",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -212,7 +195,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "骨头；框架；大纲；核；骨干；精神",
     "en": "bone; frame; outline; core; backbone; spirit",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -224,7 +206,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "饲料；饲料；宠物食品；饵；饵；诱惑",
     "en": "feed; fodder; pet food; bait; lure; enticement",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -236,7 +217,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "咳嗽；咳嗽；咳嗽",
     "en": "cough; coughing; tussis",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -248,7 +228,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "极；杆；戳；指挥棒；线；破折号",
     "en": "pole; rod; stick; baton; line; dash",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -260,7 +239,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "树枝；分支",
     "en": "branch; bough; limb; twig; sprig; spray",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -272,7 +250,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "底；最低处；到头",
     "en": "bottom; sole",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -284,7 +261,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "孙子",
     "en": "grandchild",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -296,7 +272,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "衣领；翻领；颈带；脖子；颈背；颈背",
     "en": "collar; lapel; neckband; neck; nape of the neck; scruff of the neck",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -308,7 +283,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "图像；数字；雕像；图片；肖像；形式",
     "en": "image; figure; statue; picture; portrait; form",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -320,7 +294,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "镇；堵塞；邻里；邻里；市中心；主要街道",
     "en": "town; block; neighbourhood; neighborhood; downtown; main street",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -332,7 +305,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "里面；深处；最后",
     "en": "inner part; interior; back (of a drawer, one's throat, etc.); depths (e.g. of a forest); recesses (e.g. of a cave); heart",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -344,7 +316,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "旅行；旅途",
     "en": "travel; trip; journey",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -356,7 +327,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "湖",
     "en": "lake",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -368,7 +338,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "父母；父母；母亲和父亲；经销商；银行家；创始人",
     "en": "parent; parents; mother and father; dealer; banker; founder",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -380,7 +349,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "妻子；装饰（尤其是配生鱼片）；辅料；伴奏；侧面（备注）；亲爱的",
     "en": "wife; garnish (esp. one served with sashimi); trimmings; accompaniment; side (remark); my dear",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -392,7 +360,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "女儿；女孩（即年轻的未婚女子）",
     "en": "daughter; girl (i.e. a young, unmarried woman)",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -404,7 +371,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "课；科；课程",
     "en": "lesson; section (in an organization); division; department; counter for lessons and chapters (of a book)",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -416,7 +382,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "毒；毒害；毒辣",
     "en": "poison; toxicant; venom; harm; evil influence; ill will",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -428,7 +393,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "胸部；胸部；乳房；怀；摔碎；心",
     "en": "chest; breast; breasts; bosom; bust; heart",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -440,7 +404,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "数量；金额",
     "en": "number; amount",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -452,7 +415,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "谜；谜团",
     "en": "riddle; puzzle; enigma; mystery; enigmatic; mysterious",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -464,7 +426,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "地面；舞台（叙述者和三味线演奏者）；河对岸搭建的餐饮平台",
     "en": "floor; stage (for the narrator and the shamisen player); dining platform built across a river",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -476,7 +437,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "形式；形状；数字；面容；特征；（人的）外貌",
     "en": "form; shape; figure; visage; features; appearance (of a person)",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -488,7 +448,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "平底锅；锅；平底锅；炖；火锅",
     "en": "pan; pot; saucepan; stew; hot pot",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -500,7 +459,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "梦想；希望；希望；愿望；志向；不切实际的愿望",
     "en": "dream; hope; wish; aspiration; ambition; unrealistic aspiration",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -512,7 +470,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "墙；分割；障碍；障碍；障碍；难度",
     "en": "wall; partition; barrier; obstacle; hindrance; difficulty",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -524,7 +481,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "波浪；波动",
     "en": "wave; billow; ripple; breaker; swell; ups and downs",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -536,7 +492,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "宿舍",
     "en": "hostel; dormitory; bureau (government department beneath a ministry under the ritsuryō system); tea-ceremony room; villa",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -548,7 +503,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "雷；雷电",
     "en": "lightning; thunder; thunderbolt; god of thunder; god of lightning; anger",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -560,7 +514,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "撕裂；眼泪；泪液分泌；同情",
     "en": "tear; tears; lachrymal secretion; sympathy",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -572,7 +525,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "量，分量，数量",
     "en": "quantity; amount; volume; capacity; portion (of food); generosity",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -584,7 +536,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "皮肤；隐藏；毛皮；毛皮；果皮；果皮",
     "en": "skin; hide; pelt; fur; rind; peel",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -596,7 +547,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "花园；院子；庭院；（行动的）领域；面积",
     "en": "garden; yard; courtyard; field (of action); area",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -608,7 +558,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "列，队伍；排列",
     "en": "row; line; file; column; queue; rank",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -620,7 +569,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "罐；罐头",
     "en": "can; tin",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -632,7 +580,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "热；发烧；温度；热情；热情；热情",
     "en": "heat; fever; temperature; zeal; passion; enthusiasm",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -644,7 +591,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "组成；一段音乐；歌曲；跟踪（记录在案）；调；旋律",
     "en": "composition; piece of music; song; track (on a record); tune; melody",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -656,7 +602,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "筷子",
     "en": "chopsticks",
-    "page": 10,
     "book": "n2"
   },
   {
@@ -668,7 +613,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "信号",
     "en": "sign; signal; cue",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -680,7 +624,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "营养",
     "en": "nutrition; nourishment",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -692,7 +635,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "蓝天",
     "en": "blue sky",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -704,7 +646,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "微笑的脸；微笑",
     "en": "smiling face; smile",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -716,7 +657,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "以外；除……之外",
     "en": "excluding; except (for); apart from; other than; besides; in addition to",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -728,7 +668,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "延期",
     "en": "postponement; deferment; adjournment",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -740,7 +679,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "以后；之后；今后",
     "en": "after this; from now on; hereafter; thereafter; since (then); after",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -752,7 +690,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "演奏",
     "en": "musical performance",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -764,7 +701,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "以后",
     "en": "on and after; from ... onward; since",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -776,7 +712,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "远虑；客气；谢绝",
     "en": "reserve; constraint; restraint; modesty; diffidence; hesitation",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -788,7 +723,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "维持",
     "en": "maintenance; preservation; improvement",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -800,7 +734,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "往返",
     "en": "making a round trip; going and returning; coming and going; round-trip ticket; return ticket; correspondence",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -812,7 +745,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "意识",
     "en": "consciousness; becoming aware (of); awareness; sense; mano-vijnana (mental consciousness, cognizer of sensory information)",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -824,7 +756,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "报名参加；应招投考",
     "en": "application; subscription; entry (competition, raffle, etc.); enlistment",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -836,7 +767,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "以前",
     "en": "before; prior to; ago; the past; previously; former times",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -848,7 +778,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "应用",
     "en": "application; putting to practical use; applied (e.g. physics, linguistics, research)",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -860,7 +789,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "位置；地位",
     "en": "place; position; location; standing; status; situation",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -872,7 +800,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "人群；人数众多；大量",
     "en": "crowd of people; great number of people; in great numbers",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -884,7 +811,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一流；头等",
     "en": "first-class; first-rate; top-flight; top-ranking; leading; eminent",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -896,7 +822,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "父母和孩子",
     "en": "parent and child",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -908,7 +833,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一般的；普遍的；普通的；平均的；常见的；非名人",
     "en": "general; universal; ordinary; average; common; non-celebrity",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -920,7 +844,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "温泉；温泉；温泉度假村；温泉水疗",
     "en": "hot spring; onsen; hot spring resort; hot spring spa",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -932,7 +855,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "移动，转移",
     "en": "movement; transfer; migration; removal; travel; mobile",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -944,7 +866,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "会员",
     "en": "member; the membership",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -956,7 +877,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "内；里面；小于",
     "en": "within; inside of; less than",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -968,7 +888,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "画，绘画",
     "en": "painting; picture",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -980,7 +899,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "乡下；农村",
     "en": "rural area; countryside; the sticks; hometown",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -992,7 +910,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "会议",
     "en": "meeting; conference; session; assembly; council; convention",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1004,7 +921,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "印刷",
     "en": "printing",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1016,7 +932,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "会计；算账，付款",
     "en": "accounting; finance; account; reckoning; bill (at a restaurant); check",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1028,7 +943,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "印象",
     "en": "impression",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1040,7 +954,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "解决",
     "en": "settlement; solution; resolution",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1052,7 +965,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "饮料；喝",
     "en": "beverage; drink",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1064,7 +976,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "回收",
     "en": "collection; recovery; withdrawal; retrieval",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1076,7 +987,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "里面；内部的；内部部分",
     "en": "inside; interior; inner part",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1088,7 +998,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "开始",
     "en": "start; commencement; beginning; initiation",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1100,7 +1009,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "宇宙",
     "en": "universe; cosmos; space",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1112,7 +1020,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "开场；开放会场",
     "en": "opening (the doors of a venue); inauguration (of a new building, facility, etc.)",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1124,7 +1031,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "影响",
     "en": "influence; effect; impact",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1136,7 +1042,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "次数；频率；计数",
     "en": "number of times; frequency; count",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1148,7 +1053,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "营业",
     "en": "business; trade; operations; sales",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1160,7 +1064,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "解说，讲解",
     "en": "explanation; commentary; exposition; elucidation",
-    "page": 11,
     "book": "n2"
   },
   {
@@ -1172,7 +1075,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "楼梯；阶段",
     "en": "stairs; stairway; staircase",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1184,7 +1086,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "观察，仔细察看",
     "en": "observation; survey; watching",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1196,7 +1097,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "开店；开始营业",
     "en": "opening a new shop; opening a shop (for the day)",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1208,7 +1108,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "感谢",
     "en": "thanks; gratitude; appreciation; thankfulness",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1220,7 +1119,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "价格",
     "en": "price; value; cost",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1232,7 +1130,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "钦佩，佩服",
     "en": "admiration; being impressed; admirable; praiseworthy; astonishment; being appalled",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1244,7 +1141,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "每个地方；每个地方；各个地方；所有地区（国家、世界等）",
     "en": "each place; every place; various places; all parts (of the country, world, etc.)",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1256,7 +1152,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "关心，感兴趣",
     "en": "concern; interest",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1268,7 +1163,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "确认，证实；判明",
     "en": "confirmation; verification; validation; review; check; affirmation",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1280,7 +1174,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "完成",
     "en": "completion; perfection; accomplishment",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1292,7 +1185,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "过去",
     "en": "the past; bygone days; one's past (that one would prefer remained secret); past (tense); preterit; preterite",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1304,7 +1196,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "干燥",
     "en": "dryness; aridity; drying (e.g. clothes); dehydration; desiccation; insipidity",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1316,7 +1207,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "火灾",
     "en": "conflagration; fire",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1328,7 +1218,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "印象；想法；情怀；反应",
     "en": "impressions; thoughts; feelings; reactions",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1340,7 +1229,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "花坛",
     "en": "flower bed",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1352,7 +1240,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "感动",
     "en": "being deeply moved emotionally; excitement; passion; inspiration; deep emotion; strong impression",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1364,7 +1251,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "电路，线路",
     "en": "value; worth; merit",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1376,7 +1262,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "馆内；楼内",
     "en": "inside a library, museum, cinema, etc.; on the premises",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1388,7 +1273,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "部门经理；科长",
     "en": "section manager; section chief",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1400,7 +1284,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "外出",
     "en": "going out; outing; leaving (one's home, office, etc.)",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1412,7 +1295,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "各国；各国；各国；所有国家",
     "en": "each country; every country; various countries; all countries",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1424,7 +1306,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "在外吃饭",
     "en": "eating out; dining out",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1436,7 +1317,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "活动",
     "en": "activity (of a person, organization, animal, volcano, etc.); action; operation; moving picture",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1448,7 +1328,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "画家；艺术家",
     "en": "painter; artist",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1460,7 +1339,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "家庭",
     "en": "home; household; family; hearth",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1472,7 +1350,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "院，系；本科",
     "en": "faculty (of a university); school; college; department",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1484,7 +1361,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "花瓶",
     "en": "vase",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1496,7 +1372,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "学期；学期",
     "en": "school term; semester",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1508,7 +1383,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "发型；发型；发型",
     "en": "hair style; coiffure; hairdo",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1520,7 +1394,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "乐器",
     "en": "musical instrument",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1532,7 +1405,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "观众",
     "en": "spectator; audience",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1544,7 +1416,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "忍耐，忍受，自制",
     "en": "endurance; patience; perseverance; bearing (with something); self-control; self-restraint",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1556,7 +1427,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "环境",
     "en": "environment; surroundings; circumstances",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1568,7 +1438,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "气温",
     "en": "temperature",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1580,7 +1449,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "关系",
     "en": "relation; relationship; connection; participation; involvement; concern",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1592,7 +1460,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "机器，机械",
     "en": "machine; mechanism; instrument; appliance; apparatus",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1604,7 +1471,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "欢迎；接待处",
     "en": "welcome; reception",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1616,7 +1482,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "期间",
     "en": "period; term; interval",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1628,7 +1493,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "感激",
     "en": "deep emotion; impression; inspiration",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1640,7 +1504,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "企业",
     "en": "enterprise; business; company; corporation",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1652,7 +1515,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "观光，旅游",
     "en": "sightseeing; tourism",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1664,7 +1526,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "期限",
     "en": "term; period; time frame; time limit; deadline; cutoff (date)",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1676,7 +1537,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "护理，看护",
     "en": "nursing; nurse",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1688,7 +1548,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "回国",
     "en": "return to one's country; return to one's hometown",
-    "page": 12,
     "book": "n2"
   },
   {
@@ -1700,7 +1559,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "消息，报导",
     "en": "article; news story; report; account",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1712,7 +1570,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "偶然",
     "en": "coincidence; chance; accident; fortuity; by chance; unexpectedly",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1724,7 +1581,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "基础，根基",
     "en": "foundation; basis",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1736,7 +1592,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "经营，运营",
     "en": "management; administration; operation; running (a business); conducting",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1748,7 +1603,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "规则，规章，章程",
     "en": "rule; regulation",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1760,7 +1614,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "计划，规划",
     "en": "plan; project; schedule; scheme; program; programme",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1772,7 +1625,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "期待，指望",
     "en": "expectation; anticipation; hope; promising; rising; up-and-coming",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1784,7 +1636,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "警察；警官",
     "en": "police officer; policeman; constable",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1796,7 +1647,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "北侧；北岸",
     "en": "north side; north bank",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1808,7 +1658,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "经验",
     "en": "experience",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1820,7 +1669,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "回家",
     "en": "returning home; going home; coming home; getting home",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1832,7 +1680,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "经济",
     "en": "economy; economics; finance; finances; financial circumstances; being economical",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1844,7 +1691,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "票；车票",
     "en": "ticket",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1856,7 +1702,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "《警察",
     "en": "police; police officer; police station; self-appointed enforcer (of a rule, standard, etc.); busybody; vigilante",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1868,7 +1713,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "纪念；庆典；纪念；记忆；纪念；纪念品",
     "en": "commemoration; celebration; remembrance; memory; honoring the memory of; memento",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1880,7 +1724,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "携带；手机",
     "en": "carrying (on one's person or in the hand); mobile phone; cell phone",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1892,7 +1735,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "基本，基础",
     "en": "basics; fundamentals; basis; foundation",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1904,7 +1746,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "经由，经过",
     "en": "going through; going via; going by way of",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1916,7 +1757,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "希望，期望",
     "en": "hope; wish; aspiration; prospects; expectation",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1928,7 +1768,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "景色",
     "en": "scenery; scene; landscape",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1940,7 +1779,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "竞争",
     "en": "competition; contest; rivalry; race; competition (between organisms or species)",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1952,7 +1790,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "结果，归根到底",
     "en": "after all; in the end; ultimately; eventually; conclusion; end",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1964,7 +1801,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "共同",
     "en": "common; shared; mutual; to be common (to); to be shared (by); -wide",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1976,7 +1812,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "结构；相当；不用了",
     "en": "splendid; nice; wonderful; delightful; lovely; excellent",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -1988,7 +1823,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "协力，配合",
     "en": "cooperation; collaboration; help; support",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2000,7 +1834,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "婚姻",
     "en": "marriage",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2012,7 +1845,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "距离",
     "en": "distance; range; interval; difference (e.g. in opinion); gap; metric",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2024,7 +1856,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "缺点",
     "en": "fault; defect; flaw; weak point; weakness; shortcoming",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2036,7 +1867,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "记录",
     "en": "record; document; minutes; log; recording; putting on record",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2048,7 +1878,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "健康；健康；声音；合身；有益健康的",
     "en": "health; healthy; sound; fit; wholesome",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2060,7 +1889,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "邻里；邻里；附近",
     "en": "neighbourhood; neighborhood; vicinity",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2072,7 +1900,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "检查",
     "en": "inspection (e.g. customs, factory); examination; test; check; scan (e.g. MRI, PET); audit",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2084,7 +1911,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "技术",
     "en": "technology; engineering; technique; skill; art; craft",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2096,7 +1922,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "建设",
     "en": "construction; establishment",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2108,7 +1933,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "花；开花植物",
     "en": "flower; flowering plant",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2120,7 +1944,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "建筑",
     "en": "construction; architecture (of buildings)",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2132,7 +1955,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "设法，找窍门",
     "en": "devising (a way); contriving; inventing; thinking up; figuring out; coming up with",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2144,7 +1966,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "艺术",
     "en": "art; the arts",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2156,7 +1977,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "区别；分清",
     "en": "distinction; differentiation; discrimination; difference",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2168,7 +1988,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "原因",
     "en": "cause; origin; source",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2180,7 +1999,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "辛苦；操劳",
     "en": "trouble; hardship; difficulty; labour; labor; toil",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2192,7 +2010,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "原稿，草稿",
     "en": "manuscript; copy; draft; notes; contribution",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2204,7 +2021,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "训练",
     "en": "training; drill; practice; discipline",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2216,7 +2032,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "语言",
     "en": "language",
-    "page": 13,
     "book": "n2"
   },
   {
@@ -2228,7 +2043,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "减少",
     "en": "decrease; reduction; decline",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2240,7 +2054,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "及格；合格",
     "en": "passing (an exam); pass; success; passing grade; meeting (specifications, standards, etc.); passing (inspection)",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2252,7 +2065,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "演讲；讲演",
     "en": "lecture; address; speech",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2264,7 +2076,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "总和；总额",
     "en": "sum total; total amount",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2276,7 +2087,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "高温",
     "en": "high temperature",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2288,7 +2098,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "最终，最后",
     "en": "last; final; closing; last train (bus, flight, etc.; of the day)",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2300,7 +2109,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "效果",
     "en": "effect; effectiveness; efficacy; result; effects (e.g. sound effects, visual effects, special effects)",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2312,7 +2120,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "开始；一开始；第一的；发作",
     "en": "beginning; outset; first; onset",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2324,7 +2131,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "交换，互换",
     "en": "exchange; interchange; switching; reciprocity; barter; substitution",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2336,7 +2142,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "钱包；钱包；零钱包；钱包；钱包",
     "en": "wallet; purse; coin purse; billfold; pocketbook",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2348,7 +2153,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "后期；下半场；后期；妊娠晚期；第二学期",
     "en": "latter period; second half; late stage; third trimester; second semester",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2360,7 +2164,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "工作，劳动，作业",
     "en": "work; operation; task",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2372,7 +2175,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "讲，讲解，讲义",
     "en": "lecture",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2384,7 +2186,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "作者",
     "en": "creator (of a work); author; writer; artist; composer; playwright",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2396,7 +2197,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "公共；公用",
     "en": "public (facilities, service, etc.); communal",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2408,7 +2208,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "作品",
     "en": "work (e.g. book, film, painting, composition); piece; production; opus",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2420,7 +2219,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "工业",
     "en": "industry",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2432,7 +2230,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "昨晚；昨天晚上",
     "en": "last night; yesterday evening",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2444,7 +2241,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "航空；飞行",
     "en": "aviation; flying",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2456,7 +2252,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "作家",
     "en": "author; writer; novelist; artist",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2468,7 +2263,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "广告",
     "en": "advertisement; advertising; announcement; notice",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2480,7 +2274,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "算术；计算",
     "en": "arithmetic; calculation",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2492,7 +2285,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "工事，工程",
     "en": "construction work",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2504,7 +2296,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "赞成",
     "en": "approval; agreement; support; favour; favor",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2516,7 +2307,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "红茶",
     "en": "black tea",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2528,7 +2318,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "材料",
     "en": "materials; ingredients; material (for a novel, experiment, etc.); subject matter; grounds (for a decision, judgement, etc.); basis",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2540,7 +2329,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "交通",
     "en": "traffic; transportation; communication; exchange (of ideas, etc.); intercourse",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2552,7 +2340,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "杂志；杂志；期刊",
     "en": "magazine; journal; periodical",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2564,7 +2351,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "行动，行为",
     "en": "action; conduct; behaviour; behavior; mobilization; mobilisation",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2576,7 +2362,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "试验；考试",
     "en": "examination; exam; test; trial; experiment",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2588,7 +2373,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "下半场；后半段",
     "en": "second half; latter half",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2600,7 +2384,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "资源",
     "en": "resources",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2612,7 +2395,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "后方；后面",
     "en": "rear; back; behind",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2624,7 +2406,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "指示，吩咐",
     "en": "indication; denotation; designation; instructions; directions",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2636,7 +2417,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "交流",
     "en": "exchange (e.g. cultural); interchange; interaction; mingling; mixing; coming together",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2648,7 +2428,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "姿势",
     "en": "posture; pose; position; stance; carriage (of the body); attitude",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2660,7 +2439,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "国家语言；日语（尤其是日本的学校科目）；一个人的母语；母语；日语本土单词（与外来词和源自中文的单词相反）",
     "en": "national language; Japanese language (esp. as a school subject in Japan); one's native language; mother tongue; native Japanese words (as opposed to loanwords and Chinese-derived words)",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2672,7 +2450,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "自然界；自然状态",
     "en": "nature; natural; spontaneous; automatic; naturally; spontaneously",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2684,7 +2461,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "国际",
     "en": "international; diplomatic intercourse",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2696,7 +2472,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "市长",
     "en": "mayor",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2708,7 +2483,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "个人",
     "en": "individual; private person; personal; private; natural person",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2720,7 +2494,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "失败；错误；错误",
     "en": "failure; mistake; blunder",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2732,7 +2505,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "混乱，杂乱",
     "en": "congestion; crush; crowding; jam; confusion; disorder",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2744,7 +2516,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "指定",
     "en": "designation; specification; assignment; appointment; pointing at",
-    "page": 14,
     "book": "n2"
   },
   {
@@ -2756,7 +2527,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "支店，分销店，分行",
     "en": "branch office; branch store",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2768,7 +2538,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "消费",
     "en": "consumption; expenditure; spending",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2780,7 +2549,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "指导，教导",
     "en": "guidance; leadership; instruction; direction; coaching; shido (minor penalty in judo)",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2792,7 +2560,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "商品",
     "en": "commodity; article of commerce; goods; stock; merchandise",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2804,7 +2571,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "（当天）第一次出发；首班车；首班车；从出发站（公共汽车、火车等）出发",
     "en": "first departure (of the day); first train; first bus; departing from the starting station (of a bus, train, etc.)",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2816,7 +2582,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "证明",
     "en": "proof; testimony; demonstration; verification; certification",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2828,7 +2593,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "草坪；草；草皮",
     "en": "lawn; grass; turf",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2840,7 +2604,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "前面；临街面；正面；主要",
     "en": "front; frontage; facade; main",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2852,7 +2615,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "市民",
     "en": "citizen (of a country); citizenry; citizen (of a city); resident; inhabitant; townspeople",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2864,7 +2626,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "将来",
     "en": "future; prospects; bringing (from abroad, another region, etc.); bringing about; giving rise to; causing",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2876,7 +2637,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "姓名；身份",
     "en": "name; identity",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2888,7 +2648,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "食欲",
     "en": "appetite (for food)",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2900,7 +2659,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "汽车内（火车、公共汽车等）",
     "en": "inside a car (train, bus, etc.)",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2912,7 +2670,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "餐具",
     "en": "tableware",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2924,7 +2681,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "习惯",
     "en": "habit; custom; practice; convention; tradition",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2936,7 +2692,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "文件；论文",
     "en": "document; papers",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2948,7 +2703,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "就业，就职，找到工作",
     "en": "finding employment; getting a job",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2960,7 +2714,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "资料",
     "en": "material; materials; data; information; documents",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2972,7 +2725,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "集中",
     "en": "concentration (on a task); focusing one's attention; concentration (of population, buildings, power, etc.); centralization; convergence; focus (of a debate, questions, etc.)",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2984,7 +2736,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "升学",
     "en": "advancing to the next stage of education; going on to (high school, college, etc.)",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -2996,7 +2747,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "收入，所得",
     "en": "income; earnings; revenue; proceeds; takings; receipts",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3008,7 +2758,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "进行，前进；进展",
     "en": "moving forward (e.g. of a vehicle); onward movement; progress (of work, activities, etc.); advance; making headway; progression (of a disease, global warming, etc.)",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3020,7 +2769,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "结束，完了；作完；期满",
     "en": "end; close; conclusion; termination",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3032,7 +2780,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "申请",
     "en": "application; request; petition",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3044,7 +2791,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "国定假日；公众假期",
     "en": "national holiday; public holiday",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3056,7 +2802,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "心脏",
     "en": "heart; guts; nerve; cheek; gall; spine",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3068,7 +2813,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "手术",
     "en": "surgery; operation; procedure; skill with one's hands; sleight of hand",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3080,7 +2824,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "担心；忧虑；焦虑；不安；害怕；照顾",
     "en": "worry; concern; anxiety; uneasiness; fear; care",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3092,7 +2835,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "手段，办法",
     "en": "means; way; measure",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3104,7 +2846,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "进步",
     "en": "progress; advance; improvement; development",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3116,7 +2857,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "主张",
     "en": "claim; insistence; assertion; advocacy; emphasis; contention",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3128,7 +2868,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "森林",
     "en": "forest; woods",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3140,7 +2879,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "上班",
     "en": "going to work; leaving for work; attendance (at work); being at work; presence (in the office); reporting for work",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3152,7 +2890,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "时期，时候；期间",
     "en": "time; season; period; phase; stage",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3164,7 +2901,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "某人的出身（例如城市、国家、父母、学校）",
     "en": "one's origin (e.g. city, country, parentage, school)",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3176,7 +2912,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "按小时计酬；小时工资",
     "en": "hourly pay; hourly wage",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3188,7 +2923,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "种类",
     "en": "variety; kind; type; category; counter for kinds, species, etc.",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3200,7 +2934,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "事件，案件",
     "en": "event; affair; incident; case; plot; trouble",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3212,7 +2945,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "使用",
     "en": "use; application; employment; utilization; utilisation",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3224,7 +2956,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "时间；小时；有利的时间；机会；机会",
     "en": "time; hour; favourable time; opportunity; chance",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3236,7 +2967,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "简介；推介会；转介；展示（产品的）",
     "en": "introduction; presentation; referral; showcase (of a product)",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3248,7 +2978,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "带来，带去",
     "en": "bringing; taking; carrying",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3260,7 +2989,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "邀请，招待",
     "en": "invitation",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3272,7 +3000,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "情形，情况；缘故",
     "en": "circumstances; conditions; situation; reasons; state of affairs",
-    "page": 15,
     "book": "n2"
   },
   {
@@ -3284,7 +3011,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "自信",
     "en": "self-confidence; confidence (in oneself)",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3296,7 +3022,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "人体",
     "en": "human body",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3308,7 +3033,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "时代",
     "en": "period; epoch; era; age; the times; those days",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3320,7 +3044,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "睡眠",
     "en": "sleep",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3332,7 +3055,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "自己家；住宅",
     "en": "one's home; one's house",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3344,7 +3066,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "数学",
     "en": "mathematics",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3356,7 +3077,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "老家；父母家",
     "en": "home",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3368,7 +3088,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "数字",
     "en": "numeral; digit; numeric character; figure; number; a few characters",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3380,7 +3099,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "实验",
     "en": "experiment; experimentation",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3392,7 +3110,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "正确答案",
     "en": "correct answer; right solution; correct interpretation; right decision; right choice; appropriate judgement",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3404,7 +3121,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "执行（例如计划）；进行；实践；行动；执行；履行",
     "en": "execution (e.g. of a plan); carrying out; practice; action; implementation; fulfillment",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3416,7 +3132,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "限制，限度",
     "en": "restriction; restraint; limitation; limit",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3428,7 +3143,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "实际使用；效用",
     "en": "practical use; utility",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3440,7 +3154,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "清扫；打扫",
     "en": "cleaning; clean-up; garbage collection; scavenging",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3452,7 +3165,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "实力",
     "en": "ability; true strength; merit; efficiency; competency; arms",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3464,7 +3176,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "制服",
     "en": "uniform",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3476,7 +3187,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "自满，自大",
     "en": "pride (in one's achievements, possessions, etc.); self-praise; boast",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3488,7 +3198,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "设备，装备",
     "en": "equipment; facilities; installation; accommodations; conveniences; arrangements",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3500,7 +3209,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "办公室工作；文书工作；行政；商业；事务",
     "en": "office work; clerical work; administration; business; affairs",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3512,7 +3220,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "前几天；几天前",
     "en": "the other day; a few days ago",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3524,7 +3231,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "进展不顺利，停滞不前",
     "en": "congestion; traffic jam; gridlock; delay; stagnation",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3536,7 +3242,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "洗衣服；洗涤",
     "en": "washing; laundry; relaxation; rejuvenation; melting away (of worries, fatigue, etc.)",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3548,7 +3253,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "报考",
     "en": "taking an examination (esp. for entrance to a school or university)",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3560,7 +3264,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "宣传",
     "en": "publicity; advertisement; advertising; propaganda",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3572,7 +3275,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "需要；需求",
     "en": "demand; need",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3584,7 +3286,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "（年龄，经验上的）先辈；学长",
     "en": "senior (at school, work, etc.); superior; elder; older person; predecessor",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3596,7 +3297,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "轮流，顺序",
     "en": "order; turn",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3608,7 +3308,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "专业；专门",
     "en": "speciality; specialty; special subject of study; area of expertise; field; major",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3620,7 +3319,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "准备工作；安排；准备工作；条款；设置；保留",
     "en": "preparation; arrangements; getting ready; provision; setup; reserving",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3632,7 +3330,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "所有成员；所有的手；每个人；大家；全体船员",
     "en": "all members; all hands; everyone; everybody; whole crew",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3644,7 +3341,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "上司",
     "en": "superior; boss; the higher-ups",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3656,7 +3352,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "前后；左右",
     "en": "front and rear; front and back; before and behind; back and forth; before and after; around",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3668,7 +3363,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "乘车；上车",
     "en": "boarding (a train, bus, etc.); getting into (e.g. a taxi)",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3680,7 +3374,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "上半场",
     "en": "first half",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3692,7 +3385,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "状态",
     "en": "state; condition; situation; appearance; circumstances",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3704,7 +3396,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "仓库；仓库；仓库",
     "en": "storehouse; warehouse; godown",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3716,7 +3407,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "玩笑；笑话",
     "en": "joke; jest; funny story",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3728,7 +3418,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "打扫；清扫",
     "en": "cleaning; sweeping; dusting; scrubbing",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3740,7 +3429,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "女人；女性；女性性别",
     "en": "woman; female; feminine gender",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3752,7 +3440,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "传输；发送",
     "en": "transmission; sending",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3764,7 +3451,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "神社",
     "en": "Shinto shrine",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3776,7 +3462,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "想象",
     "en": "imagination; supposition; guess",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3788,7 +3473,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "人生",
     "en": "life",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3800,7 +3484,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "清晨",
     "en": "early morning",
-    "page": 16,
     "book": "n2"
   },
   {
@@ -3812,7 +3495,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "适合；相当于；相当",
     "en": "corresponding to (in meaning, function, etc.); being equivalent to; appropriate; suitable; befitting; proportionate",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3824,7 +3506,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "顶峰；顶点",
     "en": "top; summit; peak",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3836,7 +3517,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "邮费；运输；运费",
     "en": "postage; carriage; shipping charge",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3848,7 +3528,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "走读",
     "en": "commuting to school; school commute",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3860,7 +3539,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "外部；外部；外；外部的；横向",
     "en": "exterior; outside; outer; external; lateral",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3872,7 +3550,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "上下班，通勤",
     "en": "commuting to work",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3884,7 +3561,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "尊敬",
     "en": "respect; esteem; reverence; honour; honor",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3896,7 +3572,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "口译；翻译人员",
     "en": "interpretation (i.e. oral translation); interpreter",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3908,7 +3583,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "增加",
     "en": "increase; rise; growth; addition; increment",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3920,7 +3594,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "道路；通路，过道",
     "en": "passage; pathway; roadway; avenue; aisle",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3932,7 +3605,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "逗留，旅居",
     "en": "stay; sojourn",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3944,7 +3616,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "定员，编制员额",
     "en": "fixed number (of people); prescribed number (of regular personnel, students, etc.); quota; numerical limit; complement; capacity (of a bus, boat, theatre, etc.)",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3956,7 +3627,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "体操",
     "en": "gymnastics; physical exercises; artistic gymnastics; gymnastics competition; physical education (class); PE",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3968,7 +3638,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "降低；下降",
     "en": "fall; decline; lowering; deterioration; degradation",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3980,7 +3649,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "大量",
     "en": "large quantity; massive (quantity); mass (e.g. mass production, mass transit, mass destruction)",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -3992,7 +3660,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "固定期限；固定期限；常规的；周期性的；期刊；定期月票",
     "en": "fixed period; fixed term; regular; periodic; periodical; fixed-term commuter pass",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4004,7 +3671,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "体力",
     "en": "physical strength; power; stamina; endurance; vigor; resistance to disease",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4016,7 +3682,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "停电；停电；停电；停电",
     "en": "power outage; power failure; power cut; blackout",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4028,7 +3693,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "单词",
     "en": "word; vocabulary",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4040,7 +3704,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "笔记本；便笺；日记；证书；身份证",
     "en": "notebook; memo pad; diary; certificate; identification card",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4052,7 +3715,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "诞生",
     "en": "birth (of a person); nativity; creation; formation; birth; origin",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4064,7 +3726,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "铁路",
     "en": "railroad; railway; rail transport",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4076,7 +3737,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "货款",
     "en": "price; cost; charge; payment; bill; fee",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4088,7 +3748,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "手套；手套；手套",
     "en": "glove; mitten; mitt",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4100,7 +3759,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "表示；代表；代表；代表团；范例；典型化",
     "en": "representation; representative; delegate; delegation; exemplification; typification",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4112,7 +3770,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "转职，调动工作",
     "en": "job transfer; job relocation; intra-company transfer",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4124,7 +3781,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "团体，集体",
     "en": "group; party; team; organization; organisation; association",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4136,7 +3792,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "天花板；最高限价",
     "en": "ceiling; ceiling price",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4148,7 +3803,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "地下",
     "en": "underground; below the ground; world of the dead; the grave; underground (activities, movement, etc.); secret",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4160,7 +3814,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "店长",
     "en": "shop manager",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4172,7 +3825,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "迟到；迟到；迟到",
     "en": "lateness; tardiness; arriving late",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4184,7 +3836,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "灯泡",
     "en": "light bulb",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4196,7 +3847,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "知识",
     "en": "knowledge; information",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4208,7 +3858,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "传话，口信",
     "en": "message; word (from someone)",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4220,7 +3869,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "中心",
     "en": "center; centre; middle; heart; core; focus",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4232,7 +3880,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "有关日期；指定日期；就在那一天； (发行、出版等的)日期",
     "en": "day in question; appointed day; that very day; the day (of issue, publication, etc.)",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4244,7 +3891,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "中旬",
     "en": "middle ten days of a month; 11th to 20th day of a month",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4256,7 +3902,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "登场，上场，出演",
     "en": "entrance (on the stage); appearance (in a book, film, etc.); appearance (on the scene); arrival (on the market); emergence; introduction",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4268,7 +3913,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "订单（针对某件商品）；要求；要求；条件",
     "en": "order (for an item); request; demand; condition",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4280,7 +3924,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "到达",
     "en": "arrival",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4292,7 +3935,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "调查",
     "en": "investigation; examination; inquiry; enquiry; survey",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4304,7 +3946,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "都市，城市",
     "en": "city; Tokyo Metropolitan Assembly",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4316,7 +3957,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "状态；情况；语调",
     "en": "tune; tone; key; pitch; time; rhythm",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4328,7 +3968,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "特征，特色",
     "en": "feature; trait; characteristic; peculiarity; distinction",
-    "page": 17,
     "book": "n2"
   },
   {
@@ -4340,7 +3979,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "登山；登山；登一座山",
     "en": "mountain climbing; mountaineering; ascent of a mountain",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4352,7 +3990,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "睡得很晚；睡过头；晚起者；瞌睡虫",
     "en": "sleeping in late; oversleeping; late riser; sleepyhead",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4364,7 +4001,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "土地",
     "en": "plot of land; lot; soil; locality; region; place",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4376,7 +4012,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "年龄",
     "en": "age; years",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4388,7 +4023,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "途中，中途",
     "en": "on the way; en route; in the middle of; midway; halfway",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4400,7 +4034,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "农业；农业",
     "en": "agriculture; farming",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4412,7 +4045,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "步行；步行",
     "en": "walking; going on foot",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4424,7 +4056,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "送，投递",
     "en": "delivery",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4436,7 +4067,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "同时；同时；并发；同步的",
     "en": "same time; simultaneous; concurrent; synchronous",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4448,7 +4078,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "发音；声音的产生",
     "en": "pronunciation; production of sound",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4460,7 +4089,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "独立",
     "en": "independence; self-reliance; supporting oneself; being on one's own; independence (e.g. of a nation); freedom",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4472,7 +4100,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "发生；出现",
     "en": "occurrence; incidence; outbreak; birth (e.g. of civilization); generation (of power, heat, etc.); production",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4484,7 +4111,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "努力",
     "en": "effort; exertion; endeavour; endeavor; hard work; striving",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4496,7 +4122,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "发展",
     "en": "development; growth; expansion; extension; flourishing; development (of a situation, story, etc.)",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4508,7 +4133,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "货物，行李",
     "en": "luggage; baggage; package; burden; payload (of a packet, cell, etc.)",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4520,7 +4144,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "发售，出售",
     "en": "sale; offering for sale; putting on sale; putting on the market; release (for sale)",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4532,7 +4155,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "内容",
     "en": "contents; content; substance; matter; detail; import",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4544,7 +4166,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "小卖部；售货亭",
     "en": "stand; stall; booth; kiosk; store",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4556,7 +4177,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "伙伴，同事",
     "en": "companion; fellow; friend; mate; comrade; partner",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4568,7 +4188,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "比较",
     "en": "comparison",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4580,7 +4199,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "内容；内部的；填充；物质；内容；刀片",
     "en": "contents; interior; filling; substance; content; blade",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4592,7 +4210,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "紧急情况；极端；伟大的；非凡的；卓越；不寻常的",
     "en": "emergency; extreme; great; extraordinary; remarkable; unusual",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4604,7 +4221,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "理解，领会，信服",
     "en": "consent; agreement; acceptance; understanding; satisfaction (e.g. with an explanation); being convinced",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4616,7 +4232,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "否定",
     "en": "denial; negation; repudiation; disavowal; NOT operation",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4628,7 +4243,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "日期和时间（会议、离开等）；天和小时",
     "en": "date and time (of a meeting, departure, etc.); days and hours",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4640,7 +4254,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "人们",
     "en": "people; men and women; each person; everybody",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4652,7 +4265,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "日常",
     "en": "everyday; daily; ordinary; usual; routine; regular",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4664,7 +4276,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "避难",
     "en": "taking refuge; finding shelter; evacuation; escape; seeking safe haven",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4676,7 +4287,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "阳光",
     "en": "sunlight; sunshine; sunbeams; Nikkō (city in Tochigi); Suryaprabha (bodhisattva)",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4688,7 +4298,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "秘密",
     "en": "secret; secrecy; confidentiality; privacy; mystery; secret (e.g. to success)",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4700,7 +4309,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "日程，每天的计划",
     "en": "schedule; program; programme; agenda",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4712,7 +4320,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "（书籍、杂志等的）封面；绑定；出现在杂志封面上",
     "en": "cover (of a book, magazine, etc.); binding; to appear on the cover of a magazine",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4724,7 +4331,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "初学；入门",
     "en": "becoming a pupil (of); becoming a disciple; entering an institution; beginning training; introduction (to); primer",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4736,7 +4342,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "表面",
     "en": "surface; face; outside; exterior; appearances; superficiality",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4748,7 +4353,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "输入",
     "en": "input; entry; typing",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4760,7 +4364,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "白天；白天；从日出到日落的时间；昼夜周期",
     "en": "daytime; during the day; time from sunrise until sunset; diurnal period",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4772,7 +4375,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "人气；受欢迎",
     "en": "popularity; public favor; condition (e.g. market); tone; character; nature",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4784,7 +4386,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "夫妇，夫妻",
     "en": "married couple; husband and wife; man and wife",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4796,7 +4397,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "人，人类；人品",
     "en": "human being; human; person; man; mankind; humankind",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4808,7 +4408,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "复数",
     "en": "plural; multiple; plural (number)",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4820,7 +4419,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "人数；很多人；很多人",
     "en": "the number of people; many people; a large number of people",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4832,7 +4430,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "服装，服饰",
     "en": "attire; dress; clothes; clothing; costume; garb",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4844,7 +4441,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "价格；成本",
     "en": "price; cost",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4856,7 +4452,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "胃痛；腹痛",
     "en": "stomach ache; abdominal pain",
-    "page": 18,
     "book": "n2"
   },
   {
@@ -4868,7 +4463,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "不足，不够；缺乏，不充分",
     "en": "insufficiency; deficiency; shortage; lack; scarcity; deficit",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -4880,7 +4474,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "客满；没有空房间；售罄；仅限站立空间；充满（人）；拥挤",
     "en": "full house; no vacancy; sold out; standing room only; full (of people); crowded",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -4892,7 +4485,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "旧衣服；二手衣服",
     "en": "old clothes; secondhand clothing",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -4904,7 +4496,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "满足，满意；完满",
     "en": "satisfaction; contentment; gratification; sufficient; satisfactory; enough",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -4916,7 +4507,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "部下，下属",
     "en": "subordinate person",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -4928,7 +4518,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "看法；观点；观看方式",
     "en": "viewpoint; point of view; way of looking (at something); view; angle; way of appreciating (e.g. opera)",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -4940,7 +4529,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "零部件",
     "en": "parts; accessories; components",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -4952,7 +4540,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "样品；例子，榜样",
     "en": "sample; specimen; pattern; model; example",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -4964,7 +4551,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "部分",
     "en": "portion; section; part",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -4976,7 +4562,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "蛀牙；蛀牙；牙洞；龋齿",
     "en": "tooth decay; decayed tooth; dental cavity; dental caries",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -4988,7 +4573,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "分类",
     "en": "classification; categorization; sorting",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5000,7 +4584,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "儿子；阴茎",
     "en": "son; penis",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5012,7 +4595,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "变化",
     "en": "change; variation; alteration; mutation; transition; transformation",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5024,7 +4606,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "免费（免费）；无偿的",
     "en": "free (of charge); gratuitous",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5036,7 +4617,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "便当；日式便当",
     "en": "bento; Japanese box lunch",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5048,7 +4628,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "名片",
     "en": "business card",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5060,7 +4639,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "方向",
     "en": "direction; orientation; bearing; way; course (e.g. of action)",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5072,7 +4650,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "命令",
     "en": "order; command; decree; directive; (software) instruction; statement",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5084,7 +4661,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "报告",
     "en": "report; information",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5096,7 +4672,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "批准，许可；执照",
     "en": "license; licence; permission; permit; certificate; driver's license",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5108,7 +4683,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "菜刀",
     "en": "kitchen knife; cooking; food",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5120,7 +4694,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "面试",
     "en": "interview (e.g. for a job)",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5132,7 +4705,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "方法；方式；方式；过程；程序；意味着",
     "en": "method; way; manner; process; procedure; means",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5144,7 +4716,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "目标",
     "en": "goal; target; aim; objective; mark; sign",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5156,7 +4727,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "访问",
     "en": "call; visit",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5168,7 +4738,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "文字",
     "en": "letter (of an alphabet); character; writing",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5180,7 +4749,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "保存",
     "en": "preservation; conservation; storage; maintenance; save (to storage)",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5192,7 +4760,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "故事；传说",
     "en": "story; tale; narrative; account; fable; legend",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5204,7 +4771,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "人行道",
     "en": "footpath; walkway; sidewalk; pavement",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5216,7 +4782,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "此举；不满，异议",
     "en": "complaint; grumbling; objection; phrase; words; expression",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5228,7 +4793,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "今天；这一天",
     "en": "today; this day",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5240,7 +4804,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "夜间",
     "en": "night; nighttime",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5252,7 +4815,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "书架；书架；书柜",
     "en": "bookshelves; bookshelf; bookcase",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5264,7 +4826,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "棒球",
     "en": "baseball",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5276,7 +4837,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "真相；现实；现实；事实；恰当的；对",
     "en": "truth; reality; actuality; fact; proper; right",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5288,7 +4848,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "分配任务，分派职务",
     "en": "part; assigning (allotment of) parts; role; duties",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5300,7 +4859,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "贸易",
     "en": "trade; commerce; importing and exporting",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5312,7 +4870,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "房租",
     "en": "rent",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5324,7 +4881,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "帽子",
     "en": "hat; cap; cap (move)",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5336,7 +4892,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "屋顶",
     "en": "roof",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5348,7 +4903,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "募集，征募",
     "en": "recruitment; invitation; selection; advertisement; taking applications; raising (funds, donations, etc.)",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5360,7 +4914,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "取得冠军",
     "en": "overall victory; championship; winning the title; heaven; bliss; perfect contentment",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5372,7 +4925,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "窗口",
     "en": "counter; window; teller window; ticket window; contact person; point of contact",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5384,7 +4936,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "友情",
     "en": "friendship; fellowship; camaraderie",
-    "page": 19,
     "book": "n2"
   },
   {
@@ -5396,7 +4947,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "朋友",
     "en": "friend",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5408,7 +4958,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "流行",
     "en": "fashion; trend; vogue; craze; fad; popularity",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5420,7 +4969,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "邮寄",
     "en": "mailing; posting",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5432,7 +4980,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "费用；收费；票价",
     "en": "fee; charge; fare",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5444,7 +4991,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "收费；有薪酬的；不是免费的；收费公路",
     "en": "fee-charging; paid; not free; toll road",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5456,7 +5002,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "旅馆；传统的日式旅馆",
     "en": "ryokan; traditional Japanese inn",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5468,7 +5013,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "进口；输入；介绍；传入的",
     "en": "import; importation; introduction; afferent",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5480,7 +5024,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "不在家；看家",
     "en": "absence; being away from home; house-sitting; house-sitter; neglecting (e.g. one's studies); leaving unattended",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5492,7 +5035,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "容器",
     "en": "container; receptacle; vessel; packaging",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5504,7 +5046,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "走廊",
     "en": "corridor; hallway; passageway",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5516,7 +5057,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "用纸；表格纸",
     "en": "blank form; sheets of paper; sheet of paper",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5528,7 +5068,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "年轻人",
     "en": "young person; youngster; young people; youth",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5540,7 +5079,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "第二天",
     "en": "next day",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5552,7 +5090,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "日本料理；日本菜；日本料理",
     "en": "Japanese food; Japanese dish; Japanese cuisine",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5564,7 +5101,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "预料，预计",
     "en": "expectation; anticipation; prediction; forecast; conjecture",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5576,7 +5112,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "比例",
     "en": "rate; ratio; percentage; proportion; comparatively; contrary to expectations",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5588,7 +5123,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "到店；光临店铺",
     "en": "coming to a store (restaurant, bar, shop, etc.)",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5600,7 +5134,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "打折，折扣",
     "en": "discount; reduction; rebate; tenths discounted; tenths reduced",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5612,7 +5145,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "空置房屋；无人居住的房子",
     "en": "vacant house; unoccupied house",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5624,7 +5156,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "丢失的财产；有东西掉落并留下；掉东西（没有意识到）；失去一些东西",
     "en": "lost property; something dropped and left behind; dropping something (without realising); losing something",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5636,7 +5167,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "邻里；邻里；附近；附近；周围环境；大约",
     "en": "neighbourhood; neighborhood; vicinity; nearby; surroundings; around",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5648,7 +5178,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "老人；老人；老年人",
     "en": "old person; elderly person; senior citizen",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5660,7 +5189,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "自然；合理的；明显的；通常；常见的；普通的",
     "en": "natural; reasonable; obvious; usual; common; ordinary",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5672,7 +5200,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "肚子；腹部",
     "en": "belly; abdomen; stomach",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5684,7 +5211,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "个人身份证号码；别针；密码号码",
     "en": "personal identification number; PIN; password number",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5696,7 +5222,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "请求；拜托",
     "en": "request; favour (to ask); wish; please",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5708,7 +5233,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "有生命的东西；生物；动物；生活",
     "en": "living thing; living creature; animal; life",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5720,7 +5244,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "探望病人；慰问",
     "en": "visit (to someone affected by illness or misfortune); call; inquiry (about someone's health); expression of sympathy; letter of inquiry; letter of sympathy",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5732,7 +5255,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "手表；手表",
     "en": "wristwatch; watch",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5744,7 +5266,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "旅行（旅行）时购买的当地特产或纪念品；访客带来的礼物；给予某人不愉快的事情（例如度假时生病）；不受欢迎的礼物；损害",
     "en": "local specialty or souvenir bought as a gift while traveling (travelling); present brought by a visitor; something unpleasant that one is given (e.g. an illness while on vacation); unwelcome gift; disservice",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5756,7 +5277,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "司机；司机",
     "en": "driver; chauffeur",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5768,7 +5288,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "回忆；回忆；回忆",
     "en": "memories; recollections; reminiscence",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5780,7 +5299,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "颜料；绘画颜料",
     "en": "paint; coloring materials; colors; colours",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5792,7 +5310,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "感谢；谢礼",
     "en": "thanks; gratitude; manners; etiquette; bow; reward",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5804,7 +5321,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "祝贺；恭喜；庆典；节日；祝贺礼物；现在",
     "en": "congratulation; congratulations; celebration; festival; congratulatory gift; present",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5816,7 +5332,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "检票口；检票口；检票口",
     "en": "ticket barrier; ticket gate; wicket",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5828,7 +5343,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "糖果；糖果；糖果；蛋糕",
     "en": "confections; sweets; candy; cake",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5840,7 +5354,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "霉；霉菌",
     "en": "mold; mildew",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5852,7 +5365,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "通知；通知",
     "en": "notice; notification",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5864,7 +5376,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "环境问题；环境问题",
     "en": "environmental problem; environmental issue",
-    "page": 20,
     "book": "n2"
   },
   {
@@ -5876,7 +5387,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "护士；注册护士；护士长",
     "en": "nurse; registered nurse; RN",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -5888,7 +5398,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "专卖店；专营特定类型产品的商店",
     "en": "specialist shop; shop specializing in a particular type of product",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -5900,7 +5409,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "咖啡厅；茶室；咖啡厅；咖啡馆；咖啡店；基萨滕",
     "en": "coffee shop; tearoom; coffee lounge; coffeehouse; cafe; kissaten",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -5912,7 +5420,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "吸尘器；真空；胡佛；清洁装置",
     "en": "vacuum cleaner; vacuum; hoover; cleaning device",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -5924,7 +5431,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "浑浊；多云天气；雾（镜子、眼镜等上）；云彩（例如大理石）；模糊；薄雾",
     "en": "cloudiness; cloudy weather; fog (on a mirror, glasses, etc.); cloud (e.g. in marble); blur; mist",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -5936,7 +5442,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "毕业论文",
     "en": "graduation thesis",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -5948,7 +5453,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "轮椅",
     "en": "wheelchair",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -5960,7 +5464,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "祖父母",
     "en": "grandparents",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -5972,7 +5475,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "警察；警察；女警察",
     "en": "police officer; policeman; policewoman",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -5984,7 +5486,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "各自；分别；各个",
     "en": "each; respectively",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -5996,7 +5497,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "手机；移动电话",
     "en": "mobile phone; cell phone",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6008,7 +5508,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "研究生院",
     "en": "graduate school",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6020,7 +5519,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "结婚典礼；婚礼；婚礼",
     "en": "marriage ceremony; wedding; nuptials",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6032,7 +5530,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "自助畅吃；不限量",
     "en": "all-you-can-eat; eating as much as one likes",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6044,7 +5541,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "高速公路",
     "en": "highway; freeway; expressway; motorway",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6056,7 +5552,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "纸板箱；纸盒；瓦楞纸箱",
     "en": "cardboard box; carton; corrugated box",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6068,7 +5563,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "交通安全；行车安全；道路安全",
     "en": "traffic safety; driving safety; road safety",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6080,7 +5574,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "很长时间；几个小时；长咒语",
     "en": "long time; several hours; long spell",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6092,7 +5585,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "国际交流",
     "en": "international exchange",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6104,7 +5596,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "调味料；调味品；调味品；调味品",
     "en": "seasoning; flavoring; flavouring; condiment",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6116,7 +5607,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "个人信息",
     "en": "personal information",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6128,7 +5618,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "流动；流水；潮流",
     "en": "flow (of a fluid or gas); stream; current; flow (of people, things); passage (of time); tide",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6140,7 +5629,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "说法，措词",
     "en": "speech; expression; wording; language",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6152,7 +5640,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "夏季节日；夏日祭",
     "en": "summer festival; summer matsuri",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6164,7 +5651,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "您的爱好",
     "en": "your hobby; your interests",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6176,7 +5662,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "人际关系；人际关系",
     "en": "human relations; personal relationships",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6188,7 +5673,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "您自己；本人",
     "en": "yourself; himself; herself",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6200,7 +5684,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "按人数的份量；人数份",
     "en": "per-capita division; division according to the number of people",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6212,7 +5695,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "商量；咨询",
     "en": "consultation; request for advice",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6224,7 +5706,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "落空；不中；边缘",
     "en": "end; verge; extremity; tip; outskirts; miss",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6236,7 +5717,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "幸福；福；运气；祝福",
     "en": "happiness; good fortune; luck; blessing",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6248,7 +5728,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "说话的声音；说话的声音",
     "en": "speaking voice; talking voice",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6260,7 +5739,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "自己；自身",
     "en": "oneself; myself",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6272,7 +5750,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "印章；图章",
     "en": "personal seal; stamp",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6284,7 +5761,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "市政府办公室；理事会；市政厅",
     "en": "municipal office; council; city hall",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6296,7 +5772,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "一个人过日子，独居",
     "en": "living by oneself; living alone",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6308,7 +5783,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "品牌名称；商品名称；产品名称",
     "en": "brand name; trade name; product name",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6320,7 +5794,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "美容院；美容院；美容院；美发沙龙",
     "en": "beauty parlour; beauty parlor; beauty salon; hairdressing salon",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6332,7 +5805,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "新员工；新员工；新员工",
     "en": "new employee; freshman employee; new hire",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6344,7 +5816,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "不动产",
     "en": "real estate",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6356,7 +5827,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "新学生；新生；一年级学生",
     "en": "new student; freshman; first-year student",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6368,7 +5838,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "幼儿园；日间托儿所；日托中心",
     "en": "nursery school; day nursery; day care center",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6380,7 +5849,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "一切；全部；整体；完全；完全地；完全地",
     "en": "everything; all; the whole; entirely; completely; wholly",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6392,7 +5860,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "节日；盛宴；祭；受到互联网暴民的骚扰；网上羞辱；燃烧的",
     "en": "festival; feast; matsuri; harassment by an Internet pitchfork mob; online shaming; flaming",
-    "page": 21,
     "book": "n2"
   },
   {
@@ -6404,7 +5871,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "周长；周长；周围环境；邻里；邻里；附近",
     "en": "circumference; girth; surroundings; neighbourhood; neighborhood; vicinity",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6416,7 +5882,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "邮局",
     "en": "post office",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6428,7 +5893,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "登山；登山",
     "en": "mountain climbing; mountaineering",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6440,7 +5904,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "冰箱；冰箱",
     "en": "refrigerator; fridge",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6452,7 +5915,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "去爱",
     "en": "to love",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6464,7 +5926,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "移动（到另一个地方或州）；改变（例如国家、隶属关系、风景等）；被转移；传播（火、气味等）；染上（疾病）；被感染",
     "en": "to move (to another place or state); to change (e.g. of state, affiliation, scenery, etc.); to be transferred; to spread (of a fire, smell, etc.); to catch (an illness); to be infected",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6476,7 +5937,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "腻烦，厌倦",
     "en": "to get tired of; to tire of; to lose interest in; to grow weary of; to get fed up with; to get sick of",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6488,7 +5948,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "映，照",
     "en": "to be reflected; to harmonize with (harmonise); to come out (photo); to be projected; to be displayed (on a screen)",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6500,7 +5959,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "空",
     "en": "to open (e.g. doors); to open (e.g. business, etc.); to be empty; to be vacant; to be available; to be free",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6512,7 +5970,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "生，产；产生",
     "en": "to give birth; to bear (child); to lay (eggs); to produce; to yield; to give rise to",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6524,7 +5981,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "腾出；留空；打开",
     "en": "to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock; to open (for business, etc.); to empty; to remove",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6536,7 +5992,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "埋葬（例如埋在地下）；挤满（例如观众挤满整个大厅）；导致被包装；堵塞（间隙）；停止（间隙）；弥合（差异、差距）",
     "en": "to bury (e.g. in the ground); to fill up (e.g. audience fills a hall); to cause to be packed; to plug (a gap); to stop (a gap); to bridge (a difference, a gap)",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6548,7 +6003,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "憧憬，向往",
     "en": "to long for; to yearn for; to hanker after; to be attracted by; to be drawn to; to aspire to",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6560,7 +6014,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "赠送",
     "en": "to give (as a gift); to present; to confer; to bestow; to award",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6572,7 +6025,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "寄存；托付；存入",
     "en": "to leave (in someone's keeping); to put (in someone's care); to place (in someone's custody); to entrust (someone) with; to deposit; to put (someone) in charge of",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6584,7 +6036,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "迟到；被推迟；落后于计划；逾期；落后（在比赛、学习等方面）；落后",
     "en": "to be late; to be delayed; to fall behind schedule; to be overdue; to fall behind (in a race, one's studies, etc.); to lag behind",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6596,7 +6047,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "给；授予；分配；使蒙受",
     "en": "to give (esp. to someone of lower status); to bestow; to grant; to confer; to present; to award",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6608,7 +6058,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "生气；生气；发脾气；责骂；斥责（某人）",
     "en": "to get angry; to get mad; to lose one's temper; to scold; to tell (someone) off",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6620,7 +6069,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "温，热，烫",
     "en": "to warm (up); to heat (up); to sit on (an idea, plan, etc.); to keep to oneself; to nurse; to mull over",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6632,7 +6080,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "压；按住；控制，制止",
     "en": "to keep within limits (e.g. spending); to restrain (e.g. emotions); to control; to curb; to hold in check; to hold back (e.g. an enemy)",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6644,7 +6091,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "操纵；对待；处理",
     "en": "to deal with (a person); to treat; to handle; to take care of; to entertain; to deal with (a problem)",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6656,7 +6102,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "推；按；盖章",
     "en": "to push; to thrust; to shove; to press (down); to push (e.g. a button); to exert pressure on",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6668,7 +6113,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "冲到自己身上（例如水）；采取（例如淋浴）；晒太阳（例如太阳）；沐浴；被（例如光）淹没；被涵盖在",
     "en": "to dash over oneself (e.g. water); to take (e.g. shower); to bask in (e.g. the sun); to bathe in; to be flooded with (e.g. light); to be covered in",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6680,7 +6124,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "下降；失去；放下；散发（光）；投掷（目光）；倒入（液体）",
     "en": "to drop; to lose; to let fall; to shed (light); to cast (one's gaze); to pour in (liquid)",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6692,7 +6135,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "溢出；充满",
     "en": "to overflow; to brim over; to flood",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6704,7 +6146,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "惊恐；惊讶",
     "en": "to be surprised; to be taken aback; to be amazed; to be astonished; to be shocked; to be frightened",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6716,7 +6157,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "剩余",
     "en": "to remain; to be left over; to be in excess; to be too many",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6728,7 +6168,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "打破；骨折；中断；折断；采摘（例如鲜花）；折叠",
     "en": "to break; to fracture; to break off; to snap off; to pick (e.g. flowers); to fold",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6740,7 +6179,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "谢罪，道歉",
     "en": "to apologize (apologise); to refuse; to decline; to be unable to bear; to be defeated (by); to be at a loss",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6752,7 +6190,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "更换；转换；改变；交换；交换；更新",
     "en": "to replace; to convert; to change; to exchange; to interchange; to renew",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6764,7 +6201,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "表示，表达",
     "en": "to represent; to signify; to stand for; to reveal; to show; to display",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6776,7 +6212,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "更换；转换；改变；交换；交换；更新",
     "en": "to replace; to convert; to change; to exchange; to interchange; to renew",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6788,7 +6223,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "出现，出来",
     "en": "to appear; to come in sight; to become visible; to come out; to embody; to materialize",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6800,7 +6234,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "散发香味",
     "en": "to smell sweet; to be fragrant",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6812,7 +6245,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "；氵眙哈，讠",
     "en": "to match (rhythm, speed, etc.); to join together; to unite; to combine; to add up; to face",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6824,7 +6256,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "放光，闪耀；洋溢",
     "en": "to shine; to sparkle; to twinkle; to glitter; to glisten; to light up (with happiness, hope, etc.)",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6836,7 +6267,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "种，植；培育",
     "en": "to plant; to grow; to raise; to insert; to transplant; to implant",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6848,7 +6278,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "关系到；有牵连",
     "en": "to be involved (in); to get involved (in); to concern oneself (with); to take part (in); to interfere (in); to relate to (a matter)",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6860,7 +6289,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "移动；转移；搅拌；让步；改变立场；启发",
     "en": "to move; to shift; to stir; to budge; to change position; to inspire",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6872,7 +6300,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "画；描绘",
     "en": "to draw; to paint; to sketch; to depict; to describe; to picture in one's mind",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6884,7 +6311,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "怀疑；猜疑",
     "en": "to doubt; to distrust; to be suspicious of; to suspect",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6896,7 +6322,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "掩盖，遮盖；隐藏；隐瞒",
     "en": "to hide; to conceal",
-    "page": 22,
     "book": "n2"
   },
   {
@@ -6908,7 +6333,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "摞；放上；反复",
     "en": "to pile up; to heap up; to stack up; to put on top of another; to repeat many times over; to go through repeatedly",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -6920,7 +6344,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "拧干（毛巾、抹布）；挤压；挤压（水果榨汁）；按下；提取；挤奶",
     "en": "to wring (towel, rag); to squeeze; to squeeze (fruit to extract juice); to press; to extract; to milk",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -6932,7 +6355,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "拼命地劳动；挣钱",
     "en": "to earn (income); to make (money); to score (points, victory); to gain (time); to play (for time); to work hard (at one's job)",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -6944,7 +6366,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "系紧；勒紧；结算",
     "en": "to tie; to fasten; to tighten; to wear (necktie, belt); to put on; to total",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -6956,7 +6377,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "介意；理会；照顾",
     "en": "to mind; to care about; to be concerned about; to have a regard for; to be an issue; to matter",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -6968,7 +6388,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "关闭；关上",
     "en": "to close; to shut",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -6980,7 +6399,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "枯萎，凋零",
     "en": "to wither (of a plant); to be blasted; to die; to mature (of one's personality, abilities, etc.)",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -6992,7 +6410,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "说话；聊天；闲聊",
     "en": "to talk; to chat; to chatter",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7004,7 +6421,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "感觉；感想",
     "en": "to feel; to sense; to experience; to be moved (by); to be touched (by); to be impressed (by)",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7016,7 +6432,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "经过；超过；过度",
     "en": "to pass through; to pass by; to go beyond; to pass (of time); to elapse; to have expired",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7028,7 +6443,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "倾听；听",
     "en": "to hear; to listen (e.g. to music); to ask; to enquire; to query; to hear about",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7040,7 +6454,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "花费（时间）；通过；过（生活）；生活；过量（尤其是饮酒）；喝（酒）",
     "en": "to spend (time); to pass; to lead (a life); to live; to overdo (esp. alcohol consumption); to drink (alcohol)",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7052,7 +6465,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "注意到；察觉",
     "en": "to notice; to realize; to realise; to become aware (of); to perceive; to sense",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7064,7 +6476,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "劝告，劝诱；劝",
     "en": "to recommend (someone to do); to advise; to encourage; to urge; to recommend (a book, someone for a position, etc.); to suggest",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7076,7 +6487,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "分配；多方注意；分派",
     "en": "to distribute; to hand out; to deliver; to deal out; to serve out; to allot",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7088,7 +6498,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "使前进；推进；增进",
     "en": "to advance; to move forward; to put (a clock, watch) forward; to carry forward (plans, work, etc.); to proceed with; to make progress in",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7100,7 +6509,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "交叉（双腿或双臂）；连接（手臂）；放在一起；建造；组装；制作（例如电视节目）",
     "en": "to cross (legs or arms); to link (arms); to put together; to construct; to assemble; to produce (e.g. TV program)",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7112,7 +6520,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "滑动；滑翔；滑冰；滑雪；滑倒；打滑",
     "en": "to slide; to glide; to skate; to ski; to slip; to skid",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7124,7 +6531,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "生活；度日",
     "en": "to live (on, by, etc.); to lead a life; to get along; to get by; to make a living; to earn a livelihood",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7136,7 +6542,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "结束；解决；足够；过得去",
     "en": "to finish; to be settled; to suffice; to get by",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7148,7 +6553,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "比较；对照",
     "en": "to compare; to make a comparison (between); to compete (on); to measure (one's strength, ability, etc. against another's)",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7160,7 +6564,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "坐下（坐下）；有座位；就座；跪下（在地板上）；担任（职位）；承担（职责）",
     "en": "to sit (down); to have a seat; to be seated; to kneel (on the floor); to assume (a position); to take on (a duty)",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7172,7 +6575,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "加上，添加；增长；加入",
     "en": "to add; to add up; to sum up; to append; to annex; to increase",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7184,7 +6586,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "被抚养（例如孩子）；被抚养长大；成长（向上）",
     "en": "to be raised (e.g. child); to be brought up; to grow (up)",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7196,7 +6597,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "超过；超越",
     "en": "to cross over; to cross; to pass through; to pass over (out of); to go beyond; to go past",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7208,7 +6608,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "对；面对；针对",
     "en": "to face (each other); to be facing; to be directed toward (the future, etc.); to be in response to; to be related to; to receive (a client, etc.)",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7220,7 +6619,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "冻结；被冻结；冻结",
     "en": "to freeze; to become frozen; to freeze over",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7232,7 +6630,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "跌倒（翻倒，跌倒）；崩溃；跌倒；推翻；被摧毁（崩溃）；塌陷",
     "en": "to fall (over, down); to collapse; to take a fall; to topple; to be destroyed (in a collapse); to cave in",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7244,7 +6641,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "预先通知；谢绝，拒绝；道歉",
     "en": "to refuse; to reject; to dismiss; to turn down; to decline; to inform",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7256,7 +6652,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "抱在怀里（例如婴儿）；拥抱；拥抱；与之发生性关系；做爱；一起睡觉",
     "en": "to hold in one's arms (e.g. a baby); to embrace; to hug; to have sex with; to make love to; to sleep with",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7268,7 +6663,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "感到困扰；遇到困难；陷入困境；不知所措；被难住了；感到尴尬",
     "en": "to be troubled; to have difficulty; to be in a fix; to be at a loss; to be stumped; to be embarrassed",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7280,7 +6674,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "帮助，援助；救助，辅佐",
     "en": "to save; to rescue; to spare; to help; to assist; to support (financially)",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7292,7 +6685,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "跌倒；摔倒；结果；玩出来；放弃基督教（并皈依佛教）；背教",
     "en": "to fall down; to fall over; to turn out; to play out; to abandon Christianity (and convert to Buddhism); to apostatize",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7304,7 +6696,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "寻，找",
     "en": "to ask; to enquire; to inquire; to search; to look for; to look into",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7316,7 +6707,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "寻找；寻找；寻找；寻求；搜查（房屋、口袋等）；来搜索",
     "en": "to search for; to look for; to hunt for; to seek; to search (a house, pocket, etc.); to search through",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7328,7 +6718,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "战斗；比赛",
     "en": "to make war (on); to wage war (against); to go to war (with); to fight (with); to do battle (against); to compete (against)",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7340,7 +6729,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "寻找；寻找；寻找；寻求；搜查（房屋、口袋等）；来搜索",
     "en": "to search for; to look for; to hunt for; to seek; to search (a house, pocket, etc.); to search through",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7352,7 +6740,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "折叠（衣服、雨伞）；关闭（商店、企业）；腾出",
     "en": "to fold (clothes, umbrella); to close (a shop, business); to vacate",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7364,7 +6751,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "沉没；沉下；消沉",
     "en": "to sink; to go under; to submerge; to go down (e.g. sun); to set; to descend",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7376,7 +6762,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "享受；享受；玩得开心；玩得开心；自娱自乐；期待",
     "en": "to enjoy; to take pleasure in; to have a good time; to have fun; to amuse oneself; to look forward to",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7388,7 +6773,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "跟随；服从；遵从；伴随",
     "en": "to obey (an order, law, etc.); to abide by (a rule, custom, etc.); to follow; to observe; to conform to; to yield to",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7400,7 +6784,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "拜托",
     "en": "to request; to beg; to ask; to call; to order; to reserve",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7412,7 +6795,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "支付，付款",
     "en": "to pay",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7424,7 +6806,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "积存；积攒",
     "en": "to collect; to gather; to save; to accumulate; to pile up",
-    "page": 23,
     "book": "n2"
   },
   {
@@ -7436,7 +6817,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "依靠，倚赖",
     "en": "to rely on; to depend on; to count on; to turn to (for help)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7448,7 +6828,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "睡觉；躺下",
     "en": "to sleep (lying down); to go to bed; to lie in bed; to lie down; to sleep (with someone, i.e. have intercourse); to lie flat (e.g. of hair)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7460,7 +6839,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "不说话，沉默",
     "en": "to be silent; to say nothing",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7472,7 +6850,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "留下，剩下；存留",
     "en": "to leave (behind); to leave (undone); to not finish; to save; to set aside; to reserve",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7484,7 +6861,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "捉住；捕捉",
     "en": "to catch; to capture; to arrest; to seize; to restrain; to grab",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7496,7 +6872,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "留下来；被留下",
     "en": "to remain; to be left",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7508,7 +6883,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "抓住；掌握；领会",
     "en": "to grab; to grasp; to understand",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7520,7 +6894,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "放上；让乘坐；刊登",
     "en": "to place on (something); to give (someone) a ride; to give a lift; to pick up; to help on board; to load (luggage)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7532,7 +6905,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "结束；打包；捆绑；整理；覆盖；包围",
     "en": "to wrap up; to pack; to bundle; to do up; to cover; to envelop",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7544,7 +6916,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "延长；伸展，抻开；提高",
     "en": "to grow long (e.g. hair, nails); to lengthen; to extend; to stretch; to reach out; to hold out",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7556,7 +6927,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "担任；充当；填补（的位置）；扮演……的角色；负责；持有（职位）",
     "en": "to serve as; to act as; to fill (the position of); to play the role of; to be in charge of; to hold (a position)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7568,7 +6938,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "伸长；伸展；发展",
     "en": "to stretch; to extend; to lengthen; to grow (of hair, height, grass, etc.); to straighten out; to be flattened",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7580,7 +6949,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "工作，任职",
     "en": "to work (for, at, in); to be employed (at); to serve (as); to finish (a term); to serve (e.g. a sentence); to serve out (e.g. an apprenticeship)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7592,7 +6960,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "生，长",
     "en": "to grow; to spring up; to sprout; to cut (teeth)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7604,7 +6971,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "让过去；允许通过；让通过；为（）让路；传输（例如光、声音等）；传导（电）",
     "en": "to let pass; to allow through; to let through; to make way (for); to transmit (e.g. light, sound, etc.); to conduct (electricity)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7616,7 +6982,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "测量",
     "en": "to measure; to weigh; to survey; to time (sound, gauge, estimate); to conjecture; to infer",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7628,7 +6993,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "解，解开；解除，解答",
     "en": "to untie; to unfasten; to unwrap; to undo; to unbind; to unpack",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7640,7 +7004,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "扫荡；刷；清洁；采集蚕",
     "en": "to sweep; to brush; to clean; to gather silkworms",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7652,7 +7015,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "达到；触摸；到达；携带（声音）；待交付；到达",
     "en": "to reach; to touch; to get to; to carry (of sound); to be delivered; to arrive",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7664,7 +7026,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "穿上（下半身的衣服，例如裤子、裙子、鞋类）；穿；将（一把剑挂在臀部）；将（弓弦固定在弓上）",
     "en": "to put on (lower-body clothing, e.g. pants, skirt, footwear); to wear; to affix (a sword to one's hip); to affix (a bowstring to a bow)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7676,7 +7037,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "飞翔；翱翔；跳跃；跳跃；春天；束缚",
     "en": "to fly; to soar; to jump; to leap; to spring; to bound",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7688,7 +7048,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "去除；起飞；分离；解开；撤销；放弃（例如从团队中）",
     "en": "to remove; to take off; to detach; to unfasten; to undo; to drop (e.g. from a team)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7700,7 +7059,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "停止；关闭；停车；防止；抑制（咳嗽）；忍住（泪水）",
     "en": "to stop; to turn off; to park; to prevent; to suppress (a cough); to hold back (tears)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7712,7 +7070,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "使离开，使分开；隔开",
     "en": "to separate; to part; to divide; to keep apart",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7724,7 +7081,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "安慰，使舒畅；慰问，安抚",
     "en": "to comfort; to console; to amuse",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7736,7 +7092,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "支付（例如金钱、账单）；刷掉；擦去；清除；掸去灰尘；切断（例如树枝）",
     "en": "to pay (e.g. money, bill); to brush off; to wipe away; to clear away; to dust off; to cut off (e.g. branches)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7748,7 +7103,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "烦恼，感到痛苦",
     "en": "to be worried; to be troubled",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7760,7 +7114,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "坚持；粘贴；贴上；伸展；传播；应变",
     "en": "to stick; to paste; to affix; to stretch; to spread; to strain",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7772,7 +7125,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "响；鸣叫",
     "en": "to sound; to ring; to resound; to echo; to roar; to rumble",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7784,7 +7136,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "变宽，展开；扩展；扩大",
     "en": "to spread (out); to extend; to stretch; to reach to; to get around; to fill (e.g. a space)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7796,7 +7147,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "习惯，习以为常",
     "en": "to get used to; to grow accustomed to; to become familiar with; to become skilled in; to become experienced at; to become tame",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7808,7 +7158,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "增加；乘以",
     "en": "to increase; to multiply",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7820,7 +7169,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "适合；相配",
     "en": "to suit; to match; to become; to be like",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7832,7 +7180,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "擦拭；晾干",
     "en": "to wipe; to dry",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7844,7 +7191,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "握；攥饭团；掌握",
     "en": "to clasp; to grasp; to grip; to clutch; to hold (the answer); to have (e.g. the solution)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7856,7 +7202,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "吹（风）；吹气；呼气；吹（热茶、蜡烛等）；吹气；演奏（管乐器）",
     "en": "to blow (of the wind); to blow (one's breath); to breathe out; to blow on (hot tea, candles, etc.); to puff; to play (a wind instrument)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7868,7 +7213,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "相似；像",
     "en": "to resemble; to look like; to be like; to be alike; to be similar; to take after",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7880,7 +7224,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "防御，防止；预防，防备",
     "en": "to defend against; to protect against; to prevent; to avert; to avoid",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7892,7 +7235,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "出来；掉出来；被省略；失踪；逃跑；松开",
     "en": "to come out; to fall out; to be omitted; to be missing; to escape; to come loose",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7904,7 +7246,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "落下（雨、雪、灰烬等）；下来；形成（霜）；射下（阳光或月光）；倒入；拜访（幸运、不幸等）",
     "en": "to fall (of rain, snow, ash, etc.); to come down; to form (of frost); to beam down (of sunlight or moonlight); to pour in; to visit (of luck, misfortune, etc.)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7916,7 +7257,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "涂，擦；抹",
     "en": "to paint; to spread; to plaster; to apply (cream, lotion); to smear; to lacquer",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7928,7 +7268,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "使碰撞；投向；发泄",
     "en": "to hit; to strike; to throw at",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7940,7 +7279,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "睡觉，睡眠",
     "en": "to sleep; to die; to rest (in peace); to lie (buried); to sleep (in the grave); to lie idle (e.g. of resources)",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7952,7 +7290,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "减弱；减少；减少；缩短",
     "en": "to abate; to decrease; to diminish; to shorten",
-    "page": 24,
     "book": "n2"
   },
   {
@@ -7964,7 +7301,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "减少",
     "en": "to decrease (in size or number); to diminish; to abate",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -7976,7 +7312,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "睡醒·醒悟，觉醒",
     "en": "to wake up; to awake; to awaken to (instinct, ability, perception, etc.); to become aware of; to become conscious of; to realize",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -7988,7 +7323,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "播出；干燥；使干燥；排干（关闭）；喝完；剥夺角色、工作等",
     "en": "to air; to dry; to desiccate; to drain (off); to drink up; to deprive of a role, job, etc.",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8000,7 +7334,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "放回去；返回；回馈；恢复（恢复到先前的状态，例如解冻、重构、调节）；向后转（例如时钟指针）；呕吐",
     "en": "to put back; to return; to give back; to restore (to a previous state, e.g. defrosting, reconstituting, reconciling); to turn back (e.g. clock hand); to vomit",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8012,7 +7345,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "赞美；赞扬；赞美；说好话；高度评价",
     "en": "to praise; to commend; to compliment; to speak well of; to speak highly of",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8024,7 +7356,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "弄破，损坏；违犯",
     "en": "to tear; to rip; to break; to destroy; to break through (cordon, opponent's defense, etc.); to breach",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8036,7 +7367,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "被误会；不正确；犯错；犯错误（在）；做错事；犯错",
     "en": "to be mistaken; to be incorrect; to be wrong; to make a mistake (in); to do incorrectly; to get wrong",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8048,7 +7378,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "辞职",
     "en": "to resign; to retire; to quit; to leave (one's job, etc.)",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8060,7 +7389,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "汇总；整理；归纳",
     "en": "to collect; to organize; to summarize",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8072,7 +7400,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "允许，准许；饶恕宽恕",
     "en": "to permit; to allow; to approve; to consent to; to forgive; to pardon",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8084,7 +7411,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "学，学习",
     "en": "to learn; to study; to take lessons in",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8096,7 +7422,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "摇晃",
     "en": "to shake; to sway; to rock; to swing; to tremble; to jolt",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8108,7 +7433,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "迷失，困惑；迷恋",
     "en": "to lose one's way; to get lost; to go astray; to waver; to hesitate; to vacillate",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8120,7 +7444,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "弄脏",
     "en": "to pollute; to contaminate; to soil; to make dirty; to stain; to disgrace",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8132,7 +7455,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "抛光；发光；抛光；冲刷；擦洗；刷（牙）",
     "en": "to polish; to shine; to burnish; to scour; to scrub; to brush (teeth)",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8144,7 +7466,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "呼唤（到）；打电话；调用；召唤（医生等）；邀请；指定",
     "en": "to call out (to); to call; to invoke; to summon (a doctor, etc.); to invite; to designate",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8156,7 +7477,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "凝视，盯着看",
     "en": "to stare (at); to gaze (at); to look hard (at); to watch intently; to fix one's eyes (on)",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8168,7 +7488,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "接近；靠近；靠近；接近；聚集（在一处）；走到一起",
     "en": "to approach; to draw near; to come near; to be close to; to gather (in one place); to come together",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8180,7 +7499,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "出去见面；接收；欢迎；打招呼；敬礼；冰雹",
     "en": "to go out to meet; to receive; to welcome; to greet; to salute; to hail",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8192,7 +7510,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "高兴，喜悦",
     "en": "to be delighted; to be glad; to be pleased; to rejoice; to congratulate; to welcome (a proposal, advice, etc.)",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8204,7 +7521,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "转向（朝向）；面对；指向；瞄准；指向；前往",
     "en": "to turn (towards); to face; to point; to aim; to direct to; to head to",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8216,7 +7532,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "沸腾；涌现",
     "en": "to grow hot (e.g. water); to boil; to get excited (at); to erupt (in applause, cheering, etc.); to be in a ferment; to take place energetically",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8228,7 +7543,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "打结；绑定；链接；结出（果实）；结束（例如交易）；确认",
     "en": "to tie; to bind; to link; to bear (fruit); to close (e.g. deal); to confirm",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8240,7 +7554,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "分，分开；划分",
     "en": "to divide (into); to split (into); to part; to separate; to divide up; to classify",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8252,7 +7565,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "收，领；领会，理解",
     "en": "to receive; to get; to accept; to take (someone's words or behaviour); to interpret; to understand",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8264,7 +7576,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "改变；切换；改变（到）；更新",
     "en": "to change; to switch; to change over (to); to renew",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8276,7 +7587,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "通过（例如汽车）；超车；超越；超越；领先；到超出距离",
     "en": "to pass (e.g. car); to overtake; to surpass; to outstrip; to get ahead of; to outdistance",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8288,7 +7598,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "反复，重复",
     "en": "to repeat; to do over again",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8300,7 +7609,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "赶上（）；拉平；拉平；达到；得到补偿；弥补自己的损失",
     "en": "to catch up (with); to draw level; to pull even; to reach; to be compensated; to make up for one's losses",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8312,7 +7620,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "关闭；闭嘴（例如在门后）；切断（例如因为截止日期已过）；关闭（例如订阅列表）",
     "en": "to close up; to shut up (e.g. behind doors); to cut off (e.g. because a deadline has expired); to close off (e.g. subscription list)",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8324,7 +7631,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "沉着，心平气和；平静下来",
     "en": "to calm down; to compose oneself; to regain presence of mind; to relax; to settle down; to die down",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8336,7 +7642,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "相识；结识",
     "en": "to get to know each other; to make acquaintance",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8348,7 +7653,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "想到；想起",
     "en": "to think of; to hit upon; to come into one's mind; to be struck with an idea; to remember; to recall",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8360,7 +7664,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "交际，打交道；瞓半，应酬",
     "en": "to associate with; to keep company with; to go out with; to go steady with; to get on with; to go along with",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8372,7 +7675,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "另买",
     "en": "to buy a replacement; to replace (with a new purchase)",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8384,7 +7686,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "重拍；重建",
     "en": "to remake; to rebuild",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8396,7 +7697,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "借出；贷款；出租",
     "en": "to lend; to loan; to let out on hire",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8408,7 +7708,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "遇见，碰见，偶遇",
     "en": "to meet (by chance); to come across; to run across; to encounter; to happen upon; to meet (e.g. of rivers, highways, etc.)",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8420,7 +7719,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "抓住（某人的话）；弄清楚；跟随；理解；询问（情况、情况等）；询问",
     "en": "to catch (someone's words); to make out; to follow; to understand; to ask about (a situation, circumstances, etc.); to inquire",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8432,7 +7730,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "交换；交换；以物易物；进行贸易；更换；替代",
     "en": "to exchange; to swap; to barter; to trade; to replace; to substitute",
-    "page": 25,
     "book": "n2"
   },
   {
@@ -8444,7 +7741,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "取消，废除",
     "en": "to cancel; to withdraw; to retract; to take back (words, etc.); to revoke",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8456,7 +7752,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "存入，拨入",
     "en": "to make a payment via bank deposit transfer; to discard another player's winning tile",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8468,7 +7763,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "对话",
     "en": "to discuss; to talk together",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8480,7 +7774,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "卷起；包围；吞掉；参与；拖入",
     "en": "to roll up; to enfold; to swallow up; to involve; to drag into",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8492,7 +7785,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "搭话；和……说话",
     "en": "to address (someone); to accost a person; to talk (to someone); to begin to talk; to start a conversation",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8504,7 +7796,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "面对面；与（至）相反",
     "en": "to face each other; to be opposite (to)",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8516,7 +7807,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "承担承受；照料",
     "en": "to take on; to undertake; to accept; to take charge of; to assume responsibility for; to take over",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8528,7 +7818,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "无业年轻人",
     "en": "to apply for; to make an application; to propose (marriage); to offer (mediation); to make an overture (of peace); to challenge",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8540,7 +7829,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "拉出来；取出；抽出；牵出（例如从马厩中牵出一匹马）；传唤（例如到法庭）；带来（例如某人到谈判桌前）",
     "en": "to pull out; to take out; to draw out; to lead out (e.g. a horse from a stable); to summon (e.g. to court); to bring (e.g. someone to the negotiating table)",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8552,7 +7840,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "带回家；带回家；带回家；取出（例如食物）",
     "en": "to take home; to carry home; to bring back home; to take out (e.g. food)",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8564,7 +7851,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "搬家（房子）；改变居住地",
     "en": "to move (house); to change residence",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8576,7 +7862,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "呼唤；号召，呼吁",
     "en": "to call out to; to hail; to address; to appeal (e.g. to the public); to urge; to exhort",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8588,7 +7873,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "拉；画画；拉紧；串（线）；运行（电缆）；伸展",
     "en": "to pull; to draw; to pull tight; to string (lines); to run (cable); to stretch",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8600,7 +7884,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "浅的；肤浅的；程度轻的",
     "en": "shallow; superficial; slight (wound); light (sleep); pale (colour); inadequate (knowledge)",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8612,7 +7895,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "严重；严格的；死板的；不留情面；狠；很难（做）",
     "en": "severe; strict; rigid; unsparing; relentless; hard (to do)",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8624,7 +7906,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "厚的；深的；重的；种类；亲切；好客的",
     "en": "thick; deep; heavy; kind; cordial; hospitable",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8636,7 +7917,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "痛苦，难受；困难，艰苦",
     "en": "painful; difficult; tough; hard; distressing; stressful",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8648,7 +7928,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "味甜；甜的；含糖的；糖；芳香（闻起来）；甜蜜（音乐）",
     "en": "sweet-tasting; sweet; sugary; sugared; fragrant (smelling); sweet (music)",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8660,7 +7939,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "深（颜色）；黑暗的；浓烈（味道、气味等）；稠度（稠度）；稠密；强（可能性等）",
     "en": "deep (colour); dark; strong (flavour, smell, etc.); thick (consistency); dense; strong (possibility, etc.)",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8672,7 +7950,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "可疑；奇怪，特别",
     "en": "suspicious; dubious; questionable; dodgy; shady; fishy",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8684,7 +7961,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "小；美好的；分钟；次要的；琐碎的；敏感的",
     "en": "small; fine; minute; minor; trivial; sensitive",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8696,7 +7972,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "忙碌；占领；忙碌；不安；慌忙；烦躁的",
     "en": "busy; occupied; hectic; restless; hurried; fidgety",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8708,7 +7983,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "可怕的；可怕的；怪异；可怕的",
     "en": "scary; frightening; eerie; dreadful",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8720,7 +7994,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "痛苦；疮；卑鄙的；令人尴尬的",
     "en": "painful; sore; cringy; embarrassing",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8732,7 +8005,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "没办法；不得已",
     "en": "there's no (other) way; cannot be helped; unavoidable; inevitable; nothing one can do; having no choice",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8744,7 +8016,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "（物体的）薄；苍白；光；头晕的；水样的；薄",
     "en": "thin (of an object); pale; light; faint; watery; thin",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8756,7 +8027,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "亲近，亲密",
     "en": "close (e.g. friend); familiar; friendly; intimate; familiar (e.g. story); well-known (to one)",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8768,7 +8038,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "羡慕",
     "en": "envious; jealous",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8780,7 +8049,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "纠缠不休的；执拗的；味道过浓的",
     "en": "persistent; insistent; overly strong in flavor",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8792,7 +8060,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "温顺的；安静的",
     "en": "quiet; gentle; docile",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8804,7 +8071,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "酸；酸",
     "en": "sour; acid",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8816,7 +8082,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "聪明",
     "en": "wise; clever; smart; well-behaved (esp. children and pets); obedient; good",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8828,7 +8093,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "散漫的；邋遢的；没出息的",
     "en": "slovenly; sloppy; undisciplined",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8840,7 +8104,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "硬；坚硬的；艰难的；僵硬的；紧的；木制的",
     "en": "hard; solid; tough; stiff; tight; wooden",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8852,7 +8115,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "无情；可怜；可耻",
     "en": "miserable; pitiable; shameful; deplorable; pathetic",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8864,7 +8126,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "痒的",
     "en": "itchy",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8876,7 +8137,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "亲爱的（旧的）；深情地铭记；心爱；错过了；怀旧的",
     "en": "dear (old); fondly remembered; beloved; missed; nostalgic",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8888,7 +8148,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "可爱的；讨人喜欢的",
     "en": "cute; charming",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8900,7 +8159,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "又长又窄",
     "en": "long and narrow",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8912,7 +8170,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "坚韧；难的；严重；要求严格；残酷的；已确定",
     "en": "tough; hard; severe; demanding; harsh; determined",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8924,7 +8181,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "罕见；罕见；异常；好奇的；新的；小说",
     "en": "rare; uncommon; unusual; curious; new; novel",
-    "page": 26,
     "book": "n2"
   },
   {
@@ -8936,7 +8192,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "可惜的；浪费的；不应该浪费的",
     "en": "wasteful; too good to waste",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -8948,7 +8203,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "柔软；投标；柔软；灵活的；柔软；跛行",
     "en": "soft; tender; supple; flexible; limber; limp",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -8960,7 +8214,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "出乎意料的；奇怪；意外；奇怪的；不可预见的",
     "en": "unexpected; surprising; unanticipated; strange; unforeseen",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -8972,7 +8225,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "新鲜的",
     "en": "fresh",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -8984,7 +8236,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "坏心眼的；刻薄的；爱刁难人的",
     "en": "malicious; ill-tempered; unkind; mean; nasty",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -8996,7 +8247,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "朴素的；不显眼的；低调的",
     "en": "plain; simple; subdued; sober; reserved (behaviour, attitude, etc.); modest",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9008,7 +8258,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "一般的；普遍的；通常的",
     "en": "general; popular; common; typical",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9020,7 +8269,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "自由的；不受限制的",
     "en": "freedom; liberty",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9032,7 +8280,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "各种各样的；形形色色的",
     "en": "various; all sorts of",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9044,7 +8291,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "重要的；关键的",
     "en": "important; essential; significant; major; key; principal",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9056,7 +8302,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "时髦的；讲究的；有品位的",
     "en": "stylish; fashionable; trendy; chic; smartly dressed; careful about one's appearance",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9068,7 +8313,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "高雅的；文雅的；有品位的",
     "en": "elegant; refined; polished; stylish; sophisticated; high-quality goods",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9080,7 +8324,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "确实的；可靠的；稳妥的",
     "en": "certain; sure; definite; reliable; sound; solid",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9092,7 +8335,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "正常；常规的",
     "en": "normal; regular",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9104,7 +8346,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "可能；潜在的；可行；可行的",
     "en": "possible; potential; practicable; feasible",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9116,7 +8357,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "积极的；有主见；积极的；积极主动的；侵略性的",
     "en": "positive; assertive; active; proactive; aggressive",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9128,7 +8368,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "可怜的；令人同情的",
     "en": "pitiable; poor; deserving sympathy",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9140,7 +8379,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "乏味；无聊的；乏味的；无趣；令人厌烦的；单调的",
     "en": "tedious; boring; dull; uninteresting; tiresome; monotonous",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9152,7 +8390,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "简单；简单的；简单；简短的；快的；光",
     "en": "simple; easy; uncomplicated; brief; quick; light",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9164,7 +8401,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "重要；严肃的；至关重要的；有价值的；宝贵的；严重的事情",
     "en": "important; serious; crucial; valuable; precious; serious matter",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9176,7 +8412,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "危险；危险；冒险；风险",
     "en": "danger; peril; hazard; risk",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9188,7 +8423,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "当然；肯定；积极的；定；可靠的；值得信赖的",
     "en": "sure; certain; positive; definite; reliable; trustworthy",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9200,7 +8434,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "基本的；基本的",
     "en": "fundamental; basic",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9212,7 +8445,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "脾气暴躁；脾气急躁；脾气暴躁；不耐烦；烦躁",
     "en": "short temper; quick temper; hot temper; impatience; irritability",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9224,7 +8456,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "可怜的；令人同情的",
     "en": "pitiful; unfortunate; poor; miserable; wretched; unpardonable",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9236,7 +8467,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "简单；清楚的；简单；直截了当；头脑简单；天真的",
     "en": "simple; plain; uncomplicated; straightforward; simple-minded; naive",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9248,7 +8478,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "基本的；基本的",
     "en": "fundamental; basic",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9260,7 +8489,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "有礼貌的；有礼貌；民事；小心；关闭；彻底",
     "en": "polite; courteous; civil; careful; close; thorough",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9272,7 +8500,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "混凝土；定；具体的；材料；实质性的",
     "en": "concrete; definite; specific; material; substantial",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9284,7 +8511,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "满意；自豪；胜利；兴高采烈；一个人的强项；某人的强项",
     "en": "satisfaction; pride; triumph; elation; one's strong point; one's forte",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9296,7 +8522,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "繁荣；芊芊；熙；成功的；受欢迎的；广泛的",
     "en": "prosperous; flourishing; thriving; successful; popular; widespread",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9308,7 +8533,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "不擅长的；难对付的",
     "en": "poor (at); weak (in); not very good (at); not one's cup of tea; not one's favorite",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9320,7 +8544,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "各种；多种多样；各种各样的；各种各样的",
     "en": "various; varied; diverse; all sorts of",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9332,7 +8555,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "热心的；热情的",
     "en": "zealous; enthusiastic; ardent; fervent; keen; eager",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9344,7 +8566,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "令人遗憾的；不幸；令人失望；令人烦恼的",
     "en": "regrettable; unfortunate; disappointing; vexing",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9356,7 +8577,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "艳丽；大声；华而不实；艳丽的",
     "en": "showy; loud; flashy; gaudy",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9368,7 +8588,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "酋长；主要的；主要的；专业",
     "en": "chief; main; principal; major",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9380,7 +8599,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "善于交谈；善于言谈；健谈者",
     "en": "being good at conversation; good talker; conversationalist",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9392,7 +8610,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "诚实；坦率；坦率；直截了当；诚实地；坦白地说",
     "en": "honest; frank; candid; straightforward; honestly; frankly",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9404,7 +8621,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "焦虑；不安；担心；忧虑；害怕；不安全感",
     "en": "anxiety; uneasiness; worry; apprehension; fear; insecurity",
-    "page": 27,
     "book": "n2"
   },
   {
@@ -9416,7 +8632,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "复杂的；错综复杂的",
     "en": "complex; complicated; intricate; mixed (feelings)",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9428,7 +8643,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "靠近自己；接近一；熟悉的",
     "en": "near oneself; close to one; familiar",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9440,7 +8654,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "精彩；奇妙；奇怪的；极好的；惊人的；好奇",
     "en": "wonderful; marvelous; strange; incredible; amazing; curious",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9452,7 +8665,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "麻烦；打扰；烦恼；滋扰；不便；被（）困扰",
     "en": "trouble; bother; annoyance; nuisance; inconvenience; to be troubled (by)",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9464,7 +8676,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "不便；不便；不方便",
     "en": "inconvenience; inexpediency; unhandiness",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9476,7 +8687,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "麻烦；打扰；困难；关心；关注",
     "en": "trouble; bother; difficulty; care; attention",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9488,7 +8698,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "一个人的真实性格；一个人的真实自我；一个人的真正价值；严肃的；认真的",
     "en": "one's true character; one's true self; one's true worth; serious; earnest",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9500,7 +8709,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "舒适度；舒适；宽慰；和平；松弛；容易",
     "en": "comfort; ease; relief; peace; relaxation; easy",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9512,7 +8720,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "到处；各处",
     "en": "here and there; all over",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9524,7 +8731,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "理所当然",
     "en": "natural; right; proper; just; reasonable; appropriate",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9536,7 +8742,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "眼看就要；马上",
     "en": "at any moment; on the verge of",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9548,7 +8753,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "终于，到底",
     "en": "finally; at last; in the end",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9560,7 +8764,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "主要",
     "en": "mainly; primarily; mostly; largely; chiefly",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9572,7 +8775,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "请；务必；设法",
     "en": "please; somehow",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9584,7 +8786,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "反之；相反",
     "en": "conversely; on the contrary",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9596,7 +8797,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "突然",
     "en": "abrupt; sudden; unexpected",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9608,7 +8808,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "曾经；以任何方式；至少；以任何方式；根本不",
     "en": "ever; by any means; in the least; in any way; at all",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9620,7 +8819,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "相当；很；怎么也不（后接否定）",
     "en": "quite; not easily (with a negative verb)",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9632,7 +8830,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "立刻",
     "en": "at once; immediately; without delay; promptly",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9644,7 +8841,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "平常；平时",
     "en": "usual; normal; everyday; habitual; ordinary; usually",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9656,7 +8852,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "慎重地；谨慎地",
     "en": "carefully; cautiously",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9668,7 +8863,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "分别；分开；分别；单独地",
     "en": "separately; apart; severally; individually",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9680,7 +8874,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "事实上；顺便一提；告诉你真相；说实话；坦白说；实际上",
     "en": "as a matter of fact; by the way; to tell you the truth; to be honest; frankly; actually",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9692,7 +8885,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "马马虎虎；还过得去；还不错；合理的；现在，现在；那里，那里",
     "en": "so-so; passable; not (so) bad; reasonable; now, now; there, there",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9704,7 +8896,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "实际上；真的；确实；的确；在实践中；实际上",
     "en": "actually; really; truly; indeed; in practice; practically",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9716,7 +8907,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "真的；确实；完全；完全地；完全；完美地",
     "en": "really; truly; entirely; completely; wholly; perfectly",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9728,7 +8918,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "已经",
     "en": "already; previously; before; undeniably; unmistakably; in the first place",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9740,7 +8929,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "完全，简直",
     "en": "just like; entirely",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9752,7 +8940,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "相互；与彼此；相互地；在一起",
     "en": "mutually; with each other; reciprocally; together",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9764,7 +8951,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "最",
     "en": "most; extremely",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9776,7 +8962,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "当然；当然",
     "en": "surely; certainly",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9788,7 +8973,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "果然；还是；到底",
     "en": "after all; as expected",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9800,7 +8984,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "多少",
     "en": "a little; some; somewhat; slightly; to some degree; to some extent",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9812,7 +8995,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "果然；仍然；还是",
     "en": "after all; as expected; still",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9824,7 +9006,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "不由得",
     "en": "just (now); quite (near); unintentionally; subconsciously; by mistake; against one's better judgement (judgment)",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9836,7 +9017,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "终于；好不容易",
     "en": "finally; at last",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9848,7 +9028,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "相继；一一",
     "en": "in succession; one by one",
-    "page": 28,
     "book": "n2"
   },
   {
@@ -9860,7 +9039,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "不留神；不小心",
     "en": "carelessly; thoughtlessly; inadvertently",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -9872,7 +9050,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "牢固地；可靠地；好好地",
     "en": "firmly; reliably; properly",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -9884,7 +9061,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "正合适；完全一致",
     "en": "tightly; closely; exactly; precisely; suddenly (stopping); perfectly (suited)",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -9896,7 +9072,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "徘徊；转来转去",
     "en": "restlessly; aimlessly; without purpose; to loiter; to drift; to hang about doing nothing",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -9908,7 +9083,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "完全；全都",
     "en": "all; completely; totally; entirely; thoroughly",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -9920,7 +9094,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "摇摇晃晃；头晕；闲逛",
     "en": "unsteadily (e.g. on one's feet); shakily; staggering; tottering; reeling; dizzily",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -9932,7 +9105,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "哗啦哗啦；空荡荡",
     "en": "with a clatter; with a rattle; empty; vacant; bare; uninhabited",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -9944,7 +9116,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "好不容易；特意",
     "en": "with much effort; specially",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -9956,7 +9127,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "非常饿；连连鞠躬",
     "en": "very hungry; starving; famished; bowing repeatedly; kowtowing; bowing and scraping",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -9968,7 +9138,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "闪闪发光",
     "en": "glittering; sparkling; glistening; twinkling",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -9980,7 +9149,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "肥大；松松垮垮",
     "en": "loose (of clothing); baggy; flabby; saggy; sloshing; slopping",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -9992,7 +9160,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "熟睡；酣睡",
     "en": "soundly (sleeping); fast (asleep)",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10004,7 +9171,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "零散；分散；七零八落",
     "en": "separately; in pieces; scattered",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10016,7 +9182,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "观念；主意，构思",
     "en": "idea",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10028,7 +9193,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "病毒",
     "en": "virus (lat:)",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10040,7 +9204,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "夜总会；体育俱乐部；团队；俱乐部；俱乐部（花色）；螃蟹",
     "en": "nightclub; sports club; team; club; clubs (suit); crab",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10052,7 +9215,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "访问，存取；到达",
     "en": "access (to a place, esp. using public transport); access (to a website, data, etc.)",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10064,7 +9226,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "能源",
     "en": "energy (ger: Energie); energy; strength; power; stamina; get-up-and-go",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10076,7 +9237,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "地面；场地；操场；体育场",
     "en": "ground; field; playground; stadium",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10088,7 +9248,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "亚洲",
     "en": "Asia",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10100,7 +9259,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "围裙；停机坪（机场）；围裙（舞台）",
     "en": "apron; apron (airport); apron (stage)",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10112,7 +9270,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "群，组；集团",
     "en": "group ",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10124,7 +9281,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "上升；增加；提高；起重；上升；上传",
     "en": "rise; increase; raising; lifting; going up; upload",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10136,7 +9292,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "开；开业；公开",
     "en": "opening (a new store, golf course, runway, etc.); open; frank; approachable; open-hearted; open (car, collar, tournament, etc.)",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10148,7 +9303,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "广告",
     "en": "commercial (TV or radio advertisement); commercial",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10160,7 +9314,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "劝告，提意见",
     "en": "advice",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10172,7 +9325,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "办公室",
     "en": "office",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10184,7 +9336,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "便利店",
     "en": "convenience store",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10196,7 +9347,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "播音员；主持人；广播公司；记者；为综艺节目制作现场小品的内部电视人才",
     "en": "announcer; presenter; broadcaster; reporter; in-house television talent who does on-location fluff pieces for variety shows",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10208,7 +9358,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "奥林匹克运动会",
     "en": "Olympics (eng: Olympic); Olympic Games",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10220,7 +9369,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "高卢（地区）；进球（足球、曲棍球等）；篮子（篮球）；终点线；终点线；获胜职位",
     "en": "Gaul (region); goal (in soccer, hockey, etc.); basket (in basketball); finish line; finishing line; winning post",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10232,7 +9380,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "公告（特别是通过公共广播系统）；官方公告；正式信息发布",
     "en": "announcement (esp. over public-address system); official announcement; formal information release",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10244,7 +9391,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "杯子（饮用器皿、量具、胸罩、奖品等）",
     "en": "cup (drinking vessel, measure, brassiere, prize, etc.)",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10256,7 +9402,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "圆；小组，圈子",
     "en": "group with a common interest (e.g. students); club (e.g. company sports club); circle; circle (shape)",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10268,7 +9413,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "钠长石；兼职工作（德语：Arbeit）；副业；兼职工人",
     "en": "albite; part-time job (ger: Arbeit); side job; part-time worker",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10280,7 +9424,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "咖啡馆（免费：）；咖啡店；咖啡馆；女主人酒吧（供应西式酒精饮料；大正和昭和时期）",
     "en": "café (fre:); cafe; coffeehouse; hostess bar (serving western alcoholic beverages; Taisho and Showa period)",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10292,7 +9435,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "网站",
     "en": "site; website; time allowed for payment of a bill of exchange (eng: sight); usance",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10304,7 +9446,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "过敏",
     "en": "allergy (ger: Allergie); aversion (to); strong distaste (for)",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10316,7 +9457,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "卡拉OK",
     "en": "karaoke",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10328,7 +9468,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "样本；例子；标本；展示模型（例如餐馆使用的塑料食品模型）",
     "en": "sample; example; specimen; display model (e.g. plastic food models used by restaurants)",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10340,7 +9479,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "通讯调查，征询意见",
     "en": "questionnaire (fre: enquête); survey; poll",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10352,7 +9490,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "文化",
     "en": "culture",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10364,7 +9501,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "夹克；书封套；防尘罩； CD封套；唱片夹克",
     "en": "jacket; book jacket; dust cover; CD jacket; record jacket",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10376,7 +9512,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "事件；活动",
     "en": "event",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10388,7 +9523,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "（热量单位）卡",
     "en": "calorie",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10400,7 +9534,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "果酱",
     "en": "jam",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10412,7 +9545,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "形象，印象；心象",
     "en": "image (in one's mind); impression; imagining; mental image; mental picture; (computer) image",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10424,7 +9556,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "加油站；加油站；加油站",
     "en": "gas station ; petrol station; filling station",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10436,7 +9567,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "（西式）汤",
     "en": "(Western) soup",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10448,7 +9578,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "墨水",
     "en": "ink",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10460,7 +9589,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "测验",
     "en": "quiz",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10472,7 +9600,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "故事；故事；传奇；阴谋；故事情节",
     "en": "story; tale; legend; plot; storyline",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10484,7 +9611,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "采访；访谈",
     "en": "interview (on television, in a newspaper, etc.)",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10496,7 +9622,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "饼干；饼干；浏览器cookie",
     "en": "cookie; biscuit; browser cookie",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10508,7 +9633,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "贱卖，大减价",
     "en": "sale",
-    "page": 29,
     "book": "n2"
   },
   {
@@ -10520,7 +9644,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "（事物的）集合；组合；设立；准备；安排；放置",
     "en": "set (of things); combo; setting up; preparing; arranging; placing",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10532,7 +9655,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "野餐；郊游；远足",
     "en": "picnic; outing; hike",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10544,7 +9666,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "整体；全部的；完全的；礼堂（舞会、音乐会等）；餐厅的用餐区；洞",
     "en": "whole; entire; complete; hall (dance, concert, etc.); dining area of a restaurant; hole",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10556,7 +9677,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "研讨会",
     "en": "seminar",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10568,7 +9688,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "拉链（英语：紧固件）；拉链；邮编",
     "en": "zip fastener (eng: fastener); zipper; zip",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10580,7 +9699,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "点；得分",
     "en": "point (of a story, argument, etc.); key point; important part; point; site; spot",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10592,7 +9710,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "中心；中心；中外野手",
     "en": "centre; center; center fielder",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10604,7 +9721,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "传真；传真机",
     "en": "fax; facsimile",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10616,7 +9732,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "海报",
     "en": "poster",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10628,7 +9743,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "研究小组，课堂演习",
     "en": "seminar",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10640,7 +9754,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "流行，时兴",
     "en": "fashion",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10652,7 +9765,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "麦克风；麦克风；麦克风",
     "en": "mike; mic; microphone",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10664,7 +9776,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "办理登机手续",
     "en": "check-in",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10676,7 +9787,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "有趣；扇子；爱好者；（的）情人",
     "en": "fun; fan; enthusiast; lover (of)",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10688,7 +9798,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "礼貌，理解；态度，风格",
     "en": "manners; etiquette; polite behaviour",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10700,7 +9809,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "传单；广告单",
     "en": "flyer; leaflet",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10712,7 +9820,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "秋千",
     "en": "swing",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10724,7 +9831,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "留言",
     "en": "message",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10736,7 +9842,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "T恤",
     "en": "T-shirt",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10748,7 +9853,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "塑料",
     "en": "plastic",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10760,7 +9864,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "团队成员",
     "en": "member; participant; attendee; lineup (sport)",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10772,7 +9875,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "主题；题目",
     "en": "theme (ger: Thema); topic; subject matter; motif; project; slogan",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10784,7 +9886,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "打印机",
     "en": "printer",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10796,7 +9897,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "酸奶（酸奶：酸奶）；酸奶",
     "en": "yogurt (ger: Yoghurt); yoghurt",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10808,7 +9908,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "练习，锻炼",
     "en": "training (for a skill, job, sport, etc.); practice; working out; workout; training",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10820,7 +9919,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "程序",
     "en": "program (of events, music, etc.); programme; program (booklet); brochure; pamphlet; (computer) program",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10832,7 +9930,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "刚性框架（德语：Rahmen）",
     "en": "rigid frame (ger: Rahmen)",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10844,7 +9941,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "徒步旅行",
     "en": "hiking",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10856,7 +9952,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "专业的",
     "en": "professional",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10868,7 +9963,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "午餐；单盘午餐套餐；午餐盘；午餐套餐；发射（船）；牧场",
     "en": "lunch; single-plate lunch set; plate lunch; lunch set; launch (boat); ranch",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10880,7 +9974,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "篮子；篮球；篮子布",
     "en": "basket; basketball; basket cloth",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10892,7 +9985,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "头盔；安全帽；防护帽",
     "en": "helmet; hard hat; protective headgear",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10904,7 +9996,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "清单；手腕",
     "en": "list; wrist",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10916,7 +10007,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "篮球",
     "en": "basketball",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10928,7 +10018,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "阳台；阳台；阳台；门廊",
     "en": "balcony; veranda; verandah; porch",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10940,7 +10029,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "升（fre：）；升",
     "en": "litre (fre:); liter",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10952,7 +10040,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "百分比；百分比；百分比",
     "en": "percent; per cent; percentage",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10964,7 +10051,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "塑料饮料瓶",
     "en": "plastic beverage bottle",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10976,7 +10062,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "食谱；处方；操作指南（例如工艺品）",
     "en": "recipe; prescription; how-to guide (e.g. for crafts)",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -10988,7 +10073,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "汉堡牛排；汉堡牛排",
     "en": "Hamburg steak; hamburger steak",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -11000,7 +10084,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "油漆",
     "en": "paint",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -11012,7 +10095,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "课，课程",
     "en": "lesson",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -11024,7 +10106,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "暗示，启发",
     "en": "hint; clue",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -11036,7 +10117,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "寄宿家庭",
     "en": "homestay",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -11048,7 +10128,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "火箭",
     "en": "locket; rocket",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -11060,7 +10139,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "维生素，维他命",
     "en": "vitamin (ger:)",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -11072,7 +10150,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "（网站或浏览器的）主页；主页；网页；网站",
     "en": "home page (of a website or browser); homepage; web page; website",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -11084,7 +10161,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "储物柜；摇杆；摇滚乐",
     "en": "locker; rocker; rock'n'roller",
-    "page": 30,
     "book": "n2"
   },
   {
@@ -11096,7 +10172,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "汗",
     "en": "sweat; perspiration; moisture; condensation; gulp; oops",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11108,7 +10183,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "钞票；账单；笔记；纸币",
     "en": "banknote; bill; note; paper money",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11120,7 +10194,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "（植物的）根； （牙齿、头发等的）根； （丘疹等的）中心； （一切罪恶的根源等）；来源；起源",
     "en": "root (of a plant); root (of a tooth, hair, etc.); center (of a pimple, etc.); root (of all evil, etc.); source; origin",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11132,7 +10205,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "收件人；寄给",
     "en": "aim; object; purpose; end; expectations; prospects",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11144,7 +10216,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "舌头；舌头状物体； （铃的）拍板； （锁的）爪子； （乐器的）簧片",
     "en": "tongue; tongue-like object; clapper (of a bell); talon (of a lock); reed (of a musical instrument)",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11156,7 +10227,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "脑；大脑",
     "en": "brain; brains; mind",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11168,7 +10238,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "板；板；（金属）板材； （玻璃）板；窗格；板坯",
     "en": "board; plank; sheet (of metal); plate (of glass); pane; slab",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11180,7 +10249,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "实质，质量",
     "en": "quality; value; nature; inherent quality; character; logical quality",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11192,7 +10260,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "末端（例如街道）；提示；观点；边缘；利润；开始",
     "en": "end (e.g. of street); tip; point; edge; margin; beginning",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11204,7 +10271,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "财富；运气；机会",
     "en": "fortune; luck; chance",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11216,7 +10282,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "奖品；奖项",
     "en": "prize; award",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11228,7 +10293,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "耻辱，羞耻",
     "en": "shame; embarrassment; disgrace",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11240,7 +10304,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "缘分，机缘",
     "en": "fate; destiny (esp. as a mysterious force that binds two people together); relationship (e.g. between two people); bond; link; connection",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11252,7 +10315,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "灯芯；骨髓；订书钉（用于订书机）；带领；馅；髓",
     "en": "wick; marrow; staple (for stapler); lead; stuffing; pith",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11264,7 +10326,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "盆；钵",
     "en": "bowl; pot; basin; flowerpot; crown (of the head); skull",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11276,7 +10337,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "离海岸不远的海面，湖心",
     "en": "open sea; Okinawa",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11288,7 +10348,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "情怀；情感；情绪；同情；同情；激情",
     "en": "feelings; emotion; sentiment; compassion; sympathy; passion",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11300,7 +10359,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "蜜蜂；黄蜂；大黄蜂",
     "en": "bee; wasp; hornet",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11312,7 +10370,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "可以接受；令人满意的；允许；允许；赞同；受到青睐",
     "en": "acceptable; satisfactory; allowed; permitted; approval; being in favour",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11324,7 +10381,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "姿态；举止；身影",
     "en": "figure; form; shape; appearance; dress; guise",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11336,7 +10392,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "密封；邮票；字母组合签名；判断；判断；（纸张或书籍的）尺寸",
     "en": "seal; stamp; monogram signature; judgment; judgement; size (of paper or books)",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11348,7 +10403,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "皮革",
     "en": "leather",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11360,7 +10414,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "下摆；袖口；衬衣下摆； （和服的）底部； (衣服的)裙裾；底部",
     "en": "hem; cuff; shirttail; bottom (of a kimono); train (of a dress); bottom part",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11372,7 +10425,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "航班（例如航空公司航班）；旅行（例如火车旅行）；航行（例如渡轮航行）；服务；邮件；帖子",
     "en": "flight (e.g. airline flight); trip (e.g. train trip); sailing (e.g. ferry voyage); service; mail; post",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11384,7 +10436,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "直觉，灵感",
     "en": "perception; intuition; the sixth sense",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11396,7 +10447,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "意见，说法；学说",
     "en": "theory; doctrine; opinion; view; rumour; rumor",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11408,7 +10458,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "窗帘；表演（在戏剧中）；帷幕落下； （场景的）结束；结尾；关闭",
     "en": "curtain; act (in a play); falling of the curtain; end (of a scene); end; close",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11420,7 +10469,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "害",
     "en": "injury; harm; evil influence; damage",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11432,7 +10480,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "损失；损害；伤害；无利可图；劣势；障碍",
     "en": "loss; damage; harm; unprofitable; disadvantage; handicap",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11444,7 +10491,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "沟渠；流走；排水沟；沟；槽；胎面",
     "en": "ditch; drain; gutter; trench; groove; tread",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11456,7 +10502,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "丝绸",
     "en": "silk",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11468,7 +10513,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "种子（例如植物的种子）；点；核心；石头（例如桃子）；后代；后代",
     "en": "seed (e.g. of a plant); pip; kernel; stone (e.g. of a peach); progeny; offspring",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11480,7 +10524,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "紫色；紫色；紫草（紫草）；红色格罗威尔；红根葛威尔；酱油",
     "en": "purple; violet; purple gromwell (Lithospermum erythrorhizon); red gromwell; red-root gromwell; soy sauce",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11492,7 +10535,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "客人；游客；顾客；客户；购物者；旁观者",
     "en": "guest; visitor; customer; client; shopper; spectator",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11504,7 +10546,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "球；玉；珍珠",
     "en": "ball; sphere; globe; orb; bead (of sweat, dew, etc.); drop",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11516,7 +10557,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "起源；来源；开始；基础；根据；基金会",
     "en": "origin; source; beginning; basis; base; foundation",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11528,7 +10568,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "头发；毛皮；羊毛；向下；羽毛；羽毛",
     "en": "hair; fur; wool; down; plumage; feathers",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11540,7 +10579,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "蝴蝶",
     "en": "butterfly",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11552,7 +10590,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "桃子（Prunus persica）",
     "en": "peach (Prunus persica)",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11564,7 +10601,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "事情；案件",
     "en": "matter; affair; case; item; subject; counter for (received) emails, text messages, voicemail messages, etc.",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11576,7 +10612,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "机翼；中国“翼”星座（28宅之一）；鸟类或鸟类翅膀计数器",
     "en": "wing; Chinese \"Wings\" constellation (one of the 28 mansions); counter for birds or bird wings",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11588,7 +10623,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "角色；职务；作用",
     "en": "role; assignment; responsibility; duty; function; job",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11600,7 +10634,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "票；券",
     "en": "ticket; coupon; bond; certificate",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11612,7 +10645,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "谷物；珠子；降低；柜台用于存放小圆形物体，包括谷物、种子、药丸、滴剂",
     "en": "grain; bead; drop; counter for small round objects including grains, seeds, pills, drops",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11624,7 +10656,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "大约",
     "en": "approximately; about; promise; appointment; engagement; shortening",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11636,7 +10667,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "戏剧；剧场",
     "en": "drama; play; powerful drug",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11648,7 +10678,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "敌人；对手",
     "en": "opponent; rival; adversary; menace; danger; threat",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11660,7 +10689,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "同胞；家伙；小伙子；事物；目的；他",
     "en": "fellow; guy; chap; thing; object; he",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11672,7 +10700,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "日历；年鉴",
     "en": "calendar; almanac",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11684,7 +10711,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "铁（Fe）；钢；铁（意志、纪律、淑女等）；铁路；铁路爱好者",
     "en": "iron (Fe); steel; iron (will, discipline, lady, etc.); railway; railway enthusiast",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11696,7 +10722,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "部分（例如报纸）；柱子；页；字段（在表单、网页等中）；空白的；扶手",
     "en": "section (e.g. in a newspaper); column; page; field (in a form, web page, etc.); blank; handrail",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11708,7 +10733,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "时间；大约；关于；朝向；合适的时间（或条件）；一年中的某个时间",
     "en": "time; around; about; toward; suitable time (or condition); time of year",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11720,7 +10744,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "nashi（尤其是梨）；日本梨；亚洲梨",
     "en": "nashi (esp. Pyrus pyrifolia); Japanese pear; Asian pear",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11732,7 +10755,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "鲑鱼（鲑鱼科）；鲑鱼（Oncorhynchus keta）；狗鲑鱼",
     "en": "salmon (Salmonidae spp.); chum salmon (Oncorhynchus keta); dog salmon",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11744,7 +10766,6 @@ window.N2_VOCAB = [
     "category": "名詞（1文字）",
     "cn": "布；织物；材料；纺织品；不坚（中国古代铲形铜钱）",
     "en": "cloth; fabric; material; textile; bujian (spade-shaped bronze coin of ancient China)",
-    "page": 31,
     "book": "n2"
   },
   {
@@ -11756,7 +10777,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "习惯性饮酒；喜欢（喝一杯）",
     "en": "drinking habitually; being fond of (a drink)",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11768,7 +10788,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一面；一方面；整个表面",
     "en": "one face; one surface; the whole surface; one aspect; one side; the other hand",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11780,7 +10799,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "亲和力；兼容性；（人与人之间）化学反应",
     "en": "affinity; compatibility; chemistry (between people)",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11792,7 +10810,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一辆车；一两（古钱币）",
     "en": "one vehicle; one ryō (an old coin)",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11804,7 +10821,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "爱；爱情",
     "en": "love; affection",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11816,7 +10832,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "例子；一个实例",
     "en": "example; an instance",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11828,7 +10843,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "留恋，依依难舍",
     "en": "attachment (esp. to things); love; affection; fondness",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11840,7 +10854,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一个家庭；一个家庭；一个家；一个人的家人；全家人；风格",
     "en": "a family; a household; a home; one's family; whole family; style",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11852,7 +10865,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "最喜欢的；最喜欢的；习惯使用的",
     "en": "favorite; favourite; habitually used",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11864,7 +10876,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一种",
     "en": "a kind; a sort; a variety; a species; of sorts; something of a",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11876,7 +10887,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "赤字，入不敷出",
     "en": "the red; deficit; red letter; red writing; corrections (by a teacher or proofreader) written in red",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11888,7 +10898,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一瞬，一刹那",
     "en": "instant; moment; for an instant",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11900,7 +10909,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "恶意",
     "en": "ill will; spite; evil intention; malice; bad meaning; mala fides",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11912,7 +10920,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一生，终生",
     "en": "whole life; a lifetime; all through life; of one's life",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11924,7 +10931,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "腿和腰部；下半身；基金会；基础",
     "en": "legs and loins; lower body; foundations; underpinnings",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11936,7 +10942,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一致，符合",
     "en": "agreement; accord; correspondence; consistency; coincidence; match",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11948,7 +10953,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "脚下；身边",
     "en": "at one's feet; underfoot; one's step (as in \"watch your step\"); gait; pace; step",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11960,7 +10964,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一定，固定",
     "en": "to fix; to settle; to standardize; to regularize; constant; definite",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11972,7 +10975,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "恶化",
     "en": "deterioration; getting worse; worsening; aggravation; degeneration; corruption",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11984,7 +10986,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一回合；旋转；彻底改变；逆转；转变；突然转变",
     "en": "one turn; spinning around; complete change; reversal; about-face; sudden transformation",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -11996,7 +10997,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "稳定，安定",
     "en": "stability; steadiness; consistency; equilibrium; balance; composure",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12008,7 +11008,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "步骤；一步；等级；阶段；学位小；少量",
     "en": "step; one step; level; stage; small degree; small amount",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12020,7 +11019,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "意义",
     "en": "meaning; significance",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12032,7 +11030,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "意图，企图，打算",
     "en": "intention; aim; design",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12044,7 +11041,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "育儿",
     "en": "childcare; child-rearing; nursing; upbringing",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12056,7 +11052,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "违反",
     "en": "violation; offense; offence; breach; transgression; infringement",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12068,7 +11063,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "过渡；转换；切换；转移；（权力、重量等）转移；移动（例如重心）",
     "en": "transition; changeover; switchover; shift; transfer (of powers, weight, etc.); shift (e.g. of centre of gravity)",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12080,7 +11074,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "以来，以后",
     "en": "since; henceforth; ever since",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12092,7 +11085,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "意志，意向",
     "en": "will; volition; intention; intent; determination",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12104,7 +11096,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "委托；请求；依靠",
     "en": "request; commission; entrusting (with a matter); dependence; reliance",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12116,7 +11107,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "意思，想法，打算",
     "en": "intention; wish; purpose; mind (to do)",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12128,7 +11118,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "医疗，治疗",
     "en": "medical treatment; medical care",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12140,7 +11129,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "医生",
     "en": "doctor; physician",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12152,7 +11140,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "衣服；衣服；服装",
     "en": "clothes; clothing; garments",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12164,7 +11151,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "移居",
     "en": "migration; move; emigration; immigration",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12176,7 +11162,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "邮票；密封件",
     "en": "stamp; seal",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12188,7 +11173,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "服装；戏服；全套服装；服装；连衣裙",
     "en": "clothing; costume; outfit; garment; dress",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12200,7 +11184,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "退役",
     "en": "retirement",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12212,7 +11195,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "异常，非常",
     "en": "abnormal; unusual; extraordinary; remarkable; uncommon",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12224,7 +11206,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "园林植物；园林树；盆栽植物",
     "en": "garden plant; garden tree; potted plant",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12236,7 +11217,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一部分；一份；一节； （一本书的）一份；全套（书籍）",
     "en": "one part; one portion; one section; one copy (of a book); complete set (of books)",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12248,7 +11228,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "有无；可否",
     "en": "existence or nonexistence; presence or absence; consent or refusal; yes or no",
-    "page": 32,
     "book": "n2"
   },
   {
@@ -12260,7 +11239,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "运营，经营，管理",
     "en": "management; administration; operation",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12272,7 +11250,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "开发",
     "en": "development; cultivation; application; exploitation (of resources)",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12284,7 +11261,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "映像，影像",
     "en": "image (on a screen); picture (e.g. on a TV); video; film; footage; reflection",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12296,7 +11272,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "恢复；挽回，收复",
     "en": "restoration; recovery; rehabilitation; return; improvement; recovery (from an illness)",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12308,7 +11283,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "演技，表演",
     "en": "acting; performance",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12320,7 +11294,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "解放",
     "en": "release; unleashing; liberation; emancipation; setting free; deallocation (of computer memory)",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12332,7 +11305,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "园艺；园艺",
     "en": "horticulture; gardening",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12344,7 +11316,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "打开；开放，公开",
     "en": "opening (a door, window, etc.); leaving open; opening up (e.g. to the public); allowing (public) access",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12356,7 +11327,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "演剧，戏剧",
     "en": "drama; theatre; theater; play",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12368,7 +11338,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "解除合同",
     "en": "cancellation of a contract",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12380,7 +11349,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "演说，讲演",
     "en": "speech; address",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12392,7 +11360,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "改良",
     "en": "improvement; reform",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12404,7 +11371,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "沿线",
     "en": "places alongside a railway line, bus route, major thoroughfare, etc.",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12416,7 +11382,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "小节头；助理；首席文员",
     "en": "subsection head; assistant manager; chief clerk",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12428,7 +11393,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "学校旅行；实地考察；游览；郊游；长途步行；游览（步行）",
     "en": "school trip; field trip; excursion; outing; long walk; excursion (on foot)",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12440,7 +11404,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "以下",
     "en": "the following",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12452,7 +11415,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "延长",
     "en": "extension; elongation; prolongation; lengthening; length; extension (e.g. of one's work)",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12464,7 +11426,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "准备情况；准备；解决；决心；辞职（听天由命）",
     "en": "readiness; preparedness; resolution; determination; resignation (to one's fate)",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12476,7 +11437,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "幼儿园内；动物园内；花园内；公园内",
     "en": "inside the kindergarten; inside the zoo; inside the garden; inside the park",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12488,7 +11448,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "扩大，放大",
     "en": "expansion; extension; magnification; enlargement; escalation; spread",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12500,7 +11459,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "大型",
     "en": "large; large-sized; large-scale; big",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12512,7 +11470,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "坚信，确信",
     "en": "conviction; belief; confidence",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12524,7 +11481,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "大声",
     "en": "loud voice",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12536,7 +11492,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "每个（人）；每个人；个人；各自的",
     "en": "each (person); everyone; individual; respective",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12548,7 +11503,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "大企业",
     "en": "major company; big company; front castle gate; force attacking the front of a castle",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12560,7 +11514,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "扩充，扩大，扩张",
     "en": "expansion; extension; enlargement; escape; ESC",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12572,7 +11525,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "户外；外面",
     "en": "outdoors; outside",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12584,7 +11536,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "决定，确定",
     "en": "decision; settlement; confirmation; establishment",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12596,7 +11547,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "温室；温室；温室；温室",
     "en": "greenhouse; hothouse; conservatory; glasshouse",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12608,7 +11558,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "获得，取得，争取",
     "en": "acquisition; possession",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12620,7 +11569,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "看护，护理",
     "en": "nursing; care; caregiving; caring",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12632,7 +11580,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "确实保住，确保",
     "en": "securing; obtaining; ensuring; guarantee; maintaining; belay",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12644,7 +11591,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "召开，举办",
     "en": "holding (a conference, exhibition, etc.); opening; hosting (e.g. the Olympics)",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12656,7 +11602,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "概率",
     "en": "probability; likelihood; chances",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12668,7 +11613,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "解释，理解",
     "en": "interpretation; explanation; reading; construction",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12680,7 +11624,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "家庭收支；家计",
     "en": "household economy; family finances",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12692,7 +11635,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "解除，取消",
     "en": "cancellation; liquidation; resolution; reduction (e.g. of stress)",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12704,7 +11646,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "学位；程度；数量；平衡；状态；条件",
     "en": "degree; extent; amount; balance; state; condition",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12716,7 +11657,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "修改",
     "en": "revision; amendment; alteration",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12728,7 +11668,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "歌词；歌曲的歌词；剧本",
     "en": "song lyrics; words of a song; libretto",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12740,7 +11679,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "改善",
     "en": "betterment; improvement; kaizen (Japanese business philosophy of continuous improvement)",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12752,7 +11690,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "家务",
     "en": "housework; domestic chores; family affairs; household matters",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12764,7 +11701,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "回答",
     "en": "reply; answer",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12776,7 +11712,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "果实",
     "en": "fruit; nut; berry; fruits; profit",
-    "page": 33,
     "book": "n2"
   },
   {
@@ -12788,7 +11723,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "地点；观点；部分；点；区域；通道",
     "en": "place; point; part; spot; area; passage",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12800,7 +11734,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "完成；完毕",
     "en": "completion; conclusion; perfect (tense)",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12812,7 +11745,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "许多；很多的；各种各样的；大量",
     "en": "many; numerous; various; large number of",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12824,7 +11756,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "关联，联系",
     "en": "relation; connection; relevance",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12836,7 +11767,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "加速度；加速",
     "en": "acceleration; speeding up",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12848,7 +11778,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "外表，外观，外形",
     "en": "outward appearance; exterior appearance; outward show; looks",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12860,7 +11789,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "题目；课题，任务",
     "en": "subject; theme; issue; matter; homework; assignment",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12872,7 +11800,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "外表，表面，外观",
     "en": "outward appearance; looks",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12884,7 +11811,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "各位；各处",
     "en": "people; persons; everyone; ladies and gentlemen; you ",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12896,7 +11822,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "外部（例如建筑物的外部）；外部的；（集团、公司等的）外部；外面的世界",
     "en": "outside (e.g. of a building); exterior; outside (of a group, company, etc.); outside world",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12908,7 +11833,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "肩宽（宽度）",
     "en": "shoulder width (breadth)",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12920,7 +11844,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "概要",
     "en": "outline; summary; overview; synopsis; abstract; abridgment",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12932,7 +11855,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "活力，生气，活跃",
     "en": "energy; vigour; vigor; liveliness; spirit; life",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12944,7 +11866,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "研究；学校工作；课堂作业",
     "en": "studies; schoolwork; classwork",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12956,7 +11877,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "样子；姿势；装束，打扮",
     "en": "shape; form; figure; posture; pose; appearance",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12968,7 +11888,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "学者；学术的；科学家；有学问的人；学习的人",
     "en": "scholar; academic; scientist; learned person; person of learning",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12980,7 +11899,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "活跃",
     "en": "activity (esp. energetic or successful); great efforts; active participation; walking about with great vigor",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -12992,7 +11910,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "学习",
     "en": "learning; study",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13004,7 +11921,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "有效地利用，实际应用",
     "en": "practical use; application; making good use of; putting to good use; capitalizing on; conjugation",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13016,7 +11932,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "学年；学年；在校一年；在校成绩",
     "en": "academic year; school year; year in school; grade in school",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13028,7 +11943,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "活力；活力；活力",
     "en": "vitality; energy; dynamism",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13040,7 +11954,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "学问，学识",
     "en": "study; scholarship; learning; education; knowledge; discipline",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13052,7 +11965,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "过程",
     "en": "process; course; mechanism",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13064,7 +11976,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "图像；图片；肖像",
     "en": "image; picture; portrait",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13076,7 +11987,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "加热",
     "en": "heating; application of heat",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13088,7 +11998,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一起唱歌；团结歌唱；合唱；合唱团演唱；合唱",
     "en": "singing together; singing in union; chorus; ensemble singing; choral singing",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13100,7 +12009,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "壁纸；背景图片；桌面图像",
     "en": "wallpaper; background image; desktop image",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13112,7 +12020,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "画面",
     "en": "screen (of a TV, computer, etc.); image (on a screen); picture; scene; surface of a painting (picture, drawing, etc.)",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13124,7 +12031,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "纸袋",
     "en": "paper bag",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13136,7 +12042,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "欲望；希望；愿望",
     "en": "desire; wish; aspiration",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13148,7 +12053,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "欣赏，鉴赏",
     "en": "appreciation (of art, music, poetry, etc.)",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13160,7 +12064,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "记忆；记性",
     "en": "memory; recollection; remembrance; storage",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13172,7 +12075,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "感情，情绪",
     "en": "emotion; feeling; feelings; sentiment",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13184,7 +12086,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "饥饿；饥荒；饥饿",
     "en": "starvation; famine; hunger",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13196,7 +12097,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "观战",
     "en": "watching a (sports) game; spectating; observing (military operations)",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13208,7 +12108,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "规划，计划",
     "en": "planning; plan; project; arrangements",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13220,7 +12119,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "观测",
     "en": "observation; survey; measurement; opinion; prediction; thinking",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13232,7 +12130,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "机器；设备",
     "en": "device; equipment; machinery; apparatus",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13244,7 +12141,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "监督；导演；教练",
     "en": "supervision; control; superintendence; direction; director; superintendent",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13256,7 +12152,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "用具；实施；工具；乐器；器具；仪器",
     "en": "utensil; implement; tool; instrument; appliance; apparatus",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13268,7 +12163,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "装备齐全；家具齐全；完成",
     "en": "being fully equipped; being fully furnished; complete",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13280,7 +12174,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "心情，情绪",
     "en": "humour; humor; temper; mood; spirits; safety",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13292,7 +12185,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "护理（病人）",
     "en": "nursing (a patient)",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13304,7 +12196,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "气候",
     "en": "climate",
-    "page": 34,
     "book": "n2"
   },
   {
@@ -13316,7 +12207,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "布料；面料；质地；出生地",
     "en": "cloth; fabric; material; texture; dough; batter",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13328,7 +12218,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "竞技",
     "en": "game; match; contest; competition; sport; event",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13340,7 +12229,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "固定日期；指定日期；设定日期；最后期限；到期日",
     "en": "fixed date; appointed date; set date; deadline; due date",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13352,7 +12240,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "供给，供应",
     "en": "supply; provision; service",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13364,7 +12251,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "记者",
     "en": "reporter; journalist",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13376,7 +12262,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "教材",
     "en": "teaching materials",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13388,7 +12273,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "（机器、设备的）型号；飞机型号；飞机类型",
     "en": "model (of machine, device); model of aircraft; type of aircraft",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13400,7 +12284,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "强项和弱项；力量；（声音的）重音；响度",
     "en": "strength and weakness; strength; stress (of a sound); loudness",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13412,7 +12295,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "标准，基准",
     "en": "standard; criterion; norm; benchmark; measure; gauge",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13424,7 +12306,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "教授",
     "en": "professor; teaching; instruction",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13436,7 +12317,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "飞机内；飞行中",
     "en": "inside a plane; in-flight",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13448,7 +12328,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "强调",
     "en": "emphasis; stress; highlighting; underlining; underscoring; accentuating (a feature or certain part)",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13460,7 +12339,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "记上，填写",
     "en": "entry (in a form, register, diary, etc.); filling in; filling out",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13472,7 +12350,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "恐怖，害怕",
     "en": "fear; dread; dismay; terror; horror; scare",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13484,7 +12361,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "功能",
     "en": "function; facility; faculty; feature",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13496,7 +12372,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "强风；大风；中等大风",
     "en": "strong wind; high wind; moderate gale",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13508,7 +12383,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "捐赠，赠送",
     "en": "contribution; donation",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13520,7 +12394,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "共同所有，公有",
     "en": "joint ownership; co-ownership; sharing (e.g. a viewpoint); sharing (files, devices on a network, posts on social media, etc.)",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13532,7 +12405,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "规模",
     "en": "scale; scope; plan; structure",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13544,7 +12416,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "教养，修养，学识",
     "en": "culture; education; cultivation; sophistication; refinement",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13556,7 +12427,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "宾客座位（例如剧院、体育场）；乘客座位（例如出租车）；观众",
     "en": "guest seating (e.g. theater, stadium); passenger seat (e.g. taxi); audience",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13568,7 +12438,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "许可，准许",
     "en": "permission; approval; authorization; license",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13580,7 +12449,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "休假",
     "en": "holiday; vacation; day off; time off; leave; furlough",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13592,7 +12460,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "金额",
     "en": "amount of money; sum",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13604,7 +12471,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "吸收",
     "en": "absorption; suction; attraction",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13616,7 +12482,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "金鱼（Carassius auratus）",
     "en": "goldfish (Carassius auratus)",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13628,7 +12493,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "棒球场；球场",
     "en": "baseball stadium; ballpark",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13640,7 +12504,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "安全；保险柜；金库；金库；保险库；保管人",
     "en": "safe; strongbox; cashbox; vault; strongroom; depository",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13652,7 +12515,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "招聘人员",
     "en": "recruiting; job offer; job vacancy",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13664,7 +12526,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "今天；现代；最近的时间；近代早期（在日本，通常是从明治维新到第二次世界大战结束）",
     "en": "present day; modern times; recent times; early modern period (in Japan, usu. from the Meiji Restoration until the end of World War II)",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13676,7 +12537,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "供水；供水；加水",
     "en": "water supply; supplied water; water refill",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13688,7 +12548,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "肌肉",
     "en": "muscle",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13700,7 +12559,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "骤增，陡增",
     "en": "rapid increase; sharp rise; proliferation; surge; explosion",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13712,7 +12570,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "近几年",
     "en": "recent years",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13724,7 +12581,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "休息",
     "en": "rest; relief; relaxation",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13736,7 +12592,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "勤务，工作，职务",
     "en": "service; duty; work",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13748,7 +12603,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "休养",
     "en": "rest; relaxation; recreation; recuperation; convalescence",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13760,7 +12614,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "金融",
     "en": "finance; financing; credit transacting; loaning of money; circulation of money; monetary",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13772,7 +12625,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "老师；讲师；教学人员；教员",
     "en": "teacher; instructor; teaching staff; faculty member",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13784,7 +12636,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "议会成员；国会议员；议会议员；国会议员",
     "en": "member of an assembly; member of the Diet; member of parliament; member of Congress",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13796,7 +12647,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "强化，加强",
     "en": "strengthening; intensifying; reinforcement; enhancement; solidification",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13808,7 +12658,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "义务",
     "en": "duty; obligation; responsibility",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13820,7 +12669,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "协会；社会；组织；组织",
     "en": "association; society; organization; organisation",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13832,7 +12680,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "疑问",
     "en": "doubt; question; suspicion; dubiousness",
-    "page": 35,
     "book": "n2"
   },
   {
@@ -13844,7 +12691,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "按惯例举行的仪式，活动",
     "en": "event; function",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -13856,7 +12702,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "形成",
     "en": "formation; molding; making (up); taking form; giving form to; repair (e.g. with plastic surgery)",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -13868,7 +12713,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "业务，工作",
     "en": "business; work; operations; service; duties",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -13880,7 +12724,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "继续",
     "en": "continuation; continuance; maintenance; persistence; going on",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -13892,7 +12735,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "行列，队伍",
     "en": "line; queue; procession; parade; matrix",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -13904,7 +12746,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一般，普遍，广泛",
     "en": "system; lineage; ancestry; family line; group (e.g. of colors) (colours); family (e.g. of languages)",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -13916,7 +12757,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "议论，讨论，争论",
     "en": "argument; discussion; dispute; controversy",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -13928,7 +12768,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "经费",
     "en": "expenses; expenditure; outgoings; outlays; costs",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -13940,7 +12779,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "空间",
     "en": "space; room; airspace",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -13952,7 +12790,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "警备，警戒",
     "en": "defense; defence; guard; policing; security",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -13964,7 +12801,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "空座位；空座；空缺；空缺职位",
     "en": "empty seat; unoccupied seat; vacancy; vacant post",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -13976,7 +12812,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "合同",
     "en": "contract; compact; agreement",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -13988,7 +12823,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "洞；空洞",
     "en": "cavity; hollow; cave; cavern",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14000,7 +12834,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "决意，下决心",
     "en": "decision; determination; resolution",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14012,7 +12845,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "抱怨，不满意；要求，索赔",
     "en": "complaint; troubles; objection; grievance",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14024,7 +12856,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "缺陷",
     "en": "defect; fault; flaw; deformity; deficiency; shortage",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14036,7 +12867,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "艰苦奋斗；接近比赛；斗争；激烈的竞争",
     "en": "hard fight; close game; struggle; tight contest",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14048,7 +12878,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "比赛的决定；决赛",
     "en": "decision of a contest; finals",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14060,7 +12889,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "痛苦",
     "en": "pain; agony; suffering; distress; torment",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14072,7 +12900,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "结论；决定；结尾；结算",
     "en": "conclusion; decision; end; settlement",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14084,7 +12911,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "分开，划分；分类",
     "en": "division; section; demarcation; partition; segmentation; compartment",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14096,7 +12922,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "决定",
     "en": "decision; determination",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14108,7 +12933,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "黑暗；黑暗",
     "en": "darkness; the dark",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14120,7 +12944,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "结论",
     "en": "conclusion (of an argument, discussion, study, etc.); conclusion",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14132,7 +12955,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "无谓的抱怨；叽；moha（无知、愚蠢）",
     "en": "idle complaint; grumble; moha (ignorance, folly)",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14144,7 +12966,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "情形，样子，苗头",
     "en": "indication; sign; hint; sensation; feeling; tone (of the market)",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14156,7 +12977,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "契机；起因",
     "en": "opportunity; chance; trigger; cause",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14168,7 +12988,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "检索",
     "en": "looking up (e.g. a word in a dictionary); search (e.g. on the Internet); retrieval (of information); reference",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14180,7 +12999,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "景气，实况，商情；繁荣",
     "en": "business conditions; the market; economic activity; economic climate; good (economic) times; prosperity",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14192,7 +13010,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "进修，培训",
     "en": "training (esp. in-service); induction course",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14204,7 +13021,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "倾向，趋势；倾向性",
     "en": "tendency; trend; inclination",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14216,7 +13032,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "诊察，检查疾病",
     "en": "medical examination (for a specific condition or disease); health screening",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14228,7 +13043,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "警告；警告；警告；keikoku（柔道中的罚球）",
     "en": "warning; caution; admonition; keikoku (penalty in judo)",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14240,7 +13054,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "讨论，探讨，研究",
     "en": "consideration; examination; investigation; study; scrutiny; discussion",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14252,7 +13065,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "刊登，登载",
     "en": "publication (e.g. of an article in a newspaper); carrying (e.g. a story); running (e.g. a serial); insertion (e.g. of an advertisement); printing; posting (e.g. on the web)",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14264,7 +13076,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "县内",
     "en": "within the prefecture",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14276,7 +13087,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "轻视；很少考虑；轻视；贬低；解雇；蔑视",
     "en": "making light of; thinking little of; slighting; belittling; dismissing; contempt",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14288,7 +13098,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "宪法",
     "en": "constitution; rules; regulation",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14300,7 +13109,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "形式",
     "en": "form (as opposed to substance); format; form; style; manner; formality",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14312,7 +13120,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "剧院；剧院；剧场",
     "en": "theatre; theater; playhouse",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14324,7 +13131,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "通知；公告；邮政；发帖；标语牌",
     "en": "notice; bulletin; post; posting; placard",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14336,7 +13142,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "离开学校（一天结束时）；离开学校；放学回家",
     "en": "leaving school (at the end of the day); getting out of school; coming home from school",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14348,7 +13153,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "轻伤",
     "en": "minor injury",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14360,7 +13164,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一个月的最后三分之一； 21日至每月最后一天",
     "en": "last third of a month; 21st to the last day of a month",
-    "page": 36,
     "book": "n2"
   },
   {
@@ -14372,7 +13175,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "界限，范围，限度",
     "en": "limit; bound",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14384,7 +13186,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "讲座；讲习班",
     "en": "course (e.g. of lectures); academic university unit (professor, lecturers, etc.)",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14396,7 +13197,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "原创作品",
     "en": "original work",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14408,7 +13208,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "手工艺品；工作；建造；制造业；机动；操纵",
     "en": "handicraft; work; construction; manufacturing; maneuvering; manoeuvring",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14420,7 +13219,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "现实",
     "en": "reality; actuality; hard fact",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14432,7 +13230,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "考察，研究",
     "en": "consideration; inquiry; enquiry; investigation; study",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14444,7 +13241,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "现象",
     "en": "phenomenon",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14456,7 +13252,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "讲师；演讲者",
     "en": "speaker; lecturer; lecturer (at a university or college); instructor; part-time teacher; tutor (at a cram school)",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14468,7 +13263,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "现状",
     "en": "present condition; existing state; status quo; current state",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14480,7 +13274,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "后者；第二个；接班人；后裔",
     "en": "the latter; the second; successor; descendant",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14492,7 +13285,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "现代，当代",
     "en": "present age; present day; today; modern era; modern times",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14504,7 +13296,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "学校建筑；校舍",
     "en": "school building; schoolhouse",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14516,7 +13307,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "现场；当地",
     "en": "actual place; actual location; the spot; the scene; the field; site",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14528,7 +13318,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "公众，公共",
     "en": "the public; general public",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14540,7 +13329,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "限定，限制",
     "en": "limit; restriction",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14552,7 +13340,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "交涉，谈判",
     "en": "negotiations; bargaining; discussions; talks; connection; relationship",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14564,7 +13351,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "减去分数；扣分；扣分",
     "en": "subtracting points; deducting points; points deducted",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14576,7 +13362,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "提高，进步",
     "en": "elevation; rise; improvement; advancement; progress",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14588,7 +13373,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "现场；工地",
     "en": "actual spot; scene (of a crime, accident, etc.); site; the ground; the field; job site",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14600,7 +13384,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "更新",
     "en": "renewal; update; replacement; renovation; breaking (a record)",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14612,7 +13395,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "行为",
     "en": "act; deed; conduct",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14624,7 +13406,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "香水；气味",
     "en": "perfume; scent",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14636,7 +13417,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "厶往！",
     "en": "public performance; exhibition in a foreign country",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14648,7 +13428,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "构成，组织，结构",
     "en": "composition; construction; formation; makeup; structure; organization",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14660,7 +13439,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "硬币；硬通货",
     "en": "coin; hard currency",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14672,7 +13450,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "结构",
     "en": "structure; construction; makeup; framework; organization; pattern",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14684,7 +13461,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "后悔",
     "en": "regret; repentance; remorse",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14696,7 +13472,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "肯定，承认",
     "en": "affirmation; affirmative",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14708,7 +13483,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "公开",
     "en": "opening to the public; making available to the public; exhibiting; unveiling; release (of a film, information, etc.); disclosure",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14720,7 +13494,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "买入，采购",
     "en": "purchase; buying",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14732,7 +13505,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "郊外，郊区",
     "en": "suburb; residential area on the outskirt of a city; commuter belt",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14744,7 +13516,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "高烧；酷热",
     "en": "high fever; intense heat",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14756,7 +13527,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "工程",
     "en": "engineering",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14768,7 +13538,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "候补；候选",
     "en": "candidate; contender; prospect; pick; choice; list",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14780,7 +13549,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "好感",
     "en": "good feeling; good will; favourable impression; favorable impression",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14792,7 +13560,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "项目；条目",
     "en": "item; heading; category; clause; headword (in a dictionary, encyclopedia, etc.); entry",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14804,7 +13571,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "高级；等级高，上等",
     "en": "high-class; high-grade; high-quality; high-end; luxury; high-ranking",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14816,7 +13582,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "学校门口",
     "en": "school gate",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14828,7 +13593,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "贡献",
     "en": "contribution (furthering a goal or cause); services (to a cause); paying tribute; tribute",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14840,7 +13604,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "叶子变红（秋天）；红叶；秋天的颜色；秋天的颜色",
     "en": "leaves turning red (in autumn); red leaves; autumn colours; fall colors",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14852,7 +13615,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "攻击",
     "en": "attack; assault; raid; onslaught; offensive; criticism",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14864,7 +13626,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "公立",
     "en": "public (institution)",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14876,7 +13637,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "银行账户",
     "en": "account (e.g. bank)",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14888,7 +13648,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "考虑",
     "en": "consideration; taking into account",
-    "page": 37,
     "book": "n2"
   },
   {
@@ -14900,7 +13659,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "高龄；晚年",
     "en": "advanced age; old age",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -14912,7 +13670,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "采集",
     "en": "collecting; gathering",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -14924,7 +13681,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "小型；小规模；微型；小的；小的；微小的",
     "en": "small-sized; small-scale; miniature; small; little; tiny",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -14936,7 +13692,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "最新的；最新；最新消息（新闻）",
     "en": "latest; newest; late-breaking (news)",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -14948,7 +13703,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "呼吸",
     "en": "breathing; respiration; knack; trick; secret (of doing something); harmony",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -14960,7 +13714,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "再生，重生；新生；播放",
     "en": "restoration to life; coming to life again; resuscitation; regeneration; reformation; rehabilitation",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -14972,7 +13725,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "故乡",
     "en": "hometown; birthplace; native place; one's old home",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -14984,7 +13736,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "最好；全力",
     "en": "the very best; utmost",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -14996,7 +13747,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "克服",
     "en": "conquest (of a difficulty, illness, crisis, etc.); overcoming; surmounting; bringing under control",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15008,7 +13758,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "最快",
     "en": "fastest",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15020,7 +13769,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "各个，各自",
     "en": "individual; one by one; separate; each",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15032,7 +13780,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "最长的；最古老的",
     "en": "longest; oldest",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15044,7 +13791,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "小雨；毛毛雨",
     "en": "light rain; drizzle",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15056,7 +13802,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "才能，才干",
     "en": "talent; ability",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15068,7 +13813,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "个性",
     "en": "individuality; personality; quirk; idiosyncrasy; character; individual characteristic",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15080,7 +13824,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "栽培，种植",
     "en": "cultivation",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15092,7 +13835,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "骨折",
     "en": "bone fracture",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15104,7 +13846,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "返回；复发；复发",
     "en": "return; relapse; recurrence",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15116,7 +13857,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "固定",
     "en": "fixing (in place); being fixed (in place); securing; anchoring; fastening down; fixing (e.g. salary, capital)",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15128,7 +13868,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "采用，采取；任用，录用",
     "en": "use; adoption; acceptance; appointment; employment; engagement",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15140,7 +13879,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "粉状药物；粉末",
     "en": "powdered medicine; powder",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15152,7 +13890,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "返回；回来了；第二次降临（例如基督）；第二次降临；转世",
     "en": "return; coming back; second coming (e.g. of Christ); second advent; reincarnation",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15164,7 +13901,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "小麦",
     "en": "wheat",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15176,7 +13912,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "制作",
     "en": "making (a report, plan, contract, etc.); drawing up; writing out; preparing; creating (a file, website, account, etc.)",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15188,7 +13923,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "配件；小文章；小人物；小鱼苗；弱者",
     "en": "accessories; small articles; minor character; small fry; weak one",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15200,7 +13934,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "摄影（静态或动态）；拍照；拍摄；射击；录音",
     "en": "photography (still or motion); photographing; filming; shooting; recording",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15212,7 +13945,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "耐心；毅力；坚持；韧性；能源",
     "en": "patience; perseverance; persistence; tenacity; energy",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15224,7 +13956,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "礼法，规矩",
     "en": "manners; etiquette; propriety; manner of production (esp. of prose, poetry, etc.); way of making",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15236,7 +13967,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "混乱",
     "en": "disorder; chaos; confusion; mayhem",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15248,7 +13978,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "支配，操纵，影响",
     "en": "left and right; right and left; control; influence; domination; one's attendants",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15260,7 +13989,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "联合，合并",
     "en": "combination; union; joining; incorporation; amalgamation; merger",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15272,7 +14000,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "参观；检查",
     "en": "visit; inspection",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15284,7 +14011,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "误解",
     "en": "misunderstanding",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15296,7 +14022,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "（广义）产业，（狭义）工业",
     "en": "industry; livelihood; occupation",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15308,7 +14033,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "外语学习；语言学",
     "en": "study of foreign languages; linguistics",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15320,7 +14044,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "参考；咨询",
     "en": "reference; consultation",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15332,7 +14055,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "娱乐",
     "en": "amusement; entertainment; recreation; pleasure; pastime; hobby",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15344,7 +14066,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "参照，参阅",
     "en": "reference (e.g. to a dictionary, passage, footnotes); consultation; comparison; browsing (to a file or folder)",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15356,7 +14077,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "重开，再开始",
     "en": "reopening; resumption; restarting",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15368,7 +14088,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "产地",
     "en": "producing area; place of origin; growing district; home (of a plant or animal); habitat; locality",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15380,7 +14099,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "灾害，天灾",
     "en": "calamity; disaster; misfortune",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15392,7 +14110,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "（山的）山顶",
     "en": "summit (of a mountain)",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15404,7 +14121,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "最强",
     "en": "strongest",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15416,7 +14132,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "在册，在学籍，在会籍",
     "en": "being enrolled (at a school); being registered; being a member (of a team, organization, etc.)",
-    "page": 38,
     "book": "n2"
   },
   {
@@ -15428,7 +14143,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "座位（尤其是公共场所或有指定座位的场所）；座位",
     "en": "seat (esp. in public places or places with assigned seating); seating",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15440,7 +14154,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "投放市场；发售；商业化；商业的；现成的；商店买的",
     "en": "putting on the market; putting on sale; making commercially available; commercial; off-the-shelf; store-bought",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15452,7 +14165,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "杂草",
     "en": "weed",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15464,7 +14176,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "志愿",
     "en": "wish; desire; ambition; choice",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15476,7 +14187,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "支援",
     "en": "support; backing; aid; assistance",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15488,7 +14198,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "脂肪",
     "en": "fat; grease; blubber; lard; suet",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15500,7 +14209,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "牙科",
     "en": "dentistry",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15512,7 +14220,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "使命；差事；任务；责任；义务",
     "en": "mission; errand; task; duty; obligation",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15524,7 +14231,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "主持；主持人",
     "en": "leading a meeting; presiding over a meeting; officiating at a ceremony; chairmanship; chairman; presenter",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15536,7 +14242,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "视野",
     "en": "field of vision; view; one's outlook (e.g. on life); one's horizons",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15548,7 +14253,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "视野，眼界",
     "en": "field of vision; visibility; view; visual field; ken",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15560,7 +14264,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "火车窗；车窗",
     "en": "train window; car window",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15572,7 +14275,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "资格",
     "en": "qualifications; requirements; capabilities",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15584,7 +14286,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "周围；周围人",
     "en": "surroundings; environs; circumference",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15596,7 +14297,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "四季",
     "en": "the four seasons",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15608,7 +14308,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "集会；聚会",
     "en": "meeting; assembly; gathering; congregation; convention; rally",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15620,7 +14319,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "刺激",
     "en": "stimulus; stimulation; irritation (esp. of the body, e.g. skin, eyes); impetus; impulse; spur",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15632,7 +14330,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "收获",
     "en": "harvest; crop; ingathering; fruits (of one's labors); gain; result",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15644,7 +14341,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "思考",
     "en": "thought; consideration; thinking",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15656,7 +14352,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "收集",
     "en": "collecting; accumulating; gathering; collection (of art, stamps, insects, etc.); garbage collection; waste collection",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15668,7 +14363,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "检查；观察",
     "en": "inspection; observation",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15680,7 +14374,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "修正，修改",
     "en": "amendment; correction; revision; modification; alteration; retouching",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15692,7 +14385,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "支持",
     "en": "support; backing; endorsement; approval; propping up; holding up",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15704,7 +14396,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "集体",
     "en": "group; mass",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15716,7 +14407,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "支出，开支",
     "en": "expenditure; disbursement; expenses",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15728,7 +14418,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "学会，掌握",
     "en": "learning; acquisition (of a skill, knowledge, etc.)",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15740,7 +14429,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "集市，市场",
     "en": "market (financial, stock, domestic, etc.); marketplace; exchange; market",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15752,7 +14440,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "收纳",
     "en": "storage; putting away; receipt (of funds, payment, etc.); harvesting",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15764,7 +14451,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "对食物进行取样；品尝；尝试",
     "en": "sampling food; tasting; trying",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15776,7 +14462,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "周边，四周",
     "en": "circumference; outskirts; environs; around; in the area of; in the vicinity of",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15788,7 +14473,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "设备，设施",
     "en": "facility; facilities; institution; establishment; home (for the elderly, orphans, etc.)",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15800,7 +14484,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "学说；规则；原则；主义",
     "en": "doctrine; rule; principle; -ism",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15812,7 +14495,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "湿度",
     "en": "humidity",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15824,7 +14506,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "住宿",
     "en": "accommodation; lodging",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15836,7 +14517,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "失望",
     "en": "disappointment; despair",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15848,7 +14528,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "赞助（即在某人的主持下进行）；晋升；组织；组织；托管；分期",
     "en": "sponsorship (i.e. conducting under one's auspices); promotion; organizing; organising; hosting; staging",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15860,7 +14539,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "指摘，指出",
     "en": "pointing out; identification",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15872,7 +14550,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "取材；采访",
     "en": "gathering material (for an article, novel, etc.); collecting information; covering (an event, incident, etc.); reporting; interview (for a news story)",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15884,7 +14561,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "视点；观占",
     "en": "point of view; viewpoint; angle; perspective; visual point (position of the eye in calculations of optical instruments)",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15896,7 +14572,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "出场（在电影、戏剧、电视节目等中）；表现",
     "en": "appearance (in a film, play, TV show, etc.); performance",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15908,7 +14583,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "支配；控制；统治；左右",
     "en": "rule; domination; control; direction; management; guidance",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15920,7 +14594,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "去上班（例如早上）；来上班",
     "en": "going to work (e.g. in the morning); coming to work",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15932,7 +14605,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "戏剧",
     "en": "play; drama",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15944,7 +14616,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "入场，进场",
     "en": "participation (in a tournament, match, race, etc.); entry; taking part (in); competing (in); appearance; appearance (on the stage, television, etc.)",
-    "page": 39,
     "book": "n2"
   },
   {
@@ -15956,7 +14627,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "成功，出息，发迹",
     "en": "success in life; getting ahead; successful career; promotion; climbing the corporate ladder; eminence",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -15968,7 +14638,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "职业",
     "en": "occupation; profession; job; vocation; career; trade",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -15980,7 +14649,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "出版",
     "en": "publication",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -15992,7 +14660,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "手艺人，工匠",
     "en": "craftsman; artisan; tradesman; worker; workman",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16004,7 +14671,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "首都",
     "en": "capital (city); metropolis",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16016,7 +14682,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "职场",
     "en": "one's post; place of work; workplace",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16028,7 +14693,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "取得",
     "en": "obtaining (a qualification, right, object, etc.); acquisition (of land, property, etc.); gaining possession (of); getting; purchase",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16040,7 +14704,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "食物；食品；食品",
     "en": "food; food products; foodstuffs",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16052,7 +14715,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "主导部分；主演；女主角",
     "en": "leading part; leading actor; leading actress",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16064,7 +14726,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "食物",
     "en": "food; foodstuff",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16076,7 +14737,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "瞬间",
     "en": "moment; instant; second; just then; right at that moment; at that instant",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16088,7 +14748,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "食物；粮食",
     "en": "food",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16100,7 +14759,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "规格；方法；做法",
     "en": "way; method; means; resource; remedy; specification",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16112,7 +14770,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "属于（团体、组织等）；隶属关系（与）；被依附于；受……控制；服务（在军队、国会等）",
     "en": "belonging to (a group, organization, etc.); affiliation (with); being attached to; being under the control of; serving (in the military, congress, etc.)",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16124,7 +14781,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "障碍；故障",
     "en": "obstacle; impediment; hindrance; barrier; difficulty; disability",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16136,7 +14792,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "（办公室、实验室等）负责人；酋长",
     "en": "head (of an office, laboratory, etc.); chief",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16148,7 +14803,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "将棋；日本象棋",
     "en": "shogi; Japanese chess",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16160,7 +14814,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "书店；书店",
     "en": "bookshop; bookstore",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16172,7 +14825,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "证据",
     "en": "evidence; proof",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16184,7 +14836,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "书法（特别是基于汉字的亚洲书法）",
     "en": "calligraphy (esp. Asian calligraphy based on Chinese characters)",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16196,7 +14847,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "详细",
     "en": "details; particulars; specifics; detailed; specific; minute",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16208,7 +14858,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "第一天；开幕日",
     "en": "first day; opening day",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16220,7 +14869,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "知识；意识；验收；同意；同意；协议",
     "en": "knowledge; awareness; acceptance; consent; assent; agreement",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16232,7 +14880,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "处理",
     "en": "processing; dealing with; treatment; disposition; disposal",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16244,7 +14891,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "冲撞；冲突，矛盾",
     "en": "collision; crash; impact; running into; clash; skirmish",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16256,7 +14902,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "视力；想象；视力",
     "en": "eyesight; vision; visual acuity",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16268,7 +14913,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "胜利或失败；结果（游戏、战斗等）",
     "en": "victory or defeat; outcome (of a game, battle, etc.)",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16280,7 +14924,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "业余爱好者；外行；常人；新手；受人尊敬的女性（即不是妓女、女主人、艺伎）；无证妓女",
     "en": "amateur; layman; ordinary person; novice; respectable woman (i.e. not a prostitute, hostess, geisha); unlicensed prostitute",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16292,7 +14935,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "照明，照亮；灯光",
     "en": "illumination; lighting",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16304,7 +14946,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "新书；新出版物",
     "en": "new book; new publication",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16316,7 +14957,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "精疲力竭；消耗；用完；耗散；废物",
     "en": "exhaustion; consumption; using up; dissipation; waste",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16328,7 +14968,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "神经",
     "en": "nerve; nerves; sensitivity",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16340,7 +14979,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "胜利",
     "en": "victory; triumph; win; conquest; success",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16352,7 +14990,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "诊察，检查",
     "en": "medical examination; checkup; consultation",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16364,7 +15001,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "省略",
     "en": "omission; leaving out; abbreviation; abridgment; abridgement; shortening (e.g. of a name)",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16376,7 +15012,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "进入，打入；向“一发展",
     "en": "advance (into a new market, industry, etc.); expansion (into); launch (into); entering; making inroads (into); advance (to the next round of a competition)",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16388,7 +15023,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "数量少；少量；心胸狭隘",
     "en": "small quantity; small amount; narrowmindedness",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16400,7 +15034,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "心灵和身体",
     "en": "mind and body",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16412,7 +15045,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "第一次；第一局；初步尝试；第一的；初始的",
     "en": "first time; first innings; initial attempt; first; initial",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16424,7 +15056,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "亲戚",
     "en": "relative; relation; kin",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16436,7 +15067,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "早期；早年；早期阶段；初始阶段；开始",
     "en": "early days; early years; early stages; initial stages; beginning",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16448,7 +15078,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "建立；创立；设立；组织；设立",
     "en": "establishing; founding; setting up; organizing; establishment",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16460,7 +15089,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "工作人员；员工；工人；人员",
     "en": "staff member; employee; worker; personnel",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16472,7 +15100,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "诊断",
     "en": "diagnosis; medical examination",
-    "page": 40,
     "book": "n2"
   },
   {
@@ -16484,7 +15111,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "新大楼；新建筑",
     "en": "new building; new construction",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16496,7 +15122,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "地面，地上；土地",
     "en": "ground; earth's surface; land; lot; plot",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16508,7 +15133,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "新产品",
     "en": "brand-new article; new item",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16520,7 +15144,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "本地，当地",
     "en": "home area; home town; local",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16532,7 +15155,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "深夜",
     "en": "late at night",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16544,7 +15166,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "妨碍，干扰，影响",
     "en": "hindrance; obstacle; nuisance; disturbance; interruption; interference",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16556,7 +15177,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "信赖，信任",
     "en": "trust (in); confidence; faith; reliance",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16568,7 +15188,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "重视",
     "en": "regarding as important; attaching importance to; taking a serious view of; putting emphasis on",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16580,7 +15199,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "心理",
     "en": "state of mind; mentality; psychology",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16592,7 +15210,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "从事",
     "en": "engaging in (work); pursuing (e.g. studies); following (a profession); being involved in",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16604,7 +15221,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "下次（场合）",
     "en": "next time (occasion)",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16616,7 +15232,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "充实",
     "en": "fullness; completeness; perfection; substantiality; enhancement; improvement",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16628,7 +15243,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "事业；企业",
     "en": "business; enterprise; venture; activity; operation; industry",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16640,7 +15254,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "居住地；住房；住宅楼",
     "en": "residence; housing; residential building",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16652,7 +15265,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "自我；自己",
     "en": "self; oneself",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16664,7 +15276,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "被充满；充满；渗透",
     "en": "being filled with; being full of; permeation",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16676,7 +15287,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "事实",
     "en": "fact; truth; reality; actuality; in fact; actually",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16688,7 +15298,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "居民",
     "en": "inhabitant; resident; citizen; population",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16700,7 +15309,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "持续，坚持",
     "en": "continuation; persisting; lasting; sustaining; enduring",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16712,7 +15320,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "重要职位",
     "en": "director; executive; top management; important post; role with heavy responsibilities",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16724,7 +15331,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "本身；自己的身体；自己；起初；自然；本质上",
     "en": "itself; one's own body; oneself; originally; naturally; by nature",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16736,7 +15342,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "听讲，受训",
     "en": "taking a lecture; attending a class; taking a course",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16748,7 +15353,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "真实感",
     "en": "real feeling; actual feeling; to actually feel; to have a real feeling (that ...); to experience personally",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16760,7 +15364,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "获奖",
     "en": "winning a prize; receiving an award; being awarded",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16772,7 +15375,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "实现",
     "en": "implementation (e.g. of a system); materialization; materialisation; realization; realisation; actualization",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16784,7 +15386,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "接受诊治",
     "en": "having a medical examination; seeing a doctor",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16796,7 +15397,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "实施",
     "en": "enforcement; implementation; putting into practice; carrying out; operation; working (e.g. working parameters)",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16808,7 +15408,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "订单；顺序；程序",
     "en": "order; sequence; procedure",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16820,7 +15419,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "物质；本质；实质性；重大的；基本的；实际（例如利率）",
     "en": "substance; essence; substantive; substantial; essential; real (e.g. interest rate)",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16832,7 +15430,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "上级（级别）；顶部；排行；高阶（例如字节）；主机（连接设备的）",
     "en": "superior (in rank); top; ranking; higher order (e.g. byte); host computer (of connected device)",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16844,7 +15441,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "实习，见习",
     "en": "practice (in the field); training (esp. practical and hands-on); practical exercise; drill",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16856,7 +15452,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "情况，状况",
     "en": "state of affairs; situation; conditions; circumstances",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16868,7 +15463,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "实绩，实际成绩",
     "en": "achievements; actual results; accomplishments; past results; track record",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16880,7 +15474,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "奇观；视线；场景",
     "en": "spectacle; sight; scene",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16892,7 +15485,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "实践",
     "en": "practice; putting into practice; implementation; praxis",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16904,7 +15496,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "条件",
     "en": "condition; term; requirement; qualification; prerequisite",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16916,7 +15507,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "实际状态，真实情况",
     "en": "true state; actual condition; reality",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16928,7 +15518,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "丸；菱形；平板电脑",
     "en": "pill; lozenge; tablet",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16940,7 +15529,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "字典；词典",
     "en": "dictionary; lexicon",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16952,7 +15540,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "常识",
     "en": "common sense; good sense; common knowledge; general knowledge; common practice; accepted practice",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16964,7 +15551,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "儿童；小学生",
     "en": "children; juvenile",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16976,7 +15562,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "上升，上涨，提高",
     "en": "rising; ascending; climbing",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -16988,7 +15573,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "事物；事务",
     "en": "things; affairs",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -17000,7 +15584,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "进步，长进",
     "en": "improvement (e.g. in skill, ability); advance; progress; communication of opinions of the general populace to those of high rank",
-    "page": 41,
     "book": "n2"
   },
   {
@@ -17012,7 +15595,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "蒸发",
     "en": "evaporation; disappearance (of a person); vanishing without a trace",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17024,7 +15606,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "生态",
     "en": "ecology; life and habits (of an animal); mode of life; way of living",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17036,7 +15617,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "准备好了；手头有；被提供；常设；永恒的；常规的",
     "en": "having ready; having on hand; being provided with; standing; permanent; regular",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17048,7 +15628,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "增长，发展",
     "en": "growth; development; growing up; becoming an adult; growth (of a company, the economy, etc.)",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17060,7 +15639,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "盒；实例",
     "en": "example; precedent; case",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17072,7 +15650,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "性能",
     "en": "ability; performance; efficiency",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17084,7 +15661,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "人才，人力资源",
     "en": "capable person; talented person; human resources; personnel",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17096,7 +15672,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "整备；备齐；充实；整顿；维修",
     "en": "maintenance; servicing; putting in place; development; improvement; preparation",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17108,7 +15683,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "人类",
     "en": "mankind; humanity",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17120,7 +15694,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "政府",
     "en": "government; administration; ministry",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17132,7 +15705,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "水平，水准",
     "en": "level; standard; water level",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17144,7 +15716,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "成分",
     "en": "ingredient; component; composition",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17156,7 +15727,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "水分",
     "en": "water; liquid; fluid; moisture; humidity; sap",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17168,7 +15738,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "成立",
     "en": "formation; establishment; materialization; coming into existence; conclusion (e.g. of a deal); reaching (e.g. an agreement)",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17180,7 +15749,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "数值；数字；结果；读数（在仪表等上）",
     "en": "numerical value; figure; result; reading (on a meter, etc.)",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17192,7 +15760,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "煤",
     "en": "coal",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17204,7 +15771,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "海滨沙滩",
     "en": "sandy beach",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17216,7 +15782,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "责任",
     "en": "duty; responsibility (incl. supervision of staff); liability; onus",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17228,7 +15793,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "每个角落；每个角落和缝隙；所有的来龙去脉",
     "en": "every corner; every nook and cranny; all the ins and outs",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17240,7 +15804,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "世代，一代",
     "en": "generation",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17252,7 +15815,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "鼓励；欢呼；生根；支持",
     "en": "encouragement; cheering; rooting; support",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17264,7 +15826,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "布道；讲道；讲道；劝谏；责骂；讲授",
     "en": "sermon; preaching; homily; remonstration; scolding; lecturing",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17276,7 +15837,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "分析",
     "en": "result; outcome; fruits (of one's labors); product; accomplishment",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17288,7 +15848,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "设计",
     "en": "plan; design; layout",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17300,7 +15859,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "世纪",
     "en": "century; era; of the century (e.g. fight of the century)",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17312,7 +15870,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "连接",
     "en": "connection; attachment; union; join; joint; link",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17324,7 +15881,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "请求，要求",
     "en": "claim; demand; charge; application; request; billing (for a service)",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17336,7 +15892,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "设置",
     "en": "establishment; institution; installation (of a machine or equipment)",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17348,7 +15903,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "生计，生活",
     "en": "livelihood; living",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17360,7 +15914,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "设立，确定",
     "en": "establishment; creation; posing (a problem); setting (movie, novel, etc.); scene; options setting",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17372,7 +15925,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "制作",
     "en": "work (film, book); production; creation; turning (something) out; development",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17384,7 +15936,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "节约用电；省电；减少用电量；减少功耗",
     "en": "saving electricity; power saving; reducing electricity usage; reducing power consumption",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17396,7 +15947,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "制作",
     "en": "manufacture; production; production (of a film, play, TV show, etc.)",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17408,7 +15958,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "说服",
     "en": "persuasion",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17420,7 +15969,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "生产",
     "en": "production; manufacture",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17432,7 +15980,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "节约",
     "en": "saving (e.g. time, money, resources); economising; economizing",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17444,7 +15991,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "细算，精算",
     "en": "exact calculation; squaring of accounts; adjustment",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17456,7 +16002,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "台词",
     "en": "line (in a play, film, comic, etc.); one's lines; comment; remark; phrase; words",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17468,7 +16013,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "性质",
     "en": "nature (of a person); disposition; temperament; character; quality; inherent characteristic",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17480,7 +16024,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "选举",
     "en": "election",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17492,7 +16035,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "青春；青春期；生命的春天",
     "en": "youth; adolescence; springtime of life",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17504,7 +16046,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "专修，专门研究",
     "en": "major subject; special study",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17516,7 +16057,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "制造",
     "en": "manufacture; production",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17528,7 +16068,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "选拔；遴选",
     "en": "selection; choice; screening",
-    "page": 42,
     "book": "n2"
   },
   {
@@ -17540,7 +16079,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "选举；选择；选择",
     "en": "election; selection; choice",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17552,7 +16090,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "事务；一般业务；经理；导演；副官",
     "en": "general affairs; general business; manager; director; adjutant general",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17564,7 +16101,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "独家；附于；专家",
     "en": "exclusive; attached to; specialist",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17576,7 +16112,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "设立；创立；组织；组织",
     "en": "establishment; founding; organization; organisation",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17588,7 +16123,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "尖头；提示；观点；尖头（叶子、新月等）； （曲线的）顶点；最前沿",
     "en": "pointed end; tip; point; cusp (of a leaf, crescent moon, etc.); apex (of a curve); forefront",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17600,7 +16134,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "表达；特快专递",
     "en": "express; special delivery",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17612,7 +16145,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "最先到达；第一个到达；首先移动",
     "en": "arriving first; first to arrive; moving first",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17624,7 +16156,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "测量，测定",
     "en": "measurement",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17636,7 +16167,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一心一意，专心致志",
     "en": "absorption; giving undivided attention; devoting oneself (to)",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17648,7 +16178,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "速度",
     "en": "speed; velocity; pace; rate",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17660,7 +16189,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "选择；排序；扑杀；筛查；分类",
     "en": "selection; sorting; culling; screening; triage",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17672,7 +16200,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "侧面；侧翼；轮廓；侧记；侧；方面",
     "en": "side; flank; profile; sidelight; lateral; aspect",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17684,7 +16211,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "另一方；对方；前面；在前；目的地",
     "en": "other party; other side; ahead; in front; destination",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17696,7 +16222,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "素材，原材料",
     "en": "ingredient; material; resource; unprocessed timber; raw timber; subject matter",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17708,7 +16233,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "专用",
     "en": "exclusive use; private use; personal use; dedicated use; use for a particular purpose; exclusive use (of particular products)",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17720,7 +16244,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "组织",
     "en": "organization; organisation; formation; structure; construction; setup",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17732,7 +16255,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "策略；战术",
     "en": "strategy; tactics",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17744,7 +16266,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "毕业论文；学士学位论文",
     "en": "graduation thesis; bachelor's degree thesis",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17756,7 +16277,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "洗练，千锤百炼；考究",
     "en": "refinement; polish",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17768,7 +16288,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "存在，有；人物",
     "en": "existence; being; presence",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17780,7 +16299,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "以前的时间；上次；上一期；上一期；上一届会议",
     "en": "previous time; last time; previous installment; previous instalment; previous session",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17792,7 +16310,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "尊重",
     "en": "respect; esteem; regard",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17804,7 +16321,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "全身",
     "en": "whole (body); full-length (e.g. portrait); systemic",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17816,7 +16332,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "相继出现；接连出现；连续发生",
     "en": "appearing one after another; cropping up one after another; occurring in succession",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17828,7 +16343,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "前提",
     "en": "condition; assumption; prerequisite; hypothesis; intention; intent",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17840,7 +16354,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "继续；继续；正在进行；恢复",
     "en": "continuation; continuance; going on; resuming",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17852,7 +16365,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "整体；作为一个整体；一般来说；在逃",
     "en": "whole; as a whole; in general; at large",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17864,7 +16376,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "图；体型；建造；体质；形式；体型",
     "en": "figure; body shape; build; physique; form; somatotype",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17876,7 +16387,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "全力以赴（力量、精力、努力）；一个人竭尽全力",
     "en": "all one's power (strength, energy, efforts); one's utmost",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17888,7 +16398,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "体验，（亲身）经验",
     "en": "experience; personal experience; hands-on experience; first-hand experience",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17900,7 +16409,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "噪音，噪声",
     "en": "noise; din",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17912,7 +16420,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "鼓",
     "en": "drum",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17924,7 +16431,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "（金钱）总额；总金额；总计",
     "en": "total amount (of money); total sum; sum total",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17936,7 +16442,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "对抗，抵抗",
     "en": "opposition; rivalry; competition; antagonism",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17948,7 +16453,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "早期",
     "en": "early stage",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17960,7 +16464,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "对策",
     "en": "measure; step; countermeasure; counterplan; countermove; strategy",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17972,7 +16475,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "送行及回程会面",
     "en": "seeing off and meeting on return",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17984,7 +16486,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "离开公司；下班；辞职",
     "en": "resignation; leaving office; leaving work (e.g. at the end of the day)",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -17996,7 +16497,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "创作",
     "en": "creation; production; creative work (novel, film, etc.); original work; writing; fabrication",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -18008,7 +16508,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "重量",
     "en": "weight",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -18020,7 +16519,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "装置，装备",
     "en": "equipment; device; installation; apparatus; stage setting",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -18032,7 +16530,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "处理，应付，应对",
     "en": "dealing with; coping with",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -18044,7 +16541,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "发送；转发；汇款",
     "en": "sending; forwarding; remitting",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -18056,7 +16552,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "对象",
     "en": "target; object (of worship, study, etc.); subject (of taxation, etc.); coverage",
-    "page": 43,
     "book": "n2"
   },
   {
@@ -18068,7 +16563,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "退职",
     "en": "retirement; resignation",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18080,7 +16574,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "楼梯；阶段，步骤",
     "en": "stage; step; phase; level; rank; grade",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18092,7 +16585,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "体制",
     "en": "order; system; structure; set-up; organization; organisation",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18104,7 +16596,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "团结",
     "en": "unity; union; solidarity; combination; banding together; teaming up",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18116,7 +16607,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "健康状态",
     "en": "physical condition; state of health; shape",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18128,7 +16618,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "成绩差异（例如围棋、象棋等）；水平差异（例如道路、人行道）；坡道；步骤； （路上）颠簸",
     "en": "difference in grades (e.g. in go, shoji, etc.); difference in level (e.g. road, footpath); ramp; steps; bump (in road)",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18140,7 +16629,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "态度",
     "en": "attitude; manner; behaviour; demeanour; bearing; attitude (towards an issue, etc.)",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18152,7 +16640,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "地位",
     "en": "position; status; standing; position (in a company, organization, etc.); post; rank",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18164,7 +16651,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "面对面会面；亲自见到；面对（彼此）；反对（交通等）；面对",
     "en": "meeting face-to-face; seeing in person; facing (each other); opposing (traffic, etc.); confronting",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18176,7 +16662,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "地区，社会",
     "en": "area; region; district; locality",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18188,7 +16673,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "对立",
     "en": "confrontation; opposition; antagonism",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18200,7 +16684,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "智慧",
     "en": "wisdom; wit; sagacity; sense; intelligence; prajna (insight leading to enlightenment)",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18212,7 +16695,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "送货上门",
     "en": "home delivery",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18224,7 +16706,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "朋友；相识",
     "en": "friend; acquaintance",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18236,7 +16717,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "另一家公司；其他公司",
     "en": "another company; other company",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18248,7 +16728,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "地点",
     "en": "spot; point; place; position",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18260,7 +16739,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "另一个人；其他",
     "en": "another person; others",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18272,7 +16750,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "地方，地区；外地",
     "en": "district; region; area; locality; the country; countryside",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18284,7 +16761,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "立场",
     "en": "position; situation; viewpoint; standpoint; point of view",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18296,7 +16772,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "中国；中餐",
     "en": "China; Chinese food",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18308,7 +16783,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "达成，完成",
     "en": "achievement; attainment; accomplishment; realization",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18320,7 +16794,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "抽签",
     "en": "lottery; raffle; drawing (of lots); balloting",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18332,7 +16805,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "他人",
     "en": "another person; other people; others; unrelated person (i.e. not related by blood); outsider; stranger",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18344,7 +16816,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "中断",
     "en": "interruption; suspension; break",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18356,7 +16827,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "忙碌；有很多事情要做；频繁使用；大量使用；多种用途",
     "en": "busyness; a lot of things to do; frequent use; heavy use (of); many uses",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18368,7 +16838,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "注目，注视",
     "en": "notice; attention; observation",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18380,7 +16849,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "缺陷；过失；弱点；劣势",
     "en": "defect; demerit; weak point; disadvantage",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18392,7 +16860,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "长期的",
     "en": "long-term",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18404,7 +16871,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "独自一人；自己；无人陪伴；无人帮助；单手；没有家人",
     "en": "alone; by oneself; unaccompanied; unaided; single-handed; without one's family",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18416,7 +16882,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "雕刻",
     "en": "carving; engraving; sculpture",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18428,7 +16893,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "担当，担任",
     "en": "being in charge (of an area of responsibility); being responsible (for a work role, etc.)",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18440,7 +16904,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "长处",
     "en": "strong point; merit; virtue; advantage",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18452,7 +16915,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "大小",
     "en": "size; dimension; magnitude; large and small (sizes); various sizes; daishō (matched pair of long and short swords)",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18464,7 +16926,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "调整，调节",
     "en": "adjustment; regulation; coordination; reconciliation; tuning; fixing",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18476,7 +16937,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "内阁部长",
     "en": "cabinet minister",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18488,7 +16948,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "镇民；镇妇；城镇居民；镇民；镇民",
     "en": "townsman; townswoman; resident of a town; townspeople; townsfolk",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18500,7 +16959,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "大量大型物体，例如汽车、计算机等。",
     "en": "number of large objects such as cars, computers, etc.",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18512,7 +16970,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "烹调，做菜",
     "en": "cooking; food preparation",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18524,7 +16981,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "标题，题名",
     "en": "title; caption; heading",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18536,7 +16992,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "就在之前；就在之前；就在前面；就在前面",
     "en": "just before; just prior to; right in front of; just in front of",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18548,7 +17003,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "代理",
     "en": "representation; agency; proxy; agent; representative; deputy",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18560,7 +17014,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "直径",
     "en": "diameter",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18572,7 +17025,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "逃出，逃脱",
     "en": "escape; getting away (from); getting out (of); prolapse; proptosis",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18584,7 +17036,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "治疗",
     "en": "treatment; care; therapy; cure; remedy",
-    "page": 44,
     "book": "n2"
   },
   {
@@ -18596,7 +17047,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "追加，补上",
     "en": "addition; supplement; appending; appendix",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18608,7 +17058,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "在自己面前；在一个人面前；附近；到达（某个地点）之前不久； （某个位置的）这边；某人的立场",
     "en": "before oneself; in front of one; nearby; a bit before reaching (a location); this side (of a location); one's standpoint",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18620,7 +17069,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "追求",
     "en": "pursuit (of a goal, ideal, etc.); search; chase; seeking after",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18632,7 +17080,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "手边；手头有；附近；近在咫尺；移动手臂的方式；技能",
     "en": "at hand; on hand; nearby; close at hand; way of moving one's arms; skill",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18644,7 +17091,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "平常；普通的；普通的；常规的；一般的；常见的",
     "en": "usual; ordinary; normal; regular; general; common",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18656,7 +17102,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "开展，展开；展现",
     "en": "development; evolution; progression; unfolding; twist; expansion",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18668,7 +17113,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "通知",
     "en": "notice; notification; report; posting; notification (on a smartphone, PC, etc.)",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18680,7 +17124,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "转换",
     "en": "conversion; diversion; changeover; commutation; switchover",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18692,7 +17135,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "通用，通行；兼用",
     "en": "use (of a language, currency, etc.); current use; circulation; currency; validity (e.g. of a ticket); to be accepted (e.g. of a way of thinking)",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18704,7 +17146,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "检点，检查",
     "en": "detailed inspection; thorough examination; checking",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18716,7 +17157,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "梅雨",
     "en": "rainy season (in Japan, usu. from early June to mid-July); rain during the rainy season",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18728,7 +17168,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "天气",
     "en": "weather",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18740,7 +17179,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "大火；强火",
     "en": "high flame (cooking); high heat; strong heat",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18752,7 +17190,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "转学",
     "en": "changing schools",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18764,7 +17201,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "手和脚；四肢；随叫随到的人；手边的人；可靠的工人",
     "en": "hands and feet; limbs; person at one's beck and call; person at hand; reliable worker",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18776,7 +17212,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "调职；改行",
     "en": "change of job; change of occupation; career change",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18788,7 +17223,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "提案，建议",
     "en": "proposal; proposition; suggestion",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18800,7 +17234,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "添上，附上",
     "en": "attaching (documents, etc.); appending; affixing",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18812,7 +17245,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "定价",
     "en": "list price; regular price; established price",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18824,7 +17256,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "学生；弟子；坚持；追随者；学徒；年轻人",
     "en": "pupil; disciple; adherent; follower; apprentice; young person",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18836,7 +17267,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "抵抗，抗拒；阻力",
     "en": "resistance; opposition; standing up to; reluctance; repulsion; repugnance",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18848,7 +17278,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "电子；电子的",
     "en": "electron; electronic",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18860,7 +17289,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "提示，出示",
     "en": "presentation (of a passport, ID, etc.); showing; production (e.g. of documents); presentation (of a plan, response, etc.); bringing up; citing (an example)",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18872,7 +17300,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "传染",
     "en": "contagion; infection",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18884,7 +17311,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "（文件的）介绍；提交（申请、报告等）；出示（例如证据）；简介（例如法案）；备案；上交",
     "en": "presentation (of documents); submission (of an application, report, etc.); production (e.g. of evidence); introduction (e.g. of a bill); filing; turning in",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18896,7 +17322,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "传达，转达",
     "en": "transmission (e.g. news, chemical signals, electricity); communication; delivery; conveyance; transfer; relay",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18908,7 +17333,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "定着，定居",
     "en": "sticking (in one place, position, etc.); settling; fixing; adherence; becoming established (of a custom, system, etc.); taking hold",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18920,7 +17344,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "传统",
     "en": "tradition; convention",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18932,7 +17355,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "程度",
     "en": "degree; amount; grade; standard; of the order of (following a number); about",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18944,7 +17366,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "闲聊；滑；票；优惠券",
     "en": "chit; slip; ticket; voucher",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18956,7 +17377,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "退休年龄",
     "en": "retirement age; age limit; retirement (on reaching retirement age); mandatory retirement; minimum years of service at a particular rank before eligibility for promotion (in the Imperial Japanese Army and Navy)",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18968,7 +17388,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "陶器；陶器；陶瓷；瓷；中国",
     "en": "pottery; earthenware; ceramics; porcelain; china",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18980,7 +17399,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "魔法（幻觉）；变戏法；魔术；变戏法；花招",
     "en": "magic (illusion); conjuring; magic trick; conjuring trick; sleight of hand",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -18992,7 +17410,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "陶瓷艺术；陶瓷",
     "en": "ceramic art; ceramics",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -19004,7 +17421,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "哲学",
     "en": "philosophy",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -19016,7 +17432,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "上学；到校",
     "en": "attendance (at school); going to school",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -19028,7 +17443,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "彻底，贯彻始终",
     "en": "thoroughness; completeness; consistency; thorough enforcement; seeing to it that a policy, etc. is carried out without exception",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -19040,7 +17454,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "破产",
     "en": "bankruptcy; insolvency; commercial failure; failed business",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -19052,7 +17465,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "彻夜，通宵",
     "en": "staying up all night",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -19064,7 +17476,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "当时，那时",
     "en": "at that time; in those days",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -19076,7 +17487,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "模型；例子；榜样；模范；模型笔迹；模型图",
     "en": "model; example; exemplar; paragon; model handwriting; model drawing",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -19088,7 +17498,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "这家公司；这家公司；这个神社",
     "en": "this company; this firm; this shrine",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -19100,7 +17509,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "劳力和时间，工夫",
     "en": "time; labour; labor; effort; payment (for labour); pay",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -19112,7 +17520,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "开始；开始；一开始；起初；在开始时；最初",
     "en": "beginning; start; outset; at first; at the beginning; initially",
-    "page": 45,
     "book": "n2"
   },
   {
@@ -19124,7 +17531,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "达到；达到；到达",
     "en": "reaching; attaining; arrival",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19136,7 +17542,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "庭院；四边形；中庭",
     "en": "courtyard; quadrangle; middle court",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19148,7 +17553,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "登记；注册",
     "en": "registration; accession; register; entry; record; subscription",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19160,7 +17564,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "林荫树；行道树",
     "en": "roadside trees; row of trees",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19172,7 +17575,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "辩论；讨论",
     "en": "debate; discussion",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19184,7 +17586,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "日课，每天的习惯活动",
     "en": "daily routine; daily work; daily lesson",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19196,7 +17597,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "专题（例如报纸）；特别版；报告",
     "en": "feature (e.g. newspaper); special edition; report",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19208,7 +17608,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "天数",
     "en": "number of days",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19220,7 +17619,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "特色，特点",
     "en": "characteristic; feature; peculiarity; distinguishing quality; special character; spot color",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19232,7 +17630,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "白天；白天；日本和中国；日文-中文；中日",
     "en": "daytime; during the day; Japan and China; Japanese-Chinese; Sino-Japanese",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19244,7 +17641,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "特定",
     "en": "specific; particular; designated; special; specifying; designating",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19256,7 +17652,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "入场（进入社团、俱乐部等）；加入；入口；注册；注册；成为会员",
     "en": "admission (to a society, club, etc.); joining; entrance; enrollment; enrolment; becoming a member",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19268,7 +17663,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "城市，都市",
     "en": "town; city; municipal; urban",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19280,7 +17674,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "搬入（房屋、公寓等）；定居",
     "en": "moving in (to a house, apartment, etc.); taking up residence",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19292,7 +17685,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "市中心（尤其是东京）；城市的心脏；市中心区",
     "en": "city centre (esp. of Tokyo); heart of a city; downtown area",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19304,7 +17696,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "入账；付款；存款",
     "en": "receipt of money; money received; receipts; depositing; deposit; payment",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19316,7 +17707,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "邻近城镇；邻近城镇；邻近城镇",
     "en": "neighboring town; neighbouring town; adjacent town",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19328,7 +17718,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "获奖；排名（高位；在比赛中）",
     "en": "winning a prize; placing (high; in a contest)",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19340,7 +17729,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "动机",
     "en": "motive; incentive; motif",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19352,7 +17740,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "入口；进入；入场；准入",
     "en": "entrance; entering; admission; admittance",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19364,7 +17751,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "志同道合的人；彼此",
     "en": "fellow; mutual; companion; comrade",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19376,7 +17762,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "根部；根源",
     "en": "base (of a plant, tree, pillar, etc.); root; roots (of one's hair); root (e.g. of a problem); source",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19388,7 +17773,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "同情心，体谅",
     "en": "sympathy; compassion; pity",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19400,7 +17784,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一年；在（的）时代",
     "en": "a year; during the era (of)",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19412,7 +17795,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "旅程；旅行；旅行；旅途中；在路上；旅行时",
     "en": "journey; trip; travels; during the journey; on the way; while travelling",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19424,7 +17806,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "养老金",
     "en": "annuity; pension",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19436,7 +17817,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "引进，引入；引用",
     "en": "introduction; bringing in; installation; setting up; importation; introduction (to a story, lecture, etc.)",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19448,7 +17828,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "财政年度；财政年度；学年；学年；产品年份",
     "en": "fiscal year ; financial year; academic year; school year; product year",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19460,7 +17839,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "附上（例如用一封信）",
     "en": "enclosing (e.g. with a letter)",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19472,7 +17850,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "粘土",
     "en": "clay",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19484,7 +17861,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "动摇；不安",
     "en": "shaking; trembling; pitching; rolling; oscillation; disturbance",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19496,7 +17872,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "农民；农民家庭；农家；农业学院（中国）；农艺学院",
     "en": "farmer; farming family; farmhouse; School of Agrarianism (China); School of Agronomists",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19508,7 +17883,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "同事",
     "en": "coworker; co-worker; colleague; associate",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19520,7 +17894,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "交付货物",
     "en": "delivery of goods",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19532,7 +17905,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "道路",
     "en": "road; highway",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19544,7 +17916,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "农药",
     "en": "agricultural chemical; agrochemical; agrichemical",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19556,7 +17927,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "读者",
     "en": "reader",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19568,7 +17938,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "效率；劳动生产率",
     "en": "efficiency; moment",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19580,7 +17949,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "读书",
     "en": "reading (books)",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19592,7 +17960,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "能力",
     "en": "ability; faculty",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19604,7 +17971,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "基础；根据；基础；从一开始；从一开始；本质上",
     "en": "foundation; base; basis; from the beginning; from the outset; by nature",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19616,7 +17982,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "废止，作废",
     "en": "abolition; discontinuance; discontinuation; repeal; annulment",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19628,7 +17993,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "皮靴；橡胶靴；惠灵顿；雨靴；长靴；高筒靴",
     "en": "leather boots; rubber boots; wellingtons; wellies; long boots; high boots",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19640,7 +18004,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "交货",
     "en": "delivery",
-    "page": 46,
     "book": "n2"
   },
   {
@@ -19652,7 +18015,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "演员；演员；玩家；表演者",
     "en": "actor; actress; player; performer",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19664,7 +18026,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "反抗，违抗，对抗",
     "en": "opposition; resistance; insubordination; defiance; hostility; rebellion",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19676,7 +18037,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "白色衣服；白袍；白色长袍（医生、药剂师等穿着）；没有等级的布衣（在中国古代）；外行人",
     "en": "white clothes; white robe; white gown (worn by doctors, chemists, etc.); commoner without rank (in ancient China); layperson",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19688,7 +18048,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "繁荣；芊芊；欣欣向荣",
     "en": "prosperity; flourishing; thriving",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19700,7 +18059,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "拍手；掌声；（在神社）拍手祈祷",
     "en": "clapping hands; applause; clapping one's hands in prayer (at a shrine)",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19712,7 +18070,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "半数；一半",
     "en": "half the number; half (of an amount); haploid (organism, cell, etc.); haplont",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19724,7 +18081,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "蜂蜜",
     "en": "honey",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19736,7 +18092,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "反省；重新考虑",
     "en": "reflection; reconsideration; introspection; meditation; contemplation; regret",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19748,7 +18103,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "发挥，施展",
     "en": "show (of power, ability, etc.); exhibition; demonstration; display; manifestation",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19760,7 +18114,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "判断",
     "en": "judgment; judgement; decision; conclusion; adjudication; divination",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19772,7 +18125,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "发言",
     "en": "statement; remark; observation; utterance; speech; proposal",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19784,7 +18136,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "反应",
     "en": "reaction; response; physical reaction (to a stimulus); observable response (of an organism); effect; change",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19796,7 +18147,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "发行；发放，发售",
     "en": "publication (of a newspaper, magazine, book, etc.); issue; issue (of banknotes, bonds, passport, etc.); raising (an event)",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19808,7 +18158,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "出售，销售",
     "en": "sale; sales; selling; marketing",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19820,7 +18169,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "（火车、汽车等）出发；开始；离开",
     "en": "departure (of a train, car, etc.); starting; leaving",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19832,7 +18180,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "同时；虽然；尽管；但；另一方面；同时",
     "en": "while; although; though; but; on the other hand; at the same time",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19844,7 +18191,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "构思，主意",
     "en": "idea; conception; way of thinking; approach; expression",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19856,7 +18202,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "反驳",
     "en": "objection; refutation; rebuttal; counterargument",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19868,7 +18213,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "发送，寄送",
     "en": "sending; forwarding; shipping",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19880,7 +18224,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "场所；场面，场景",
     "en": "scene; setting; place (where something happens); scenario; case; scene (in a movie, play)",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19892,7 +18235,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "发达",
     "en": "development; growth; progress; advancement; expansion (of a typhoon, low-pressure area, etc.); developmental disability",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19904,7 +18246,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "受灾，损失",
     "en": "damage; injury; harm",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19916,7 +18257,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "花样，花纹",
     "en": "flower pattern",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19928,7 +18268,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "树荫；阴影；阳光；阳光",
     "en": "shade; shadow; sunshine; sunlight",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19940,7 +18279,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一束鲜花；花束",
     "en": "bunch of flowers; bouquet",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19952,7 +18290,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "通常；习惯性地；总是；许久",
     "en": "usually; habitually; always; for a long time",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19964,7 +18301,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "花田；花园；花坛",
     "en": "field of flowers; flower garden; flower bed",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19976,7 +18312,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "笔者，作者",
     "en": "writer; author",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -19988,7 +18323,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "花店；花店",
     "en": "florist; flower shop",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20000,7 +18334,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "必须到达（不晚于；例如申请时）；必须收到；必须交付；必须佩戴（例如安全带）；必须有",
     "en": "must arrive (no later than; e.g. of an application); must be received; must be delivered; must wear (e.g. a seatbelt); must have on",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20012,7 +18345,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "片段；碎片；碎片；芯片；碎片",
     "en": "fragment; broken piece; splinter; chip; shard",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20024,7 +18356,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "单个词；几句话；简短评论",
     "en": "single word; a few words; brief comment",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20036,7 +18367,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "语速快；快速说话",
     "en": "fast-talking; rapid talking",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20048,7 +18378,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "众人面前；公开场合",
     "en": "presence of other people; public; front of others",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20060,7 +18389,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "立春",
     "en": "beginning of spring",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20072,7 +18400,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一眼；看；一瞥；完整视图；鸟瞰图",
     "en": "glance; look; glimpse; complete view; bird's-eye view",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20084,7 +18411,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "范围",
     "en": "extent; scope; sphere; range; span",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20096,7 +18422,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "非难，责备",
     "en": "criticism; blame; censure; attack; reproach",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20108,7 +18433,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "反映",
     "en": "reflection (of light); reflection (of society, attitudes, etc.); application (of an update, changes, etc.); taking effect",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20120,7 +18444,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "批判，批评，评论",
     "en": "criticism; judgement; judgment; comment",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20132,7 +18455,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "（钱）的一半；半价；半价",
     "en": "half the amount (of money); half price; half fare",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20144,7 +18466,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "每天；日子",
     "en": "daily; everyday; days (e.g. of one's youth); every day; day after day; day by day",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20156,7 +18477,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "减少一半；减半",
     "en": "reduction by half; halving",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20168,7 +18488,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "批评，评论",
     "en": "criticism; critique; review; commentary",
-    "page": 47,
     "book": "n2"
   },
   {
@@ -20180,7 +18499,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "皮肤",
     "en": "skin",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20192,7 +18510,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "分割，分开，瓜分",
     "en": "partition; division; separation; segmenting; splitting",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20204,7 +18521,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "费用，经费，开支",
     "en": "cost; expense",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20216,7 +18532,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "文具",
     "en": "stationery",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20228,7 +18543,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "估价；评价",
     "en": "valuation; appraisal; evaluation; assessment; estimation; rating",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20240,7 +18554,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "文科",
     "en": "humanities, social sciences, and fine arts; liberal arts",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20252,7 +18565,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "表现，表达",
     "en": "expression; representation; description; representation (of a group)",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20264,7 +18576,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "文献",
     "en": "literature; books (reference); document",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20276,7 +18587,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "标准；标准；规范；模型；标记；平均的",
     "en": "standard; criterion; norm; model; mark; average",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20288,7 +18598,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "分析",
     "en": "analysis",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20300,7 +18609,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "表情",
     "en": "facial expression; countenance; look; appearance; expression (vocal, etc.)",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20312,7 +18620,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "分担",
     "en": "taking on one's share (e.g. of work); dividing (work, expenses, etc.) between; apportionment; allotment; allocation; assignment",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20324,7 +18631,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "评论，评价；闻名",
     "en": "reputation; estimation; popularity; rumour; rumor; talk (e.g. of the town)",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20336,7 +18642,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "分离（例如回收时的垃圾）；分类；歧视；分配；区别",
     "en": "separation (e.g. of rubbish when recycling); classification; discrimination; division; distinction",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20348,7 +18653,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "公共广场；正方形；广场；广场；论坛；开放空间",
     "en": "public square; square; plaza; piazza; forum; open space",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20360,7 +18664,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "文件的内容（尤其是信件的内容）",
     "en": "contents of a document (esp. of a letter)",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20372,7 +18675,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "品质",
     "en": "quality (of a product or a service)",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20384,7 +18686,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "领域，范围",
     "en": "field; sphere; realm; division; branch",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20396,7 +18697,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "风景，景致；情景",
     "en": "scenery; scene; landscape; view; sight; scene (e.g. of a crime)",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20408,7 +18708,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "金额；数量；测量；称重",
     "en": "amount; quantity; measuring; weighing",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20420,7 +18719,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "信封",
     "en": "envelope",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20432,7 +18730,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "关闭商店（当天）；停止营业；破产",
     "en": "closing up shop (for the day); stopping business; going out of business",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20444,7 +18741,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "普及",
     "en": "diffusion; spread; popularization; promulgation; familiarization",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20456,7 +18752,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "平面",
     "en": "level surface; plane",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20468,7 +18763,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "福祉，福利",
     "en": "welfare; well-being; social welfare; social security; social service",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20480,7 +18774,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "归还；退还",
     "en": "return (of something borrowed or entrusted); returning; giving back; repayment",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20492,7 +18785,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "承担，负担",
     "en": "burden; load; responsibility; bearing (a cost, responsibility, etc.); shouldering",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20504,7 +18796,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "还债，还钱",
     "en": "refund; repayment; reimbursement",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20516,7 +18807,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "不平，不满意",
     "en": "discontent; dissatisfaction; complaint; grievance",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20528,7 +18818,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "转型；变化；变态；修改；形变；品种",
     "en": "transformation; variation; metamorphosis; modification; deformation; variety",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20540,7 +18829,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "武器",
     "en": "weapon; arms; ordnance; weapon (something used to gain an advantage); asset",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20552,7 +18840,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "变更，改变",
     "en": "change; modification; alteration; revision; amendment",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20564,7 +18851,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "平安，无变故；健康",
     "en": "safety; security; peace; quiet; safely; without incident",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20576,7 +18862,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "编辑",
     "en": "editing; compilation",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20588,7 +18873,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "份数；循环",
     "en": "number of copies; circulation",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20600,7 +18884,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "回复（例如电子邮件、传真、信件）；回答",
     "en": "reply (e.g. email, fax, letter); answer",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20612,7 +18895,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "舞台",
     "en": "stage (of a theatre, concert hall, etc.); stage performance; stage production; theatrical production; play; show",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20624,7 +18906,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "回复；回答",
     "en": "reply; answer",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20636,7 +18917,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "货物；材料；商品；资源；补给品",
     "en": "goods; materials; commodities; resources; supplies",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20648,7 +18928,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "退货",
     "en": "returned goods; returning purchased goods",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20660,7 +18939,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "物质",
     "en": "material; substance; matter",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20672,7 +18950,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "单独的案件；另一件事；不同的事情；另一个项目",
     "en": "separate case; another matter; different matter; another project",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20684,7 +18961,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "拆卸；分解",
     "en": "disassembly; dismantling; disaggregating; taking apart; breaking up; analysis",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20696,7 +18972,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "独立房间；另一个房间；特价房； （贵族的）妾",
     "en": "separate room; another room; special room; concubine (of a noble)",
-    "page": 48,
     "book": "n2"
   },
   {
@@ -20708,7 +18983,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "方针",
     "en": "policy; course; plan (of action); principle; magnetic needle",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20720,7 +18994,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "不满",
     "en": "less than; under; below",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20732,7 +19005,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "包装",
     "en": "packing; wrapping",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20744,7 +19016,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "魅力；魅力；魅力；魅力；吸引力；上诉",
     "en": "charm; fascination; glamour; glamor; attraction; appeal",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20756,7 +19027,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "方面，领域",
     "en": "direction; district; area; field (e.g. of study); sphere; quarter",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20768,7 +19038,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "私人住宅",
     "en": "private house",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20780,7 +19049,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "法律",
     "en": "law; legislation; act",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20792,7 +19060,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "民族",
     "en": "people; race; nation; ethnic group; ethnos",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20804,7 +19071,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "保险",
     "en": "insurance; guarantee; warranty",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20816,7 +19082,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "老故事；民间故事；传奇；回忆",
     "en": "old tale; folk tale; legend; reminiscence",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20828,7 +19093,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "保护",
     "en": "protection; safeguard; guardianship; custody; patronage; preservation",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20840,7 +19104,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "无限，无边",
     "en": "infinity; infinitude; eternity; infinite; limitless",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20852,7 +19115,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "补助",
     "en": "assistance; support; help; aid; subsidy; supplement",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20864,7 +19126,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "无视，不顾",
     "en": "disregarding; ignoring",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20876,7 +19137,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "保证，担保",
     "en": "guarantee; security; assurance; pledge; warranty",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20888,7 +19148,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "无数；无数；无数的",
     "en": "innumerable; countless; numberless",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20900,7 +19159,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "铺路",
     "en": "paving (a road); surfacing (with asphalt, concrete, etc.); pavement",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20912,7 +19170,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "无线电（通讯）；无线的；不使用电线",
     "en": "radio (communication); wireless; not using wires",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20924,7 +19181,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "主要职业；核心业务",
     "en": "principal occupation; core business",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20936,7 +19192,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "阐明；明确的声明；规格",
     "en": "elucidation; explicit statement; specification",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20948,7 +19203,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "主要学校；校长学校；这所学校；我们的学校",
     "en": "main school; principal school; this school; our school",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20960,7 +19214,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "名胜",
     "en": "famous place; noted place; place of (scenic or historical) interest; sights (to see)",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20972,7 +19225,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "总部；主要办公室；总部；母公司；主神殿；这家公司",
     "en": "head office; main office; headquarters; parent company; main shrine; this company",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20984,7 +19236,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "姓名登记册；名单；卷；登记；花名册",
     "en": "register of names; list of names; roll; register; roster",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -20996,7 +19247,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "本人",
     "en": "the person in question; the person themselves; said person",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21008,7 +19258,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "显赫的家庭；名门望族；贵族家庭；知名组织（公司、学校等）",
     "en": "distinguished family; famous family; noble family; prestigious organization (company, school, etc.)",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21020,7 +19269,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "真东西，真的",
     "en": "genuine article; real thing; real deal",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21032,7 +19280,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "上司；比自己年长的人",
     "en": "superior; superiors; senior",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21044,7 +19291,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "防灾",
     "en": "disaster preparedness; prevention of damage resulting from a natural disaster; protection against disaster",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21056,7 +19302,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "标记（用于快速识别或识别）；符号；里程碑；指导；商标",
     "en": "mark (for quick identification or recognition); sign; landmark; guide; trademark",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21068,7 +19313,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "防止犯罪",
     "en": "prevention of crime; security (device, camera, etc.)",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21080,7 +19324,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "凝视；视线；一个人注视的方向；观点看法；立场；遮住某人眼睛的线（以掩盖其身份）",
     "en": "gaze; line of sight; direction in which one is looking; point of view; standpoint; line covering someone's eyes (to obscure their identity)",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21092,7 +19335,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "在窗口；靠窗；在窗户旁边",
     "en": "at the window; by the window; next to the window",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21104,7 +19346,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "见面",
     "en": "meeting (face-to-face); seeing; visit; interview",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21116,7 +19357,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "模仿",
     "en": "imitating; copying; mimicry; behavior; behaviour; action",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21128,7 +19368,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "面积",
     "en": "area (measurement); square measure; size (of land); floor space",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21140,7 +19379,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "满分；满分；完美的；完全令人满意；优秀的",
     "en": "perfect score; full marks; perfect; entirely satisfactory; excellent",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21152,7 +19390,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "木材",
     "en": "lumber; timber; wood",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21164,7 +19401,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "附着力紧密；牢牢地粘住（到）；被粘（到）；密切相关；具有相关性；接触印刷",
     "en": "close adhesion; sticking firmly (to); being glued (to); relating closely (to); having relevance (to); contact printing",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21176,7 +19412,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "木制的；由木头制成；木结构",
     "en": "wooden; made of wood; wooden construction",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21188,7 +19423,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "关紧；使气密；气密密封",
     "en": "shutting tightly; making airtight; sealing hermetically",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21200,7 +19434,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "事物，事情",
     "en": "things; everything",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21212,7 +19445,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "身份",
     "en": "standing; status; position; rank; identity; birth",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21224,7 +19456,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "烤肉；类似于韩国烤肉的日式烤肉；烤肉；烧烤",
     "en": "yakiniku; Japanese dish of grilled meat similar to Korean barbecue; roasted meat; grill",
-    "page": 49,
     "book": "n2"
   },
   {
@@ -21236,7 +19467,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "夜间值班；夜班；夜间工作",
     "en": "night duty; night shift; night work",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21248,7 +19478,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "容量",
     "en": "capacity; volume; capacitance",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21260,7 +19489,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "医药；药品；化学品（剂）；化学品",
     "en": "medicine; drug; chemical (agent); chemicals",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21272,7 +19500,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "预期；预料",
     "en": "expectation; anticipation; forecast",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21284,7 +19511,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "任务，职责，作用",
     "en": "duty; role; function",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21296,7 +19522,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "第二天早上",
     "en": "next morning",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21308,7 +19533,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "购物车（尤其是食品车）；摊位；站立；节日花车；供奉神的便携式神龛，形状像一座房子；跳舞台",
     "en": "cart (esp. a food cart); stall; stand; festival float; portable shrine dedicated to a god and shaped like a house; dancing platform",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21320,7 +19544,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "次年",
     "en": "following year",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21332,7 +19555,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "野鸟",
     "en": "wild bird",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21344,7 +19566,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "预算",
     "en": "estimate (of costs); budget",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21356,7 +19577,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "药房，取药处",
     "en": "pharmacy; drugstore; chemist's (shop); hospital pharmacy; dispensary",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21368,7 +19588,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "预赛；资格赛；审判；热；初步遴选；筛选（例如申请人）",
     "en": "preliminary contest; qualifying round; trial; heat; preliminary selection; screening (e.g. of applicants)",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21380,7 +19599,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "勇气；勇敢；勇气；勇气；神经；大胆",
     "en": "courage; bravery; valour; valor; nerve; boldness",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21392,7 +19610,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "预测",
     "en": "prediction; estimation",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21404,7 +19621,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "优先",
     "en": "preference; priority; precedence; right of way",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21416,7 +19632,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "欲望",
     "en": "desire; want; will; wish; urge; craving",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21428,7 +19643,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "运输，运送",
     "en": "transport; transportation; transit; conveyance",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21440,7 +19654,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "预防",
     "en": "prevention; protection (against); precaution",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21452,7 +19665,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "疏忽大意",
     "en": "negligence; carelessness; inattention; unpreparedness",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21464,7 +19676,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "富余；充裕，从容",
     "en": "surplus; margin; leeway; room; space; time",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21476,7 +19687,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "含油量",
     "en": "oil content",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21488,7 +19698,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "来到办公室；进入房间",
     "en": "visit to a room or office",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21500,7 +19709,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "要求；需要",
     "en": "demand; firm request; requisition; requirement; desire",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21512,7 +19720,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "出席率",
     "en": "attendance",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21524,7 +19731,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "事情；要办的事",
     "en": "business; thing to be done; something that should be performed; information that should be conveyed",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21536,7 +19742,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "来日本；访问日本；抵达日本",
     "en": "coming to Japan; visit to Japan; arrival in Japan",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21548,7 +19753,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "外貌；姿容",
     "en": "appearance (of a person); one's face and figure",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21560,7 +19764,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "盈利，利润",
     "en": "profit; gains; benefit; advantage; good; interests (e.g. of society)",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21572,7 +19775,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "幼儿",
     "en": "young child; toddler; child over 1 but not yet of school age",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21584,7 +19786,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "理解，懂得；谅解",
     "en": "understanding; comprehension; appreciation; sympathy",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21596,7 +19797,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "风格；形式；图案",
     "en": "style; form; pattern",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21608,7 +19808,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "土地；地面；支撑；田径；田径运动",
     "en": "land; ground; shore; track and field; athletics",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21620,7 +19819,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "注意，小心，警戒",
     "en": "care; precaution; guarding; caution",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21632,7 +19830,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "科学； STEM（科学、技术、工程和数学）",
     "en": "the sciences; STEM (science, technology, engineering and mathematics)",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21644,7 +19841,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "培养，造就",
     "en": "training; education; development; cultivation",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21656,7 +19852,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "理想",
     "en": "ideal; ideals",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21668,7 +19863,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "要素",
     "en": "component; factor; item (e.g. in list); element (e.g. in array); member (e.g. data structure)",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21680,7 +19874,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "优点",
     "en": "advantage; point in favor; point in favour",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21692,7 +19885,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "腰痛；腰痛",
     "en": "lower back pain; lumbago",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21704,7 +19896,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "了解；明白；同意",
     "en": "comprehension; consent; understanding; agreement; OK; roger",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21716,7 +19907,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "要点；要点",
     "en": "gist; main point",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21728,7 +19918,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "一对；两个；两人；两件事",
     "en": "pair; the two; both persons; both things",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21740,7 +19929,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "使用；服务；目的",
     "en": "use; service; purpose",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21752,7 +19940,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "知道；谅解，谅察",
     "en": "acknowledgement; acknowledgment; understanding; approval; consent",
-    "page": 50,
     "book": "n2"
   },
   {
@@ -21764,7 +19951,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "两端；任一端；两个边缘；心怀二意；坐在栅栏上",
     "en": "both ends; either end; both edges; double-mindedness; sitting on the fence",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21776,7 +19962,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "争论",
     "en": "dispute; controversy; debate; argument; taking issue",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21788,7 +19973,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "绿茶；日本茶",
     "en": "green tea; Japanese tea",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21800,7 +19984,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "逻辑",
     "en": "logic",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21812,7 +19995,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "林业",
     "en": "forestry",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21824,7 +20006,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "小路；岔路；离题（例如从争论中）",
     "en": "side road; byroad; digression (e.g. from argument)",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21836,7 +20017,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "礼仪",
     "en": "manners; courtesy; etiquette",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21848,7 +20028,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "日式房间",
     "en": "Japanese-style room",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21860,7 +20039,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "恋爱",
     "en": "love; romance; tender passion; emotion; affections",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21872,7 +20050,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "话题",
     "en": "topic; subject; much talked about; topical; in the news; hot",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21884,7 +20061,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "继续；演替；系列；顺序；连续的",
     "en": "continuation; succession; series; sequence; continuous",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21896,7 +20072,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "我们",
     "en": "we",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21908,7 +20083,6 @@ window.N2_VOCAB = [
     "category": "名詞（2文字）",
     "cn": "劳动",
     "en": "labor; labour; work; Labour Party",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21920,7 +20094,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "户外用品",
     "en": "outdoor equipment",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21932,7 +20105,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "行踪；地方；地点；一个人所属的地方；适合的地方；一个人可以做自己的地方",
     "en": "whereabouts; place; location; place where one belongs; where one fits in; place where one can be oneself",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21944,7 +20116,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "仰面朝天",
     "en": "facing upward",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21956,7 +20127,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "医疗机构",
     "en": "medical institution",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21968,7 +20138,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "恶劣天气",
     "en": "bad weather",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21980,7 +20149,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "彩色铅笔；彩色铅笔",
     "en": "colored pencil; coloured pencil",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -21992,7 +20160,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "调味料；味道；味道",
     "en": "seasoning; flavour; flavor",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22004,7 +20171,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "运动；移动；运动；趋势；发展；改变",
     "en": "movement; move; motion; trend; development; change",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22016,7 +20182,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "味道；味道；品尝；魅力；上诉；兴趣",
     "en": "flavour; flavor; taste; charm; appeal; interest",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22028,7 +20193,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "事先商量，碰头",
     "en": "meeting; briefing session; advance arrangements; overlap (of a coat, etc.); making something match exactly",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22040,7 +20204,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "玩伴；玩伴",
     "en": "playmate; playfellow",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22052,7 +20215,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "销售额，营业额",
     "en": "amount sold; sales; proceeds; takings; turnover",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22064,7 +20226,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "姓名和地址（在信封等上）；姓名；收件人",
     "en": "name and address (on an envelope, etc.); name; addressee",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22076,7 +20237,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "销路，销售情况",
     "en": "sales; demand",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22088,7 +20248,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "推动；支持；后盾；支持者；支持者；从后面推（推车等）",
     "en": "pushing; support; backing; supporter; backer; pushing from behind (a cart, etc.)",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22100,7 +20259,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "航运公司；货运公司；运输公司",
     "en": "shipping company; freight company; transport company",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22112,7 +20270,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "不负责任；敷衍；粗心；温；半生不熟；三心二意",
     "en": "irresponsible; perfunctory; careless; lukewarm; half-baked; halfhearted",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22124,7 +20281,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "缺少运动",
     "en": "lack of physical exercise; insufficient exercise; inactivity",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22136,7 +20292,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "喘口气；松弛；休息；发泄；通风口",
     "en": "taking a breather; relaxation; rest; vent; ventilation opening",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22148,7 +20303,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "英语会话；英语会话学校",
     "en": "English conversation; school for English conversation",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22160,7 +20314,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "围棋",
     "en": "go (board game)",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22172,7 +20325,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "电影导演；电影导演",
     "en": "movie director; film director",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22184,7 +20336,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "赶紧；匆忙；紧迫性；紧迫感；匆忙；快点",
     "en": "haste; hurry; urgency; pressingness; in a hurry; quickly",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22196,7 +20347,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "电影节",
     "en": "film festival",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22208,7 +20358,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "打瞌睡，打盹",
     "en": "nodding off (while sitting); dozing",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22220,7 +20369,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "营养物质；营养",
     "en": "nutrient; nutrition",
-    "page": 51,
     "book": "n2"
   },
   {
@@ -22232,7 +20380,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "大型摩托车",
     "en": "large motorcycle",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22244,7 +20391,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "书面文字；书面语言",
     "en": "written word; written language",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22256,7 +20402,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "份量大；大部分",
     "en": "large serving; large portion",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22268,7 +20413,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "学生住宿；学生宿舍",
     "en": "student accommodation; student dormitory",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22280,7 +20424,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "最喜欢的；最喜欢的；宠物（例如老师的宠物）；书签（在网络浏览器中）",
     "en": "favorite; favourite; pet (e.g. teacher's pet); bookmark (in a web browser)",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22292,7 +20435,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "讨价还价；讨价还价；策略；战略；机动；外交",
     "en": "bargaining; haggling; tactics; strategy; maneuvering; diplomacy",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22304,7 +20446,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "存在；礼物",
     "en": "present; gift",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22316,7 +20457,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "点心袋；零食包装袋",
     "en": "snack bag; confectionery wrapper",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22328,7 +20468,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "钞票；账单；笔记",
     "en": "banknote; bill; note",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22340,7 +20479,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "治疗感冒的药物；感冒药",
     "en": "remedy for a cold; cold medicine",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22352,7 +20490,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "聊天；闲谈；健谈",
     "en": "chat; chatter; talkative person",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22364,7 +20501,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "角落房间；角落公寓",
     "en": "corner room; corner apartment",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22376,7 +20512,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "推荐；建议",
     "en": "recommendation; advice; suggestion; encouragement",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22388,7 +20523,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "股份公司；公司；日本株式会社； KK",
     "en": "stock company; corporation; kabushiki kaisha; KK",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22400,7 +20534,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "年终礼物；岁末赠礼",
     "en": "year-end gift; end of the year; year end",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22412,7 +20545,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "在河上享受乐趣（例如划船、游泳、钓鱼）",
     "en": "enjoying oneself on a river (e.g. boating, swimming, fishing)",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22424,7 +20556,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "在一起；一起去；搭配（服装）",
     "en": "being together; going together; matching (clothing)",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22436,7 +20567,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "旅游业；旅游业",
     "en": "tourism industry; tourist industry",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22448,7 +20578,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "落叶；落叶层；落叶；落叶；落叶；落叶",
     "en": "fallen leaves; leaf litter; falling leaves; leaf fall; dropping leaves; defoliation",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22460,7 +20589,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "误解；错误的想法；错误的猜测",
     "en": "misunderstanding; mistaken idea; wrong guess",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22472,7 +20600,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "保养；护理；打理",
     "en": "care; maintenance; grooming",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22484,7 +20611,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "企划方案；策划草案",
     "en": "draft plan; project proposal",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22496,7 +20622,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "如愿；按照所想",
     "en": "as one likes; as one wants; as one wishes; as one hopes; as one sees fit; to one's satisfaction",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22508,7 +20633,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "照料，照顾",
     "en": "care; attentiveness; attention; consideration (for others); solicitude",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22520,7 +20644,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "折纸；折纸艺术；标志；真品证书",
     "en": "origami; art of paper folding; hallmark; certificate of authenticity",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22532,7 +20655,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "新闻发布会；新闻发布会",
     "en": "press conference; news conference",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22544,7 +20666,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "折叠伞",
     "en": "folding umbrella",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22556,7 +20677,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "基础工作；巩固基础；基础知识培训",
     "en": "groundwork; solidifying the fundamentals; training of the basics",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22568,7 +20688,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "海外出差",
     "en": "overseas business trip",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22580,7 +20699,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "基础研究",
     "en": "basic research",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22592,7 +20710,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "解决方案；解决策略",
     "en": "solution; solution strategy",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22604,7 +20721,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "纪念照片；纪念照片",
     "en": "commemorative photograph; souvenir photograph",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22616,7 +20732,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "疗养院；回家休息",
     "en": "nursing home; rest home",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22628,7 +20743,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "转换心情",
     "en": "change of pace; change of mood; break (e.g. going for a walk); refreshment",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22640,7 +20754,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "在海里游泳；海水浴；海水浴；去海里畅游",
     "en": "swimming in the ocean; sea bathing; seawater bath; going for a dip in the ocean",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22652,7 +20765,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "教育机构",
     "en": "educational institution",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22664,7 +20776,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "受访者",
     "en": "respondent",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22676,7 +20787,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "教育界面；教室；粉笔脸",
     "en": "educational interface; the classroom; the chalkface",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22688,7 +20798,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "业主；守门员",
     "en": "owner; keeper",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22700,7 +20809,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "力量训练；阻力训练；增肌",
     "en": "strength training; resistance training; muscle-building",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22712,7 +20820,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "收费；责任；负责人；官方的；文员； （特别是系り）连接",
     "en": "charge; duty; person in charge; official; clerk; (esp. 係り) connection",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22724,7 +20831,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "喷嚏",
     "en": "sneeze",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22736,7 +20842,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "经常就诊的医生或医院",
     "en": "regular doctor; regular clinic",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22748,7 +20853,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "果园；水果农场",
     "en": "fruit farm; orchard",
-    "page": 52,
     "book": "n2"
   },
   {
@@ -22760,7 +20864,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "俱乐部活动；课外活动",
     "en": "club activities ; extracurricular activities",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22772,7 +20875,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "这个场合；此时；现在",
     "en": "this occasion; at this time; now",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22784,7 +20886,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "有经验的；精通",
     "en": "experienced; well-versed",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22796,7 +20897,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "小麦粉",
     "en": "wheat flour",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22808,7 +20908,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "荧光灯；日光灯",
     "en": "fluorescent lamp; fluorescent light; person who is slow to react; someone slow on the uptake",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22820,7 +20919,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "引导；介绍；通知",
     "en": "guidance; leading (the way); showing around; information; notice; notification",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22832,7 +20930,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "荧光笔（笔）",
     "en": "highlighter (pen)",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22844,7 +20941,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "委托；请求（敬语）",
     "en": "request; commission (honorific)",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22856,7 +20952,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "计算器；电脑",
     "en": "calculator; computer",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22868,7 +20963,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "合格通知；录取通知",
     "en": "notice of passing; acceptance notification",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22880,7 +20974,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "公布结果；结果公布",
     "en": "publication of results; announcement of results",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22892,7 +20985,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "请客（尤其是食物和饮料）；娱乐；请某人（吃饭）；带某人去吃饭；丰盛的晚餐；盛宴",
     "en": "treat (esp. food and drink); entertainment; treating someone (to a meal); taking someone to dinner; gorgeous dinner; feast",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22904,7 +20996,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "健康检查，体检",
     "en": "health checkup; medical examination; physical examination",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22916,7 +21007,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "到场；光临会场",
     "en": "attendance; visit to a venue",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22928,7 +21018,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "县锦标赛",
     "en": "prefectural tournament",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22940,7 +21029,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "最后阶段",
     "en": "final stage",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22952,7 +21040,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "人才经纪公司",
     "en": "talent agency",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22964,7 +21051,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "最小值；最低；最小；至少；至少",
     "en": "minimum; lowest; minimal; least; at a minimum",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22976,7 +21062,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "现代社会",
     "en": "modern society",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -22988,7 +21073,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "最新机型",
     "en": "latest model",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23000,7 +21084,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "现代人；今天的人",
     "en": "modern person; people of today",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23012,7 +21095,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "最新作品（例如书籍、电影）；最新作品；最近的工作",
     "en": "latest work (e.g. book, film); newest work; most recent work",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23024,7 +21106,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "讨人喜欢；好感度；人气",
     "en": "likability; favorability; popularity",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23036,7 +21117,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "最低温度；最低温度；低",
     "en": "minimum temperature; lowest temperature; low",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23048,7 +21128,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "一个人的高中时代",
     "en": "one's high school days",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23060,7 +21139,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "最小值；至少",
     "en": "minimum; at the very least",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23072,7 +21150,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "交通；运输；交通设施；交通系统；交通系统",
     "en": "transportation; transport; transportation facilities; transportation system; transit system",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23084,7 +21161,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "钓鱼",
     "en": "fishing",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23096,7 +21172,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "老龄化社会；老龄化社会",
     "en": "aging society; ageing society",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23108,7 +21183,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "延迟；推迟；拖延症",
     "en": "delay; putting off; procrastination",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23120,7 +21194,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "咖啡豆",
     "en": "coffee bean",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23132,7 +21205,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "上一年（财政、学术等）",
     "en": "previous year (fiscal, academic, etc.)",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23144,7 +21216,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "每个人；每个人",
     "en": "each individual; each person",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23156,7 +21227,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "插入；信掉落；送给囚犯；送给囚犯的东西；向执行任务的人提供食物、茶点等",
     "en": "insertion; letter drop; sending to a prisoner; thing sent to a prisoner; supply of provisions, refreshments, etc. to someone carrying out a task",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23168,7 +21238,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "考虑到；碰巧知道（的）； （的）想法；暗示",
     "en": "having in mind; happening to know (of); idea (of); inkling",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23180,7 +21249,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "发件人（例如邮件的发件人）",
     "en": "sender (e.g. of mail)",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23192,7 +21260,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "育儿",
     "en": "child rearing; child raising; raising children; parenting",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23204,7 +21271,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "洗涤；洗碗",
     "en": "washing-up; dish-washing",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23216,7 +21282,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "诀窍；要领",
     "en": "knack; trick; key point",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23228,7 +21293,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "座位号",
     "en": "seat number",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23240,7 +21304,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "国会议员；国会议员；议会议员；国会议员",
     "en": "member of the Diet; Diet member; member of parliament; MP",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23252,7 +21315,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "支援活动",
     "en": "support activity",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23264,7 +21326,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "前几天；前些时候",
     "en": "the other day; recently",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23276,7 +21337,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "考官",
     "en": "examiner",
-    "page": 53,
     "book": "n2"
   },
   {
@@ -23288,7 +21348,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "试错",
     "en": "trial and error",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23300,7 +21359,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "相互信任的关系；信托关系",
     "en": "relationship of mutual trust; fiduciary relation",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23312,7 +21370,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "试用产品；原型模型",
     "en": "trial product; prototype model",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23324,7 +21381,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "指定时间；时间预约",
     "en": "specified time; time designation",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23336,7 +21392,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "自然灾害",
     "en": "natural disaster",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23348,7 +21403,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "一段时间；时段；时区",
     "en": "period of time; time slot; time zone",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23360,7 +21414,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "草稿；粗略复制",
     "en": "draft; rough copy",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23372,7 +21425,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "自我介绍",
     "en": "self-introduction",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23384,7 +21436,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "（某人）申请（尤其是公司）的原因",
     "en": "reason for (one's) application (esp. to a company)",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23396,7 +21447,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "自我评估；自我评价；自我评价；自尊",
     "en": "self-assessment; self-evaluation; self-rating; self-esteem",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23408,7 +21458,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "市民讲座；面向市民的课程",
     "en": "community course; public lecture",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23420,7 +21469,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "慈善工作；慈善企业",
     "en": "philanthropic work; charitable enterprise",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23432,7 +21480,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "对社会的贡献",
     "en": "contribution to society",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23444,7 +21491,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "自治体",
     "en": "municipality; local government; self-governing body; autonomous body",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23456,7 +21502,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "找工作；求职",
     "en": "job hunting; job searching",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23468,7 +21513,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "行动委员会；执行委员会",
     "en": "action committee; executive committee",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23480,7 +21524,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "修理店",
     "en": "repair shop",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23492,7 +21535,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "秘书处；行政办公室",
     "en": "secretariat; executive office",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23504,7 +21546,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "主角；主角；英雄；女主角； （户主）； （商店的）老板",
     "en": "protagonist; main character; hero; heroine; head (of a household); proprietor (of a store)",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23516,7 +21557,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "健美操",
     "en": "calisthenics",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23528,7 +21568,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "出版商；出版社；出版公司",
     "en": "publisher; publishing house; publishing company",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23540,7 +21579,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "乘车费；车费",
     "en": "fare; passenger fare",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23552,7 +21590,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "商学院；商学院",
     "en": "school of commerce; faculty of commerce",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23564,7 +21601,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "自律神经",
     "en": "autonomic nerve",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23576,7 +21612,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "零售设施；商业设施",
     "en": "retail facilities; commercial facilities",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23588,7 +21623,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "邀请函；推荐信；参考",
     "en": "letter of invitation; letter of recommendation; reference",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23600,7 +21634,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "邀请函；邀请函",
     "en": "invitation; letter of invitation",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23612,7 +21645,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "喜欢和不喜欢；口味；偏好；挑剔（尤其是对食物的挑剔）；挑剔；挑剔",
     "en": "likes and dislikes; tastes; preferences; pickiness (esp. about food); choosiness; fussiness",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23624,7 +21656,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "小学生和中学生",
     "en": "elementary and middle school pupils",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23636,7 +21667,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "防滑装置（材质、胎面等）；防滑；防滑；防滑；后备选项（尤其是大学招生）；后备选择",
     "en": "non-slip device (material, tread, etc.); non-skid; anti-slip; anti-skid; back-up option (esp. with regard to university admissions); back-up choice",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23648,7 +21678,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "儿科",
     "en": "pediatrics",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23660,7 +21689,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "能做的最好的；尽最大努力；全力以赴；尽其所能；尽可能努力",
     "en": "the best one can do; one's best effort; with all one's might; to the best of one's ability; as hard as possible",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23672,7 +21700,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "消费活动",
     "en": "consumer activity",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23684,7 +21711,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "一个人（居住）的环境",
     "en": "one's (living) environment",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23696,7 +21722,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "食品公司",
     "en": "food company",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23708,7 +21733,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "生计支持；维护",
     "en": "livelihood support; maintenance",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23720,7 +21744,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "初次见面",
     "en": "first meeting; first interview with",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23732,7 +21755,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "时间限制",
     "en": "time limit",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23744,7 +21766,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "加工厂；处理厂",
     "en": "processing plant; treatment plant",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23756,7 +21777,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "生产体制",
     "en": "production system",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23768,7 +21788,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "皱纹；褶皱",
     "en": "wrinkle; crease",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23780,7 +21799,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "制造工艺；生产制造",
     "en": "manufacturing process; production manufacture",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23792,7 +21810,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "协调员；项目总监；指导委员会（主席）",
     "en": "facilitator; programme director; steering committee (chair)",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23804,7 +21821,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "制造工厂；生产设施",
     "en": "manufacturing plant; production facility",
-    "page": 54,
     "book": "n2"
   },
   {
@@ -23816,7 +21832,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "世界上最好的",
     "en": "best in the world",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23828,7 +21843,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "二手物品；旧货；使用过的物品",
     "en": "secondhand article; secondhand goods; used item",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23840,7 +21854,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "世界各国；世界上所有国家",
     "en": "countries all over the world; all the countries of the world",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23852,7 +21865,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "很长一段时间（一段时间）",
     "en": "long period (of time)",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23864,7 +21876,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "运动员时期",
     "en": "days as an athlete; playing career",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23876,7 +21887,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "雕塑作品",
     "en": "sculpture; sculptural work",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23888,7 +21898,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "宣传或宣传的影响",
     "en": "impact of publicity or propaganda",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23900,7 +21909,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "额外费用；额外收费",
     "en": "additional fee; extra charge",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23912,7 +21920,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "电风扇",
     "en": "electric fan",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23924,7 +21931,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "定期使用；定期利用",
     "en": "regular use",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23936,7 +21942,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "全国代表大会；全国比赛；全国运动会",
     "en": "national convention; national competition; national athletic meet",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23948,7 +21953,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "拾掇，修整",
     "en": "care; looking after; repair; maintenance; tending; trimming",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23960,7 +21964,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "全貌；全景图；这一切加起来意味着什么；鸟瞰图；全方位肖像；整体视角",
     "en": "complete picture; panorama; what it all adds up to; bird's eye view; all-embracing portrait; overall perspective",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23972,7 +21975,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "体力劳动；体力劳动；手工；手动程序",
     "en": "manual labor; manual labour; handwork; manual procedure",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23984,7 +21986,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "综合文化",
     "en": "general culture",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -23996,7 +21997,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "扶手",
     "en": "handrail; railing; banister",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24008,7 +22008,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "总务科科长",
     "en": "head of the general affairs section",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24020,7 +22019,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "错误；错误；失误",
     "en": "mistake; blunder; slipup",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24032,7 +22030,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "大件垃圾（例如家具、电器）；超大垃圾；大件垃圾；对房子没用的人；退休并被认为是麻烦的丈夫",
     "en": "large-size refuse (e.g. furniture, electrical goods); oversized garbage; bulky rubbish; useless man about the house; husband who is retired and considered a nuisance",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24044,7 +22041,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "手工制作；手工制作；自制；本土的",
     "en": "handmade; handcrafted; homemade; homegrown",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24056,7 +22052,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "毕业典礼；开始",
     "en": "graduation ceremony; commencement",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24068,7 +22063,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "手续，程序",
     "en": "procedure; process; proceedings; formalities",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24080,7 +22074,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "退休贺礼",
     "en": "retirement gift",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24092,7 +22085,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "电视台",
     "en": "television station",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24104,7 +22096,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "对其他公司的评价",
     "en": "evaluation of other companies",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24116,7 +22107,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "专人送货；亲自移交",
     "en": "personal delivery; handing over in person",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24128,7 +22118,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "短期；短时间",
     "en": "short term; short time",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24140,7 +22129,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "偶发事件，变故",
     "en": "occurrence; happening; incident; event",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24152,7 +22140,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "简单的工作；重复性工作；非技术性工作；粗活",
     "en": "simple work; repetitive job; unskilled work; menial work",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24164,7 +22151,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "电子产品",
     "en": "electronic goods",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24176,7 +22162,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "（工作领域等）负责人；负责人；联系人（人）",
     "en": "person in charge (of an area of work, etc.); person responsible; contact (person)",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24188,7 +22173,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "电子词典；袖珍电子词典； PED；数字词典（应用程序或网站）",
     "en": "electronic dictionary; pocket electronic dictionary; PED; digital dictionary (application or website)",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24200,7 +22184,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "蛋白质",
     "en": "protein",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24212,7 +22195,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "传统文化",
     "en": "traditional culture",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24224,7 +22206,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "被宠坏了；被宠坏了；毁掉了；浪费（机会等）；搞砸了；被摧毁",
     "en": "spoiled; spoilt; ruined; wasted (chance, etc.); messed up; destroyed",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24236,7 +22217,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "角色（戏剧、小说、电影等）；戏剧人物",
     "en": "character (in a play, novel, film, etc.); dramatis personae",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24248,7 +22228,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "团体旅游",
     "en": "group travel",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24260,7 +22239,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "绕行；环岛路",
     "en": "detour; roundabout way",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24272,7 +22250,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "安排，顺序，程序",
     "en": "programme; program; plans; arrangements",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24284,7 +22261,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "特别座位",
     "en": "special seat",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24296,7 +22272,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "区域经济；地方经济",
     "en": "regional economy; local economy",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24308,7 +22283,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "山间小道；上山的小路",
     "en": "mountain trail; path up a mountain",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24320,7 +22294,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "全球环境问题；全球环境问题",
     "en": "global environment problems; global environmental issues",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24332,7 +22305,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "手柄；紧握；旋钮",
     "en": "handle; grip; knob",
-    "page": 55,
     "book": "n2"
   },
   {
@@ -24344,7 +22316,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "夫妇都工作",
     "en": "both working; dual income",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24356,7 +22327,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "比较研究；比较后斟酌",
     "en": "comparison and consideration",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24368,7 +22338,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "同一代人；同时代的",
     "en": "the same generation; coeval",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24380,7 +22349,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "连续地；不断地；不间断；下一个；然后；在那之后",
     "en": "continuously; continually; without a break; next; then; after that",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24392,7 +22360,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "很久；间隔时间长；相当长一段时间",
     "en": "long time; long interval; for quite some time",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24404,7 +22371,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "笔试",
     "en": "written examination",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24416,7 +22382,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "鲜奶油",
     "en": "fresh cream",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24428,7 +22393,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "书写工具；书写工具",
     "en": "writing implement; writing tool",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24440,7 +22404,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "大道；林荫大道；绿树成荫的街道",
     "en": "avenue; boulevard; tree-lined street",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24452,7 +22415,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "一般来说；主要；简要地（查看、解释等）；大致；或多或少；一切",
     "en": "generally; in the main; briefly (look over, explain, etc.); roughly; more or less; everything",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24464,7 +22426,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "成就；课程（艺术、技能等）；练习",
     "en": "accomplishment; lessons (in an art, skill, etc.); practice",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24476,7 +22437,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "向日葵",
     "en": "sunflower",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24488,7 +22448,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "两层楼房",
     "en": "two-storied building",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24500,7 +22459,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "细绳；带子",
     "en": "string; cord; strap",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24512,7 +22470,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "入学典礼",
     "en": "school entrance ceremony",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24524,7 +22481,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "百科全书；百科全书",
     "en": "encyclopedia; encyclopaedia",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24536,7 +22492,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "预定入学者；准新生",
     "en": "prospective student; incoming student",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24548,7 +22503,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "质量控制",
     "en": "quality control",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24560,7 +22514,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "布制玩偶；毛绒玩具",
     "en": "stuffed toy; plush toy",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24572,7 +22525,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "盖子；盖",
     "en": "lid; cover",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24584,7 +22536,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "温水；温水；舒服的；简单的；轻松；自满的",
     "en": "tepid water; lukewarm water; comfortable; easy; relaxed; complacent",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24596,7 +22547,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "美术作品",
     "en": "work of art; artwork",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24608,7 +22558,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "螺丝；螺钉",
     "en": "screw",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24620,7 +22569,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "塑料袋",
     "en": "plastic bag",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24632,7 +22580,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "（植物的）根； （树桩）； （问题的根源等）；根据；基础；起源",
     "en": "root (of a plant); stump (of a tree); root (of a problem, etc.); base; foundation; origin",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24644,7 +22591,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "次品",
     "en": "inferior goods; defective product; defective goods",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24656,7 +22602,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "降价，减价",
     "en": "price reduction; discount",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24668,7 +22613,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "气氛，空气",
     "en": "atmosphere; mood; ambience; ambiance; aura; feel",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24680,7 +22624,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "农作物",
     "en": "crops; agricultural produce",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24692,7 +22635,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "文学作品",
     "en": "literary work",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24704,7 +22646,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "上升；上坡；向上倾斜；好转；增加",
     "en": "ascent; uphill; upward slope; upturn; increase",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24716,7 +22657,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "学园祭；文化节；年度开放日学校活动展示学生才华",
     "en": "school festival; cultural festival; annual open day school event showcasing student talent",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24728,7 +22668,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "去坟墓",
     "en": "visit to a grave",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24740,7 +22679,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "法学院；法学院；法学院",
     "en": "faculty of law; school of law; college of law",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24752,7 +22690,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "恶心；感觉想吐；感觉不舒服",
     "en": "nausea; feeling like throwing up; feeling sick",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24764,7 +22701,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "放学后（一天结束时）",
     "en": "after school (at the end of the day)",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24776,7 +22712,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "张贴的告示；招贴",
     "en": "paper patch attached to something; paper backing; sticker; label; notice; poster",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24788,7 +22723,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "灰尘",
     "en": "dust",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24800,7 +22734,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "商店；商店",
     "en": "store; shop",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24812,7 +22745,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "当年（财政、学术等）",
     "en": "current year (fiscal, academic, etc.)",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24824,7 +22756,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "暴露在阳光下；阳光充足的地方；每天",
     "en": "exposure to the sun; sunny place; per day",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24836,7 +22767,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "现场直播",
     "en": "live broadcast (radio, TV); live coverage",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24848,7 +22778,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "一日游",
     "en": "day trip",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24860,7 +22789,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "马拉松比赛",
     "en": "marathon race; marathon",
-    "page": 56,
     "book": "n2"
   },
   {
@@ -24872,7 +22800,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "绕行；迂回路线；改道",
     "en": "detour; circuitous route; diversion",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -24884,7 +22811,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "野生动物",
     "en": "wild animal",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -24896,7 +22822,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "满意",
     "en": "satisfaction",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -24908,7 +22833,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "值得做的价值；成就感",
     "en": "sense of purpose; worth doing",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -24920,7 +22844,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "看起来",
     "en": "appearance; look",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -24932,7 +22855,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "给予和索取；交换（信件）；来回争论；交换",
     "en": "giving and taking; exchange (of letters); arguing back and forth; exchange",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -24944,7 +22866,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "身边衣物；日常生活",
     "en": "one's personal belongings; one's vicinity; one's daily life; everyday necessities",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -24956,7 +22877,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "会（做某事）；驾驶；动机；热情；渴望",
     "en": "will (to do something); drive; motivation; enthusiasm; eagerness",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -24968,7 +22888,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "手势；手势；运动",
     "en": "gesture; gesticulation; motion",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -24980,7 +22899,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "收费公路",
     "en": "toll road",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -24992,7 +22910,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "民族音乐",
     "en": "ethnic music",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25004,7 +22921,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "幼儿期",
     "en": "early childhood",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25016,7 +22932,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "面对；对面的；街对面；另一边",
     "en": "facing; opposite; across the street; other side",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25028,7 +22943,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "出乎预料",
     "en": "unexpected; unforeseen; strange",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25040,7 +22954,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "强行；强行；违背自己的意愿",
     "en": "forcibly; by force; against one's will",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25052,7 +22965,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "世间，世上；时代",
     "en": "society; the world; the times",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25064,7 +22976,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "标记；指导；里程碑；目的；目的；目标",
     "en": "mark; guide; landmark; purpose; aim; goal",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25076,7 +22987,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "做饭；厨师",
     "en": "cook; chef",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25088,7 +22998,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "名优产品；广为人知的（当地）特产",
     "en": "famous product; widely known (local) specialty",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25100,7 +23009,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "烹饪书；菜谱",
     "en": "cookbook",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25112,7 +23020,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "当地特产；当地特色菜",
     "en": "local specialty; local special dish",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25124,7 +23031,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "照顾；照管房屋；看家；呆在家里；看门人；保姆",
     "en": "care-taking; house-sitting; house-watching; staying at home; caretaker; house-sitter",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25136,7 +23042,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "申请表",
     "en": "application form",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25148,7 +23053,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "包装并消毒的食品；蒸煮食品",
     "en": "packed and sterilised food; retort food",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25160,7 +23064,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "目标设定",
     "en": "goal setting",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25172,7 +23075,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "缺乏培训",
     "en": "lack of training",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25184,7 +23086,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "业主；业主；拥有者（例如才华、美貌等）",
     "en": "owner; proprietor; possessor (e.g. of talent, beauty, etc.)",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25196,7 +23097,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "和果子；传统的日本点心",
     "en": "wagashi; traditional Japanese confectionery",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25208,7 +23108,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "最近的；最接近的",
     "en": "nearest; closest",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25220,7 +23119,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "我们公司；我的公司",
     "en": "our company; my company",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25232,7 +23130,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "山羊",
     "en": "goat",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25244,7 +23141,6 @@ window.N2_VOCAB = [
     "category": "名詞（その他）",
     "cn": "临别时；分别之际",
     "en": "at parting; on parting",
-    "page": 57,
     "book": "n2"
   },
   {
@@ -25256,7 +23152,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "举；举例",
     "en": "to give (an example); to list; to enumerate; to show; to display; to cite",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25268,7 +23163,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "祝贺，庆祝",
     "en": "to celebrate; to congratulate; to observe (a festival); to present (a gift) in celebration; to drink in celebration; to wish for (a happy future, good fortune, etc.)",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25280,7 +23174,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "油炸",
     "en": "to deep-fry; to make deep-fried food; to launch (fireworks, etc.); to hoist (e.g. a flag); to (let) fly (e.g. a kite); to set off",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25292,7 +23185,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "漂浮；被暂停；上升到表面；出现；出现；出现",
     "en": "to float; to be suspended; to rise to the surface; to appear; to emerge; to show up",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25304,7 +23196,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "品尝；鉴赏；体验",
     "en": "to taste; to savor; to savour; to relish; to appreciate; to enjoy",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25316,7 +23207,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "漂浮；漂浮；启动；表现在脸上（微笑、悲伤等）；回忆；回想起",
     "en": "to float; to set afloat; to launch; to show on one's face (smile, sadness, etc.); to recall; to call to mind",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25328,7 +23218,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "代人保管；负责；保留",
     "en": "to look after; to take care of; to keep; to hold on to; to keep in custody; to be put in charge of",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25340,7 +23229,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "转移（到不同的地方、团体等）；改变；移动（某物）；交换；替代；搬迁",
     "en": "to transfer (to a different place, group, etc.); to change; to move (something); to swap; to substitute; to relocate",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25352,7 +23240,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "焦躁，着急",
     "en": "to be in a hurry; to be impatient; to be anxious (to do); to fret; to get a fright; to panic",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25364,7 +23251,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "映照；放映",
     "en": "to project; to reflect; to cast (shadow)",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25376,7 +23262,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "打；揭露；应用（例如补丁）；穿上；反对；坚持住",
     "en": "to hit; to expose; to apply (e.g. patch); to put on; to put against; to hold on",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25388,7 +23273,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "诉讼；诉说诉诸；打动",
     "en": "to raise; to bring to (someone's attention); to appeal to (reason, emotions, etc.); to work on (one's emotions); to play on (one's sympathies); to complain",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25400,7 +23284,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "挖，掘；揭发",
     "en": "to disclose; to divulge; to expose; to open (a grave); to dig out",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25412,7 +23295,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "低头；垂首",
     "en": "to look down; to bow one's head",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25424,7 +23306,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "耍；驾驶；操纵；掌握（语言）",
     "en": "to operate (e.g. a machine); to handle; to manage; to control; to maneuver; to steer",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25436,7 +23317,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "点头",
     "en": "to nod",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25448,7 +23328,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "错，误，弄错",
     "en": "to make a mistake (in); to commit an error; to do incorrectly; to err; to be wrong; to be incorrect",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25460,7 +23339,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "夺，抢夺",
     "en": "to take (by force); to take away; to snatch; to steal; to rob (someone) of; to dispossess of",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25472,7 +23350,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "步行；步行去；踏上（象征性的道路）；跟随；过（生活）；去体验",
     "en": "to walk; to go on foot; to tread (a figurative path); to follow; to lead (a life); to experience",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25484,7 +23361,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "被埋葬；被覆盖；被包围；溢出；拥挤；待填补",
     "en": "to be buried; to be covered; to be surrounded; to overflow; to be crowded; to be filled",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25496,7 +23372,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "争夺",
     "en": "to compete; to contest; to contend; to quarrel; to argue; to dispute",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25508,7 +23383,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "尊敬",
     "en": "to show respect for; to revere; to honour; to honor; to worship; to hold in esteem",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25520,7 +23394,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "更新；改变；有待改进；进行改革；有待修订；有待纠正",
     "en": "to be renewed; to change; to be improved; to be reformed; to be revised; to be corrected",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25532,7 +23405,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "背叛；辜负",
     "en": "to betray; to turn traitor (to); to double-cross; to go back on; to be unfaithful (to); to disappoint",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25544,7 +23416,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "改变；修改",
     "en": "to change; to alter; to revise; to replace; to reform; to correct",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25556,7 +23427,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "占卜，算命",
     "en": "to tell someone's fortune; to divine (the future); to predict; to forecast",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25568,7 +23438,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "变得暴风雨； （海的）变得波涛汹涌；陷入毁灭；被忽视；变得破旧不堪； （皮肤）变得粗糙",
     "en": "to become stormy; to become rough (of the sea); to fall into ruin; to become neglected; to become dilapidated; to become rough (of skin)",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25580,7 +23449,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "超出",
     "en": "to exceed (esp. figures: profits, unemployment rate, etc.); to surpass; to be more than; to be better than",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25592,7 +23460,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "惊慌，慌张；急忙",
     "en": "to become confused (disconcerted, disorganized, disorganised); to be flustered; to panic; to hurry; to rush; to hasten",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25604,7 +23471,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "得到；可以",
     "en": "to get; to earn; to acquire; to procure; to gain; to secure",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25616,7 +23482,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "活用，有效地利用",
     "en": "to make (the best) use of; to put to good use; to leverage (skills, attributes, experience, etc.); to capitalise on (experience, etc.); to let live; to keep alive",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25628,7 +23493,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "采取行动（一部分）；扮演（角色）；表演（戏剧等）；上演（作品）；犯错误（例如犯错误）；使自己丢脸",
     "en": "to act (a part); to play (a role); to perform (a play, etc.); to put on (a production); to commit (e.g. a blunder); to disgrace oneself",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25640,7 +23504,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "弄活；使活下去；活用",
     "en": "to make (the best) use of; to put to good use; to leverage (skills, attributes, experience, etc.); to capitalise on (experience, etc.); to let live; to keep alive",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25652,7 +23515,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "追，赶；追求",
     "en": "to chase; to run after; to pursue; to follow after; to follow (a set order, a trend, etc.); to drive out",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25664,7 +23526,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "摆弄；拨弄；改动；戏弄",
     "en": "to fiddle with; to tamper with; to tease",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25676,7 +23537,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "应，接受；答应；适应",
     "en": "to respond; to satisfy; to accept; to comply with; to apply for",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25688,7 +23548,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "疼痛；损坏；腐烂",
     "en": "to hurt; to ache; to feel a pain; to be injured; to be spoiled (e.g. food); to be damaged",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25700,7 +23559,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "完成；度过难关；完成；使（某事）结束；毕业；结束",
     "en": "to finish; to get through with; to complete; to bring (something) to an end; to graduate; to come to an end",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25712,7 +23570,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "至，到；达，及",
     "en": "to arrive at (e.g. a decision); to reach (a stage); to attain; to lead to (a place); to get to; in the extreme case of",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25724,7 +23581,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "蒙上，覆盖；掩盖",
     "en": "to cover; to hide; to conceal; to wrap; to disguise",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25736,7 +23592,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "讨厌",
     "en": "to appear uncomfortable (with); to seem to hate; to express dislike",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25748,7 +23603,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "衤卜，补充；补偿，填补",
     "en": "to supplement; to make up for; to compensate for; to cover (a shortage, loss, etc.); to fill (e.g. a vacancy)",
-    "page": 58,
     "book": "n2"
   },
   {
@@ -25760,7 +23614,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "唤起，叫醒",
     "en": "to raise; to raise up; to set up; to pick up; to stand (something) up; to wake",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25772,7 +23625,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "影响时尚气息；努力让自己看起来好看；炫耀",
     "en": "to affect a stylish air; to try to look good; to show off",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25784,7 +23636,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "发生；发生",
     "en": "to occur; to happen",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25796,7 +23647,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "兼；兼任",
     "en": "to be unable to; to find difficult (unpleasant, awkward, painful) to do; to serve two or more functions or roles simultaneously; to contain (or combine) two or more features; to work in two or more jobs simultaneously (positions, etc.); to do alongside",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25808,7 +23658,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "请客；奢侈挥霍；骄傲自满",
     "en": "to treat someone; to pay for; to be extravagant",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25820,7 +23669,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "缠绕；纠缠不清；纠缠；被抓住（陷入）；参与（例如涉及某件事的金钱）；参与（参与）",
     "en": "to twine; to get tangled; to get entangled; to get caught (in); to be involved (e.g. of money in a matter); to get involved (in)",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25832,7 +23680,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "适合（盒子、框架、类别等）；包含在其中；符合（例如预算）；安定下来（进入）；安装（在适当的位置）；返回（回到原来的位置）",
     "en": "to fit into (a box, frame, category, etc.); to be contained within; to fall within (e.g. a budget); to settle down (into); to be installed (in one's rightful place); to be returned (to one's original position)",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25844,7 +23691,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "割；修剪",
     "en": "to cut (grass, hair, etc.); to mow; to clip; to trim; to prune; to shear",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25856,7 +23702,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "适合（盒子、框架、类别等）；包含在其中；符合（例如预算）；安定下来（进入）；安装（在适当的位置）；返回（回到原来的位置）",
     "en": "to fit into (a box, frame, category, etc.); to be contained within; to fall within (e.g. a budget); to settle down (into); to be installed (in one's rightful place); to be returned (to one's original position)",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25868,7 +23713,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "弄干；晾干",
     "en": "to dry (clothes, etc.); to desiccate",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25880,7 +23724,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "缴纳，交纳",
     "en": "to put (into); to put away (in); to put back (in); to keep (in); to store (in); to restore (to its place)",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25892,7 +23735,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "关心；有关联",
     "en": "to concern; to be related",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25904,7 +23746,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "害怕，恐惧；担心",
     "en": "to fear; to be afraid of",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25916,7 +23757,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "有效，奏效",
     "en": "to be effective; to take effect; to be good (for); to work; to function well; to be possible (to do, use, etc.)",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25928,7 +23768,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "被教导；学习；吸取教训",
     "en": "to be taught; to learn; to take lessons in",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25940,7 +23779,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "构筑；建立，构成",
     "en": "to build; to construct; to erect; to build up (a reputation, position, fortune, etc.); to establish (a relationship, household, tradition, etc.); to lay (a foundation)",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25952,7 +23790,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "访问；到来",
     "en": "to visit; to call on; to arrive (of a season, situation, etc.); to come; to appear",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25964,7 +23801,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "竞争，竞赛",
     "en": "to compete; to contend; to vie; to contest",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25976,7 +23812,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "劣，次，比不上",
     "en": "to be inferior to; to be less good at; to fall behind",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -25988,7 +23823,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "锤炼；锻炼",
     "en": "to forge; to temper; to drill; to train; to discipline",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26000,7 +23834,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "惊动，使惊讶；吓唬，使害怕",
     "en": "to surprise; to frighten; to create a stir",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26012,7 +23845,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "加句读；划分，隔开",
     "en": "to divide; to separate; to partition; to demarcate; to delimit; to mark off",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26024,7 +23856,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "同情；同情；去感受；体贴；表示考虑；牢记",
     "en": "to sympathize with; to sympathise with; to feel for; to be considerate of; to show consideration for; to bear in mind",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26036,7 +23867,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "拆毁，使崩溃；搅乱",
     "en": "to destroy; to demolish; to pull down; to tear down; to level; to disturb",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26048,7 +23878,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "抱，夹；承担，担负",
     "en": "to hold in one's arms; to carry in one's arms; to carry under one's arm; to hold (one's head) in one's hands; to have (problems, debts, etc.); to take on (a responsibility)",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26060,7 +23889,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "崩溃，倒塌；走样",
     "en": "to collapse; to crumble; to get out of shape; to lose one's shape; to become disorganized; to become untidy",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26072,7 +23900,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "弯腰；俯身",
     "en": "to bend down; to stoop",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26084,7 +23911,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "紧贴在一起；附着",
     "en": "to stick together; to adhere",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26096,7 +23922,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "限制；限制；限制；被限制于；仅限于；被限制于",
     "en": "to restrict; to limit; to confine; to be restricted to; to be limited to; to be confined to",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26108,7 +23933,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "懊悔，后悔；吊唁",
     "en": "to mourn; to lament; to be sorry; to regret; to repent",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26120,7 +23944,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "闻；嗅",
     "en": "to sniff; to smell",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26132,7 +23955,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "被添加到；待追加；加入（例如一群朋友）；参加；增加（例如热量）；获得（例如影响力）",
     "en": "to be added to; to be appended; to join in (e.g. a group of friends); to participate; to increase (e.g. heat); to gain in (e.g. influence)",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26144,7 +23966,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "隐藏；隐蔽，无名",
     "en": "to hide; to conceal oneself; to take cover; to disappear (behind); to be hidden (by); to be covered",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26156,7 +23977,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "烧焦，烤焦",
     "en": "to burn; to scorch; to char; to singe",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26168,7 +23988,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "重叠；赶在一起",
     "en": "to be piled up; to lie on top of one another; to come one after another; to happen over and over; to pile up (e.g. stress); to accumulate",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26180,7 +23999,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "尝试；尝试；尝试一下",
     "en": "to try; to attempt; to have a go (at)",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26192,7 +24010,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "咬；啃；略懂",
     "en": "to nibble; to gnaw; to know a little",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26204,7 +24021,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "坐下（坐下）",
     "en": "to sit (down)",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26216,7 +24032,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "征收（税款、罚款等）；征税；分配（任务、职责等）；给予；设置",
     "en": "to impose (a tax, fine, etc.); to levy; to assign (a task, duty, etc.); to give; to set",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26228,7 +24043,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "越过（例如山）；穿过；克服（例如困难）；打发时间（例如冬天）；超越；比",
     "en": "to cross over (e.g. mountain); to go across; to get over (e.g. hardship); to pass time (e.g. a winter); to surpass; to be better than",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26240,7 +24054,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "偏颇；偏于一方",
     "en": "to lean (to one side); to incline; to be unbalanced (e.g. diet); to be unduly weighted towards; to be concentrated on; to be partial",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26252,7 +24065,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "回应；回答；满足（例如要求、期望）；影响；收取通行费；打回家",
     "en": "to respond; to answer; to meet (e.g. demands, expectations); to affect; to take a toll; to strike home",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26264,7 +24076,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "谈，说",
     "en": "to talk about; to speak of; to tell; to narrate; to recite; to chant",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26276,7 +24087,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "拘泥；讲究",
     "en": "to be particular about; to be fixated on",
-    "page": 59,
     "book": "n2"
   },
   {
@@ -26288,7 +24098,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "不同",
     "en": "to differ; to be different; to disagree; to vary; to diverge",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26300,7 +24109,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "接触；接连",
     "en": "to touch; to come in contact with; to border on; to adjoin; to be adjacent; to be close",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26312,7 +24120,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "爱好，喜欢，愿意",
     "en": "to like; to prefer",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26324,7 +24131,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "接近；靠近；迫在眉睫；向（某人）施压；敦促；强迫",
     "en": "to approach; to draw near; to be imminent; to press (someone for something); to urge; to compel",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26336,7 +24142,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "害怕",
     "en": "to be afraid (of); to fear; to be frightened (of); to be scared (of); to worry (about)",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26348,7 +24153,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "责备；苛责",
     "en": "to condemn; to blame; to criticize; to criticise; to reproach; to accuse",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26360,7 +24164,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "探，摸；探索，探求",
     "en": "to feel around for; to fumble for; to grope for; to search for; to look for; to investigate",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26372,7 +24175,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "一起跑；跑在旁边；坚持（一条线）；遵循（政策、计划等）；依照；与",
     "en": "to run along; to run beside; to stick to (a line); to follow (a policy, plan, etc.); to act in accordance with; to align with",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26384,7 +24186,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "避开，回避；避免",
     "en": "to avoid (physical contact with); to avoid (situation); to evade (question, subject); to shirk (one's responsibilities); to ward off; to avert",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26396,7 +24197,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "满足（愿望、期望等）；满足；遵守；不辜负；陪伴；与",
     "en": "to meet (wishes, expectations, etc.); to satisfy; to comply with; to live up to; to accompany; to go with",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26408,7 +24208,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "支撑；维持",
     "en": "to support; to prop; to sustain; to underlay; to hold up; to defend",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26420,7 +24219,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "准备，防备；备置；具备",
     "en": "to furnish with; to equip with; to provide; to install; to prepare for; to make preparations for",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26432,7 +24230,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "刺；扎",
     "en": "to pierce; to stab; to prick; to stick; to thrust; to sting",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26444,7 +24241,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "被染色；被污染；被感染；被染色；被浸泡",
     "en": "to be dyed; to be tainted; to be infected; to be stained; to be steeped",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26456,7 +24252,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "定，赤刂定；评定；奠定",
     "en": "to decide; to determine; to establish; to lay down; to prescribe; to provide",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26468,7 +24263,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "染色；涂色",
     "en": "to dye; to colour; to color",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26480,7 +24274,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "生锈",
     "en": "to rust",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26492,7 +24285,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "齐全，；一致，整齐；到齐，齐备",
     "en": "to be complete; to be all present; to make a full set; to be satisfied (of conditions); to be equal; to be uniform",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26504,7 +24296,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "妨碍，阻挡",
     "en": "to disturb; to prevent; to obstruct; to hinder",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26516,7 +24307,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "使一致；备齐；使成双",
     "en": "to collect; to gather; to get together; to complete (a collection); to arrange; to put in order",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26528,7 +24318,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "完成；完成；结束；通过；擦掉",
     "en": "to finish up; to complete; to finish off; to get through; to polish off",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26540,7 +24329,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "忍耐谷忍；担负",
     "en": "to bear; to stand; to endure; to put up with; to support; to withstand",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26552,7 +24340,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "亲近，接近；喜好",
     "en": "to be intimate with; to befriend",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26564,7 +24351,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "扔掉；打倒；吹倒；跌倒；击倒；将（某物）放在其一侧",
     "en": "to throw down; to bring down; to blow down; to fell; to knock down; to set (something) down on its side",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26576,7 +24362,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "打结；绑定；紧固；限制（自由）；束缚（用规则、条例等）；束缚",
     "en": "to tie; to bind; to fasten; to restrict (freedom); to tie down (with rules, regulations, etc.); to fetter",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26588,7 +24373,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "上升；膨胀；加强；增加；变得更强；变得更高",
     "en": "to rise; to swell; to intensify; to increase; to grow stronger; to get higher",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26600,7 +24384,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "被勒死；被限制",
     "en": "to be strangled; to be constricted",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26612,7 +24395,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "提高",
     "en": "to raise; to lift; to boost; to enhance",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26624,7 +24406,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "渗入；刺痛；深感",
     "en": "to soak through; to sting; to sink in",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26636,7 +24417,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "煮（饭）",
     "en": "to cook (grains, e.g. rice); to boil; to simmer; to stew; to seethe; to get angry",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26648,7 +24428,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "潮湿；受潮",
     "en": "to become damp; to become moist; to become wet; to lack energy; to be in a slump; to be in low spirits",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26660,7 +24439,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "被拯救；被拯救；生存；逃避伤害；免受损害；得到帮助",
     "en": "to be saved; to be rescued; to survive; to escape harm; to be spared damage; to be helped",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26672,7 +24450,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "占据，占有",
     "en": "to account for; to make up; to take up; to occupy (a place, position, etc.); to hold (a rank, seat, etc.); to occupy (one's mind, heart, etc.)",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26684,7 +24461,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "到达；达到；精通；达成",
     "en": "to reach; to get to; to arrive at",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26696,7 +24472,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "生，长；产生；发生",
     "en": "to produce; to yield; to cause; to result from; to arise; to be generated",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26708,7 +24483,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "束，捆，扎",
     "en": "to tie up in a bundle (e.g. straw, hair, bills, letters); to bundle; to sheathe; to govern; to manage; to control",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26720,7 +24494,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "写下来；记下；记下；记下；提及；描述",
     "en": "to write down; to note down; to jot down; to take a note of; to mention; to describe",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26732,7 +24505,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "试",
     "en": "to try (out); to have a try (at); to test; to put to the test",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26744,7 +24516,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "救，救援；救济；挽救",
     "en": "to rescue (someone); to save; to help (out of a difficulty); to relieve (from); to save (spiritually); to redeem (from sin)",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26756,7 +24527,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "保持不变；维持",
     "en": "to keep; to preserve; to hold; to retain; to maintain; to sustain",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26768,7 +24538,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "优秀，卓越，精湛",
     "en": "to be better (than); to be superior; to surpass; to excel; to be excellent",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26780,7 +24549,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "接近；靠近",
     "en": "to approach; to draw near; to get close; to get acquainted with; to get closer to; to get to know",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26792,7 +24560,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "转移；移动；滑动；搬家（约会、会议等）；提出；放回去",
     "en": "to shift; to move; to slide; to move (an appointment, meeting, etc.); to bring forward; to put back",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26804,7 +24571,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "缩短；减少；凝结；收缩；弄皱(织物)；起皱",
     "en": "to shorten; to reduce; to condense; to shrink; to crumple (fabric); to wrinkle",
-    "page": 60,
     "book": "n2"
   },
   {
@@ -26816,7 +24582,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "分散到周围；留下不整洁；弄乱",
     "en": "to scatter around; to leave untidy; to make a mess",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26828,7 +24593,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "停止；关闭；停车；防止；抑制（咳嗽）；忍住（泪水）",
     "en": "to stop; to turn off; to park; to prevent; to suppress (a cough); to hold back (tears)",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26840,7 +24604,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "掉落（例如花朵、叶子）；驱散；被驱散；消失；溶解；分手",
     "en": "to fall (e.g. blossoms, leaves); to scatter; to be dispersed; to disappear; to dissolve; to break up",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26852,7 +24615,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "陪伴；齐头并进；随之而来的；伴随；携带；带着",
     "en": "to accompany; to go hand in hand with; to be consequent upon; to be accompanied by; to bring with; to take with",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26864,7 +24626,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "通；精通；领会；相通",
     "en": "to be open (to traffic); to lead (to); to connect (to); to run (from, between; e.g. bus service); to extend (up to); to go (to)",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26876,7 +24637,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "捉住；掌握，抓住",
     "en": "to catch; to capture; to seize; to arrest; to grab; to catch hold of",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26888,7 +24648,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "被用完；被用完；精疲力尽；被消耗；结束",
     "en": "to be used up; to be run out; to be exhausted; to be consumed; to come to an end",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26900,7 +24659,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "眺望；凝视",
     "en": "to look at; to gaze at; to watch; to stare at; to look out over; to get a view of",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26912,7 +24670,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "就座，登上；就职",
     "en": "to take (seat, position, course, office, etc.); to assume; to be hired; to be employed; to ascend (the throne); to accede",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26924,7 +24681,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "抚摸；爱抚；轻轻地刷；宠物；拍打；擦",
     "en": "to stroke; to caress; to brush gently; to pet; to pat; to rub",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26936,7 +24692,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "创造；创作",
     "en": "to make; to produce; to manufacture; to build; to construct; to prepare (food)",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26948,7 +24703,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "要有香味；闻（好）；发臭；闻（难闻）；发光；变得明亮",
     "en": "to be fragrant; to smell (good); to stink; to smell (bad); to glow; to be bright",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26960,7 +24714,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "传；传导",
     "en": "to spread (of a rumour, news, etc.); to travel; to circulate; to go around; to be passed around; to become known",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26972,7 +24725,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "憎恶，厌恶；嫉恨",
     "en": "to hate; to detest",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26984,7 +24736,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "努力，下功夫",
     "en": "to endeavor (to do); to endeavour; to try hard; to work hard; to strive; to make an effort",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -26996,7 +24747,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "浑浊，不透明",
     "en": "to become muddy; to become cloudy; to become turbid; to become impure (of a liquid or gas); to become dull (of a sound, color, etc.); to become indistinct",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27008,7 +24758,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "连接；有关联",
     "en": "to be connected (to); to be joined together; to be linked; to be tied together; to lead (to); to connect (of a telephone call, the internet, etc.)",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27020,7 +24769,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "瞪；盯；估计",
     "en": "to glare at; to keep an eye on; to estimate",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27032,7 +24780,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "连接；系上",
     "en": "to connect; to link together; to tie; to fasten; to restrain; to maintain",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27044,7 +24791,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "抽出，拔掉；除掉",
     "en": "to pull out; to draw out; to extract; to unplug; to weed; to omit",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27056,7 +24802,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "被压碎；被压扁；被砸碎；被摧毁；被打破；崩溃",
     "en": "to be crushed; to be squashed; to be smashed; to be destroyed; to be broken; to collapse",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27068,7 +24813,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "偷盗；偷偷地",
     "en": "to steal; to plagiarize; to steal (a technique, idea, etc.); to watch and learn; to do stealthily; to do during scant time",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27080,7 +24824,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "包装（装有）；被填满；填满（例如时间表）； （管道、鼻子等）被堵塞；被堵塞；被阻止",
     "en": "to be packed (with); to be filled; to be full (e.g. of a schedule); to be blocked (of a pipe, nose, etc.); to be clogged; to be stopped up",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27092,7 +24835,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "仔细推敲，锤炼",
     "en": "to knead; to thicken into a paste (stirring over a flame); to polish (a plan, etc.); to refine; to elaborate; to work out",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27104,7 +24846,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "堆积；积累",
     "en": "to pile up; to stack; to load (car, ship, etc.); to pack; to acquire; to accumulate",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27116,7 +24857,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "消除，去掉；除外",
     "en": "to remove; to get rid of; to take away; to eliminate; to exclude; to except",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27128,7 +24868,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "填入；塞进；缩短",
     "en": "to stuff into; to jam; to cram; to pack; to fill; to plug",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27140,7 +24879,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "窥视；探头看；除去",
     "en": "to peek; to look in; to exclude",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27152,7 +24890,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "适合；适合",
     "en": "to fit; to suit",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27164,7 +24901,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "眺望；希望，要求",
     "en": "to desire; to want; to wish for; to hope for; to expect (of someone); to look forward to",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27176,7 +24912,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "询问；询问；责怪（某人）；指责；追求（责任问题）；充电",
     "en": "to ask; to inquire; to blame (someone) for; to accuse of; to pursue (question of responsibility); to charge with",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27188,7 +24923,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "叙述，谈论",
     "en": "to state; to express; to say; to tell; to mention",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27200,7 +24934,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "融化；液化；解冻；溶解（在液体中）；提出解决方案；输掉（金钱；通过赌博等）",
     "en": "to melt; to liquefy; to thaw; to dissolve (in a liquid); to bring into solution; to lose (money; through gambling, etc.)",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27212,7 +24945,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "登载，记载",
     "en": "to be placed on; to be set on; to be piled on; to be loaded on; to appear (in print); to be mentioned",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27224,7 +24956,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "整齐，完整；协调",
     "en": "to be ready; to be prepared; to be arranged; to be in order; to be put in order; to be well-ordered",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27236,7 +24967,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "测量；称重；调查；时间（声音、仪表、估计）；推测；推断",
     "en": "to measure; to weigh; to survey; to time (sound, gauge, estimate); to conjecture; to infer",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27248,7 +24978,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "整理，整顿；准备好",
     "en": "to put in order; to arrange; to tidy up; to fix; to straighten; to get ready",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27260,7 +24989,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "隔；夹；插",
     "en": "to hold between (e.g. one's fingers, chopsticks); to grip (from both sides); to put between; to sandwich between; to insert; to interpose",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27272,7 +25000,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "使飞走；跳过；疾驰",
     "en": "to let fly; to make fly; to send flying; to blow off (e.g. in the wind); to launch; to fire",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27284,7 +25011,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "断开连接；离开原地；下班；脱离（例如失去装备）；没有击中目标；弄错（例如猜测、期望）",
     "en": "to be disconnected; to get out of place; to be off; to be out (e.g. of gear); to miss the mark; to get it wrong (e.g. guess, expectation)",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27296,7 +25022,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "缺乏；贫乏",
     "en": "meagre; meager; scarce; limited; destitute; hard up",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27308,7 +25033,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "完成，实现；完了，全部",
     "en": "to accomplish; to achieve; to carry out; to fulfill; to fulfil; to realize",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27320,7 +25044,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "留下，停留",
     "en": "to stop (moving); to come to a stop; to stop (doing, working, being supplied); to come to a halt; to cease; to be stopped",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27332,7 +25055,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "放，放开；置之不理",
     "en": "to release; to let go; to free; to set free; to let loose; to turn loose",
-    "page": 61,
     "book": "n2"
   },
   {
@@ -27344,7 +25066,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "开火（枪、箭、问题等）；射击；击打（例如棒球）；放风；释放；释放",
     "en": "to fire (gun, arrow, questions, etc.); to shoot; to hit (e.g. baseball); to break wind; to set free; to release",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27356,7 +25077,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "混，杂；加入",
     "en": "to be mixed; to be blended with; to be combined; to associate with; to mingle with; to interest",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27368,7 +25088,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "离，离开；距离",
     "en": "to be separated; to be apart; to be distant; to leave; to go away; to leave (a job, etc.)",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27380,7 +25099,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "招；招待；招聘；招致",
     "en": "to invite; to ask; to beckon; to wave someone in; to gesture to; to call in",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27392,7 +25110,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "精简，省略；节省",
     "en": "to omit; to leave out; to exclude; to eliminate; to curtail; to save",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27404,7 +25121,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "模仿；模仿",
     "en": "to mimic; to imitate",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27416,7 +25132,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "超出；溢出",
     "en": "to stick out; to overflow",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27428,7 +25143,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "弄满；填充；满足",
     "en": "to satisfy (conditions, one's appetite, etc.); to meet (e.g. demands); to fulfill; to gratify; to fill (e.g. a cup); to pack",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27440,7 +25154,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "流行，时兴；时运佳",
     "en": "to be popular; to come into fashion; to be prevalent; to spread widely (e.g. disease); to be endemic; to flourish",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27452,7 +25165,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "乱；紊乱，错乱；散乱",
     "en": "to be disordered; to be disarranged; to be disarrayed; to be disheveled; to be dishevelled; to be discomposed",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27464,7 +25176,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "坚持；粘贴；贴上；伸展；传播；应变",
     "en": "to stick; to paste; to affix; to stretch; to spread; to strain",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27476,7 +25187,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "引导，指导；引路；导致",
     "en": "to guide; to lead; to show the way; to conduct; to derive; to deduce",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27488,7 +25198,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "引起（注意、同情等）；吸引（例如兴趣）",
     "en": "to draw (attention, sympathy, etc.); to attract (e.g. interest)",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27500,7 +25209,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "承认；断定；准许",
     "en": "to recognize; to recognise; to observe; to notice; to deem; to judge",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27512,7 +25220,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "弹奏；弹拨；驱赶",
     "en": "to play (a stringed or keyboard instrument)",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27524,7 +25231,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "查看，观察",
     "en": "to examine (medically); to have a look at; to check (a patient's pulse)",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27536,7 +25242,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "浸泡；浸入；陡峭；沉浸；润湿；弄湿",
     "en": "to soak; to dip; to steep; to immerse; to moisten; to wet",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27548,7 +25253,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "面对；走向；走向",
     "en": "to face; to go towards; to head towards",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27560,7 +25264,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "响，发出声响",
     "en": "to resound; to be heard far away; to reverberate; to shake; to vibrate; to come (home)",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27572,7 +25275,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "感到恼怒；感到被冒犯；感到生气；感到不舒服；感到恶心",
     "en": "to feel irritated; to feel offended; to feel angry; to feel sick; to feel nauseous",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27584,7 +25286,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "传播；延长；扩大；放大；扩大；扩大",
     "en": "to spread; to extend; to expand; to enlarge; to widen; to broaden",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27596,7 +25297,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "订购；指挥；任命",
     "en": "to order; to command; to appoint",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27608,7 +25308,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "传播；待传播",
     "en": "to spread; to be propagated",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27620,7 +25319,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "祝福；表示怜悯；给予（金钱等）",
     "en": "to bless; to show mercy to; to give (money, etc.)",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27632,7 +25330,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "加深",
     "en": "to deepen; to heighten; to intensify",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27644,7 +25341,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "翻页；揭开",
     "en": "to turn over; to flip a page",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27656,7 +25352,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "含；含有，带有",
     "en": "to contain; to comprise; to have; to hold; to include; to embrace",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27668,7 +25363,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "以一一为目标",
     "en": "to aim at (for, to do, to become); to try for; to have an eye on; to go toward; to head for",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27680,7 +25374,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "包括（在一组或范围内）；指示；使人明白；包括（细微差别）；放入（暗示）；放入（某人）嘴里",
     "en": "to include (in a group or scope); to instruct; to make one understand; to include (a nuance); to put in (an implication); to put in (someone's) mouth",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27692,7 +25385,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "显眼，引人注目",
     "en": "to be conspicuous; to stand out",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27704,7 +25396,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "鼓起，膨胀",
     "en": "to expand; to swell (out); to get big; to become inflated",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27716,7 +25407,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "面对，面向",
     "en": "to face on; to look out on to",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27728,7 +25418,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "增加；添加到；增强",
     "en": "to increase; to add to; to augment",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27740,7 +25429,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "潜入，钻入；躲入",
     "en": "to dive (into or under water); to get under; to get into; to get in; to creep into; to crawl under",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27752,7 +25440,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "接触；触及",
     "en": "to touch; to feel; to touch (with); to experience; to come in contact with; to perceive",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27764,7 +25451,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "用，使用；采用",
     "en": "to use; to make use of; to utilize; to utilise",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27776,7 +25462,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "夸耀；感到自豪；感到自豪",
     "en": "to boast of; to be proud of; to take pride in",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27788,7 +25473,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "基于（基于）；建立在（上）；接地（on）；符合（符合）；由于；来（来自）",
     "en": "to be based (on); to be founded (on); to be grounded (on); to be in accordance (with); to be due to; to come (from)",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27800,7 +25484,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "想要；渴望",
     "en": "to want; to desire",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27812,7 +25495,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "想要，希望；寻求；要求",
     "en": "to want; to wish for; to request; to demand; to require; to ask for",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27824,7 +25506,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "委托，托付；听任",
     "en": "to leave (a matter, decision, etc. to someone); to entrust (to someone); to entrust (someone) with; to leave (to chance, one's imagination, etc.); to let (take its own course); to let (happen)",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27836,7 +25517,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "举办，主办",
     "en": "to hold (an event); to give (a dinner, party, etc.); to feel (sensation, emotion, call of nature, etc.); to show signs of",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27848,7 +25528,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "驱散；洒；散布；分发（传单等）；给予；分发",
     "en": "to scatter; to sprinkle; to strew; to distribute (flyers, etc.); to give out; to hand out",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27860,7 +25539,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "养育；扶养；培养",
     "en": "to support; to maintain; to provide for; to bring up; to raise; to rear",
-    "page": 62,
     "book": "n2"
   },
   {
@@ -27872,7 +25550,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "雇，雇用",
     "en": "to employ; to hire; to take on; to charter (a car, boat, etc.)",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -27884,7 +25561,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "减弱；削弱；变得憔悴；沮丧；感到困惑",
     "en": "to abate; to weaken; to be emaciated; to be dejected; to be perplexed",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -27896,7 +25572,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "被撕裂；撕裂；撕裂；打破；磨损； (谈判等)中断",
     "en": "to get torn; to tear; to rip; to break; to wear out; to be broken off (of negotiations, etc.)",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -27908,7 +25583,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "缩写；删减；缩短；省略；遗漏；采取",
     "en": "to abbreviate; to abridge; to shorten; to omit; to leave out; to take",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -27920,7 +25594,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "转让；让步；出让",
     "en": "to hand over; to transfer; to turn over; to assign; to convey; to bequeath",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -27932,7 +25605,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "涌出；冒出",
     "en": "to well (up); to gush out (of water); to spring out; to surge; to appear (esp. suddenly) (sweat, tears, etc.); to sweat",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -27944,7 +25616,6 @@ window.N2_VOCAB = [
     "category": "動詞（一般）",
     "cn": "靠近；让某人靠近；靠近；聚集在一起；收集；聚集",
     "en": "to come near; to let someone approach; to bring near; to bring together; to collect; to gather",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -27956,7 +25627,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "适用，适合",
     "en": "to apply (of a rule); to be applicable (of standards, lessons, ideas, etc.); to hold true (e.g. of a description); to fit; to be suitable (e.g. of a word); to meet (requirements)",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -27968,7 +25638,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "将某物转移到；将某物移入；转移；移植；转置；交换",
     "en": "to shift something to; to move something into; to transfer; to transplant; to transpose; to exchange",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -27980,7 +25649,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "开始溢出；开始溢出；倒出",
     "en": "to begin to overflow; to start overflowing; to pour out",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -27992,7 +25660,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "摄入画面；映入",
     "en": "to capture in an image; to reflect",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28004,7 +25671,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "妥协；半途而废；加强到；走到；接近",
     "en": "to compromise; to meet halfway; to step up to; to walk up to; to approach",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28016,7 +25682,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "生出；产生出",
     "en": "to create; to bring forth; to produce; to invent; to think up and bring into being; to give birth to",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28028,7 +25693,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "通过清洗表面来显露出来；通过洗去污垢、泥土等来暴露；发现（通过调查）；揭露真相；找出答案；挖掘",
     "en": "to reveal by washing the surface; to expose by washing away dirt, earth, etc.; to discover (by investigation); to bring to light; to find out; to dig up",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28040,7 +25704,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "埋葬；嵌入；植入",
     "en": "to bury; to embed; to implant",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28052,7 +25715,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "声明；断言；明确地陈述；说完；说出一切；告诉所有",
     "en": "to declare; to assert; to state definitively; to finish saying; to say everything; to tell all",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28064,7 +25726,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "售出；卖出",
     "en": "to sell; to achieve sales",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28076,7 +25737,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "忘记说；忘记提及",
     "en": "to forget to say; to forget to mention",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28088,7 +25748,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "即将售完",
     "en": "to be sold out",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28100,7 +25759,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "到达（到达目的地）；达到；到了紧要关头；得出结论；达到顶峰（in）；结束",
     "en": "to arrive (at one's destination); to reach; to come to a head; to reach a conclusion; to culminate (in); to end up",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28112,7 +25770,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "投放市场；出售；发售；开始销售；上市；变得流行",
     "en": "to put on the market; to put out for sale; to put on sale; to begin selling; to market; to become popular",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28124,7 +25781,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "为了生存",
     "en": "to survive",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28136,7 +25792,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "选择；挑选出来",
     "en": "to select; to pick out",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28148,7 +25803,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "改变位置（与）；被（用，被）取代；被改变；改变（座位、轮班等；与某人）；切换；交换",
     "en": "to change places (with); to be replaced (with, by); to be changed; to change (seats, shifts, etc.; with someone); to switch; to exchange",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28160,7 +25814,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "开车走；转身走开；送走；击退；击退",
     "en": "to drive away; to turn away; to send away; to repel; to repulse",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28172,7 +25825,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "收；接纳；接受",
     "en": "to accept; to receive; to agree",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28184,7 +25836,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "通过（汽车）；超车；超越；超越；超出距离；超越",
     "en": "to pass (a car); to overtake; to surpass; to outstrip; to outdistance; to outsail",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28196,7 +25847,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "应答；回答",
     "en": "to answer; to respond",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28208,7 +25858,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "去追求",
     "en": "to pursue",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28220,7 +25869,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "接受；接收（申请）；拿起； （能够）服用（食物、药品等）；承受；容忍",
     "en": "to accept; to receive (an application); to take up; to (be able to) take (food, medicine, etc.); to bear; to tolerate",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28232,7 +25880,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "补充",
     "en": "to complement",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28244,7 +25891,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "交付；移交；转移",
     "en": "to deliver; to hand over; to transfer",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28256,7 +25902,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "落进，陷入；下陷",
     "en": "to feel down; to feel sad; to be depressed; to be in low spirits; to be in a slump (business, economy, etc.); to be in an unfavourable condition",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28268,7 +25913,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "发射",
     "en": "to launch; to shoot up; to hit (a ball) high; to dash; to wash up (ashore); to finish (e.g. a theater run, sumo tournament)",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28280,7 +25924,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "断念，想开",
     "en": "to give up (all thoughts of); to abandon; to despair of; to make up one's mind; to make a decision; to decide",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28292,7 +25935,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "否定；消除；抵消；盖过声音",
     "en": "to deny; to contradict; to negate (esp. a sound); to drown out",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28304,7 +25946,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "确信（确信）；有这样的印象；确信（那）；假设（认为）；下定决心；专心致志",
     "en": "to be convinced (that); to be under the impression (that); to feel sure (that); to assume (that); to make up one's mind; to set one's heart on",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28316,7 +25957,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "使蓬松（例如蒲团）；重新输入（例如一封信）",
     "en": "to fluff up (e.g. a futon); to retype (e.g. a letter)",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28328,7 +25968,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "忽然想做；下定决心",
     "en": "to set one's mind on doing; to get the idea of doing; to make up one's mind",
-    "page": 63,
     "book": "n2"
   },
   {
@@ -28340,7 +25979,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "翻起（下摆、袖子等）；向后折叠（例如页面）；回头；折返；返回；环回（信号、消息等）",
     "en": "to turn up (hem, sleeves, etc.); to fold back (e.g. page); to turn back; to double back; to return; to loopback (a signal, message, etc.)",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28352,7 +25990,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "互相帮助",
     "en": "to help each other; to cooperate",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28364,7 +26001,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "折叠起来；折叠成层；折叠（网页上的内容等）",
     "en": "to fold up; to fold into layers; to collapse (content on a webpage, etc.)",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28376,7 +26012,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "站起来；起床；站起来（站起来）；恢复；恢复精力；上升",
     "en": "to stand up; to get up; to rise (to one's feet); to recover; to regain one's energy; to rise",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28388,7 +26023,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "重写；覆盖；更新；转移",
     "en": "to rewrite; to overwrite; to renew; to transfer",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28400,7 +26034,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "停止（按某人的轨迹）；停下来；停止；暂停；站着不动",
     "en": "to stop (in one's tracks); to come to a stop; to halt; to pause; to stand still",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28412,7 +26045,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "添加（例如附言）",
     "en": "to add (e.g. a postscript)",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28424,7 +26056,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "垫付，代付",
     "en": "to pay for someone else (with the expectation of being reimbursed later); to lend someone the money to pay for (e.g. rent); to make a temporary payment on someone's behalf",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28436,7 +26067,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "写上，记入",
     "en": "to fill in (field, entry, etc.); to fill out (form); to post a message (e.g. on a bulletin-board); to store; to write (data); to flash",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28448,7 +26078,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "（最终）到达；到达（最后）；到（设法）到达；找到方法",
     "en": "to (finally) arrive at; to reach (at last); to (manage to) get to; to find one's way to",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28460,7 +26089,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "写错（例如字符）；书写错误",
     "en": "to write incorrectly (e.g. character); to make a mistake in writing",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28472,7 +26100,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "正确使用；将（不同的东西）用于不同的目的",
     "en": "to use properly; to use (different things) for different purposes",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28484,7 +26111,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "跑上（小山、楼梯等）；冲上去；冲上去",
     "en": "to run up (a hill, stairs etc.); to dash up; to rush up",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28496,7 +26122,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "制造；生产；种植（农作物）；发明；梦想；创造",
     "en": "to manufacture; to produce; to raise (crops); to invent; to dream up; to create",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28508,7 +26133,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "发表演讲；解决",
     "en": "to make a speech; to address",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28520,7 +26144,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "添加（一件事到另一件事）；添加（更多的话、解释等）",
     "en": "to add (one thing to another); to add (a few more words, an explanation, etc.)",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28532,7 +26155,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "思考出来；设计；发明；开始思考；制定一个计划",
     "en": "to think out; to devise; to invent; to begin to think; to come up with a plan",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28544,7 +26166,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "堆起来，垒积",
     "en": "to pile up; to stack up; to accumulate",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28556,7 +26177,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "重新考虑；重新思考；重新评估",
     "en": "to reconsider; to rethink; to reassess",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28568,7 +26188,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "临时抱佛脚；去东西；堵塞；挤压；打包；人群",
     "en": "to cram; to stuff; to jam; to squeeze; to pack; to crowd",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28580,7 +26199,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "关闭（在某个时刻）；缩短；提前停止；完成（在方便的地点）；将（数字）四舍五入；重估（货币）",
     "en": "to close (at a certain point); to cut short; to stop early; to finish (at a convenient spot); to round up (number); to revalue (currency)",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28592,7 +26210,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "做完，做好",
     "en": "to be completed; to be finished; to be ready (e.g. to serve or eat); to be very drunk; to get plastered",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28604,7 +26221,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "切断；切除；撕下；剪掉；减少；撕掉",
     "en": "to cut off; to excise; to tear off; to cut out; to whittle down; to tear out",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28616,7 +26232,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "问，询问，打听",
     "en": "to enquire; to inquire; to seek information",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28628,7 +26243,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "搭在一起；配合，编组",
     "en": "to put together; to combine; to join together; to join up; to match against (e.g. in a sport)",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28640,7 +26254,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "报告；通知",
     "en": "to report; to notify",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28652,7 +26265,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "向上移动（例如日期、排名、顺序）；成为先进的；携带（另外数量）",
     "en": "to move up (e.g. date, rank, order); to be advanced; to be carried (of a number in addition)",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28664,7 +26276,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "跳起来；跳起来；发芽；飞起来（飞向天空）；翱翔；起飞",
     "en": "to jump up; to leap up; to spring up; to fly up (into the sky); to soar up; to take off",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28676,7 +26287,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "向上移动；前进",
     "en": "to move up; to advance",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28688,7 +26298,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "跳下来；跳下来；跳下；跳下",
     "en": "to jump down; to leap down; to jump off; to leap off",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28700,7 +26309,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "追踪；定位；找出答案；抽烟；搜出；追赶",
     "en": "to track down; to locate; to find out; to smoke out; to ferret out; to chase up",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28712,7 +26320,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "跳起来；启动；跳起来；飞走；起飞",
     "en": "to jump up; to start up; to leap to one's feet; to fly away; to take off",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28724,7 +26331,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "寻找；寻找；寻找",
     "en": "to search for; to seek for; to look for",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28736,7 +26342,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "飞来飞去；驱散",
     "en": "to fly around; to scatter",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28748,7 +26353,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "坚持下去；伸出（例如，伸出手）；伸展；伸手去争取；刺击（标枪）；提供（例如援助、帮助等）",
     "en": "to hold out; to extend (e.g. one's hands); to stretch; to reach out for; to thrust (javelin); to offer (e.g. aid, help, etc.)",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28760,7 +26364,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "飞来飞去；跳来跳去；忙碌",
     "en": "to fly about; to jump about; to bustle about",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28772,7 +26375,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "扣除；带走；停靠；打折；为（某事）留出余地；牢记（某事）",
     "en": "to deduct; to take away; to dock; to discount; to make allowances (for something); to bear (something) in mind",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28784,7 +26386,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "重新理解；重新审视",
     "en": "to reinterpret; to reassess",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28796,7 +26397,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "浸入；陷入；渗入；渗透；陷入（某人的思想）中；根深蒂固",
     "en": "to soak into; to sink into; to seep into; to permeate; to sink into (one's mind); to be (deeply) ingrained",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28808,7 +26408,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "加入（手）；握住（彼此的手）；争夺；为之奋斗；为之奋斗；要注意",
     "en": "to join (hands); to take (each other's hands); to scramble for; to struggle for; to fight for; to pay attention to",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28820,7 +26419,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "隐含地相信；坚定地相信；完全相信",
     "en": "to believe implicitly; to believe firmly; to believe entirely",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28832,7 +26430,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "拿起；接受；提出",
     "en": "to pick up; to adopt (a proposal); to take up (a topic); to accept; to listen to; to take issue with",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28844,7 +26441,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "互相经过；擦肩而过；彼此想念（相遇）；未能见面；发生争执；发生冲突",
     "en": "to pass (by) each other; to brush past; to miss (meeting) each other; to fail to meet; to be at odds; to clash",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28856,7 +26452,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "处理；操作（机器等）；使用；处理（问题）；管理；治疗（某人）",
     "en": "to handle; to operate (a machine, etc.); to use; to deal with (an issue); to manage; to treat (someone)",
-    "page": 64,
     "book": "n2"
   },
   {
@@ -28868,7 +26463,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "引进，采用",
     "en": "to take in; to gather in; to adopt (e.g. an idea); to accept (e.g. advice); to introduce (e.g. technology); to borrow (e.g. a word)",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -28880,7 +26474,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "变得紧张；予以收紧；变得坚定（例如身体）",
     "en": "to become tense; to be tightened; to become firm (e.g. body)",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -28892,7 +26485,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "开始（做）；开始；着手；深入到",
     "en": "to begin (doing); to start; to set about; to get down to",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -28904,7 +26496,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "留，挽留；制止，拉住",
     "en": "to detain; to check; to restrain; to stop",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -28916,7 +26507,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "努力从事，专心致志地做",
     "en": "to grapple with; to wrestle with; to engage in a bout; to be matched against; to tackle (e.g. a problem); to come to grips with",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -28928,7 +26518,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "拆除；拆毁；拉下来",
     "en": "to demolish; to tear down; to pull down",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -28940,7 +26529,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "占有；接收；接受；收集；索赔；照顾（例如人、宠物）",
     "en": "to take into one's possession; to receive; to accept; to collect; to claim; to take into one's care (e.g. person, pet)",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -28952,7 +26540,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "安装；适合；修复；设立；提供；装备",
     "en": "to install; to fit; to fix; to set up; to furnish; to equip",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -28964,7 +26551,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "分开；分开；领先；领先；到超出距离",
     "en": "to pull apart; to separate; to have a lead over; to pull ahead of; to outdistance",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -28976,7 +26562,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "去除；卸载；带走；分开",
     "en": "to remove; to deinstall; to take away; to set apart",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -28988,7 +26573,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "回头看；回顾",
     "en": "to turn one's head; to look over one's shoulder; to turn around; to look back; to think back (on); to reminisce",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29000,7 +26584,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "寄来，要来；订购",
     "en": "to order; to send away for; to have (something) sent to one; to pull (something) closer",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29012,7 +26595,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "转过脸来；转身；回头看",
     "en": "to turn one's face; to turn around; to look over one's shoulder",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29024,7 +26606,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "流走；流逝",
     "en": "to flow away; to pass away",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29036,7 +26617,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "互相接触，互相挨着",
     "en": "to come into contact with; to touch (each other); to have a brush with",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29048,7 +26628,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "命名；打电话；洗礼；到期限",
     "en": "to name; to call; to christen; to term",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29060,7 +26639,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "忽视；指挥视图；瞧不起；鄙视",
     "en": "to overlook; to command a view of; to look down on; to despise",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29072,7 +26650,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "重新排列；重新排序；四处走动；排序；整理",
     "en": "to rearrange; to reorder; to move around; to sort; to collate",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29084,7 +26661,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "估计",
     "en": "to estimate",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29096,7 +26672,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "成立；谈妥；构成，划得来",
     "en": "to consist of; to be made up of; to be composed of; to be concluded (e.g. of an agreement); to hold true (e.g. of a theory); to be valid",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29108,7 +26683,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "重看；重新认识",
     "en": "to look at again; to re-examine (policy, estimate, plan, etc.); to review; to get a better opinion of; to see in a more positive light; to improve",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29120,7 +26694,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "去熟悉，去珍惜；去认识和爱",
     "en": "to become familiar with and cherish; to get to know and love",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29132,7 +26705,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "看漏；饶恕；放过",
     "en": "to miss; to overlook; to fail to notice; to let pass (a matter); to overlook (e.g. a wrongdoing); to turn a blind eye to",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29144,7 +26716,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "躺下；摔倒",
     "en": "to lie down; to throw oneself down",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29156,7 +26727,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "注视；照料",
     "en": "to watch over; to keep watch over; to keep an eye on; to watch intently; to stare; to gaze",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29168,7 +26738,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "错过（火车、公共汽车等）；跟不上（例如时代）；被抛在后面",
     "en": "to miss (a train, bus, etc.); to fail to keep up with (e.g. the times); to be left behind by",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29180,7 +26749,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "区分；认识；认识；区分；区分",
     "en": "to distinguish; to recognize; to recognise; to tell apart; to differentiate",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29192,7 +26760,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "换乘（火车）；换乘（公共汽车、火车）；改变（改变意识形态、政党、公司等）；切换（到不同的系统、方法等）；继续前进（例如新的爱情兴趣）",
     "en": "to transfer (trains); to change (bus, train); to change (to another ideology, party, company, etc.); to switch (to a different system, method, etc.); to move on to (e.g. a new love interest)",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29204,7 +26771,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "放眼望去",
     "en": "to look out over; to survey (scene); to take an extensive view of",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29216,7 +26782,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "跨过，越过；渡过",
     "en": "to climb over; to get over; to cross (a mountain); to overcome (a difficulty, obstacle, etc.); to surmount; to get through (an illness, crisis, etc.)",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29228,7 +26793,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "相对，面对面",
     "en": "to be opposite; to face each other; to confront (an issue); to face",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29240,7 +26804,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "转机（搭乘不同的航班、火车等）；建立联系；换乘（飞机、火车等）",
     "en": "to connect (with a different flight, train, etc.); to make a connection; to change (planes, trains, etc.)",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29252,7 +26815,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "捆绑（到）；紧固；附加；加入；绑定；连接（一件事与另一件事）",
     "en": "to tie (to); to fasten; to attach; to join; to bind; to connect (one thing with another)",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29264,7 +26826,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "携带或带入（到）",
     "en": "to carry or bring in(to)",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29276,7 +26837,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "拿进，带入；提出",
     "en": "to bring in; to take in; to carry in; to approach (someone) with (a proposal, offer, problem, etc.); to bring; to lodge (a complaint)",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29288,7 +26848,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "到处跑",
     "en": "to run around",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29300,7 +26859,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "携带；带到（到一个地方）",
     "en": "to carry; to bring (to a place)",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29312,7 +26870,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "偿还；偿还；退款；偿还",
     "en": "to repay; to pay back; to refund; to reimburse",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29324,7 +26881,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "聚集（带东西）；聚集（交换某物）",
     "en": "to gather (bringing something); to gather (to exchange something)",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29336,7 +26892,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "精神饱满；充满活力（活力）；要有热情；渴望；拉伸到断裂点",
     "en": "to be in high spirits; to be full of vigor (vigour); to be enthusiastic; to be eager; to stretch to breaking point",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29348,7 +26903,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "膨胀；上升；膨胀；堆积起来；唤醒；变得兴奋",
     "en": "to swell; to rise; to bulge; to be piled up; to rouse; to get excited",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29360,7 +26914,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "回头；回去；回来；返回；追溯自己的脚步",
     "en": "to turn back; to go back; to come back; to return; to retrace one's steps",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29372,7 +26925,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "有用，有益",
     "en": "to be useful; to be helpful; to serve the purpose",
-    "page": 65,
     "book": "n2"
   },
   {
@@ -29384,7 +26936,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "让（某事或某人）过去；做太多",
     "en": "to let (something or someone) go past; to do too much",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29396,7 +26947,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "重读；再读一遍",
     "en": "to reread; to read again",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29408,7 +26958,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "重新开始；重做；重新开始；重拍；恢复；重新开始",
     "en": "to do over again; to redo; to start over; to remake; to resume; to recommence",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29420,7 +26969,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "彻底阅读；反复阅读；将（额外的含义）读入（某物）；考虑（未来的变化）；加载（数据）；阅读",
     "en": "to read thoroughly; to read repeatedly; to read (extra meaning) into (something); to take (future changes) into consideration; to load (data); to read",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29432,7 +26980,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "打电话进来；邀请；引进",
     "en": "to call in; to invite; to bring in",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29444,7 +26991,6 @@ window.N2_VOCAB = [
     "category": "動詞（複合）",
     "cn": "切入（台词、谈话等）；强迫自己进入（例如人群）；将自己楔入；把自己挤进去；侵入；打断",
     "en": "to cut into (a line, conversation, etc.); to force oneself into (e.g. a crowd); to wedge oneself into; to squeeze oneself into; to intrude on; to interrupt",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29456,7 +27002,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "无礼的；不要脸；厚颜无耻；厚脸皮；放肆的",
     "en": "impudent; shameless; brazen; cheeky; presumptuous",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29468,7 +27013,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "可怕的；可怕的；怪异；可怕的",
     "en": "scary; frightening; eerie; dreadful",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29480,7 +27024,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "粗糙；荒野；暴力；粗鲁的；粗；严厉的",
     "en": "rough; wild; violent; rude; coarse; harsh",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29492,7 +27035,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "吵闹的",
     "en": "noisy; boisterous; turbulent (era, etc.); troubled",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29504,7 +27046,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "忙碌；忙碌；慌忙；匆忙；迅速的；快",
     "en": "busy; hectic; hurried; rushed; rapid; quick",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29516,7 +27057,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "涩的；苦的；涩；粗糙的；残酷的；酸",
     "en": "astringent; bitter; puckery; rough; harsh; tart",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29528,7 +27068,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "勇敢的；英勇；英勇；勇敢；搅拌；充满活力的",
     "en": "brave; valiant; gallant; courageous; stirring; vigorous",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29540,7 +27079,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "狡猾的；滑头的",
     "en": "cunning; sly; unfair",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29552,7 +27090,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "显著，明显；非常",
     "en": "striking; remarkable; considerable",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29564,7 +27101,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "吵闹；大声；喧闹的；吵闹的；沙哑；动荡的",
     "en": "noisy; loud; boisterous; clamorous; raucous; turbulent",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29576,7 +27112,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "脾气暴躁；容易生气；很快就会生气；暴躁；敏感的",
     "en": "hot-tempered; quick to take offense; quick to take offence; irascible; touchy",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29588,7 +27123,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "粗心；没有思想的；仓促；皮疹",
     "en": "careless; thoughtless; hasty; rash",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29600,7 +27134,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "幼小；幼稚",
     "en": "very young; little; childish; immature",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29612,7 +27145,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "健壮的；坚强的",
     "en": "robust; strong; sturdy",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29624,7 +27156,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "可怕的；可怕；可怕的；可怕的；奇怪；令人震惊的",
     "en": "terrible; dreadful; terrifying; frightening; surprising; startling",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29636,7 +27167,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "可靠；可靠；值得信赖；令人放心；满怀希望；有前途的",
     "en": "reliable; dependable; trustworthy; reassuring; hopeful; promising",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29648,7 +27178,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "出乎意料的；与预期相反；偶然；休闲的",
     "en": "unexpected; contrary to expectations; by chance; casual",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29660,7 +27189,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "难以忍受的；不得了的",
     "en": "unbearable; irresistible",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29672,7 +27200,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "不可或缺的；必不可少的；基本的；至关重要的；至关重要的；批评的",
     "en": "indispensable; vital; fundamental; imperative; crucial; critical",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29684,7 +27211,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "强大；强的；有力；蓬勃；令人放心；鼓励",
     "en": "powerful; strong; forceful; vigorous; reassuring; encouraging",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29696,7 +27222,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "无数；无法计算的",
     "en": "countless; incalculable",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29708,7 +27233,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "很小的；小巧的",
     "en": "tiny; very small",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29720,7 +27244,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "辣；热的；咸；严厉（批评）；严厉（惩罚）；严格的",
     "en": "spicy; hot; salty; harsh (criticism); severe (punishment); strict",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29732,7 +27255,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "钝；迟钝，迟缓",
     "en": "dull (e.g. a knife); blunt; thickheaded; obtuse; stupid; dull (sound, color, etc.)",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29744,7 +27266,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "饶有兴趣",
     "en": "very interesting; of great interest",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29756,7 +27277,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "符合心愿，值得高兴",
     "en": "desirable; hoped for; preferable; advisable",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29768,7 +27288,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "无聊的；没价值的",
     "en": "trivial; worthless; boring",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29780,7 +27299,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "激烈，强烈，热烈；很甚",
     "en": "violent; furious; tempestuous; extreme; intense; fierce",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29792,7 +27310,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "啰嗦的；味道过重的",
     "en": "wordy; persistent; overly rich",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29804,7 +27321,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "相等",
     "en": "equal; identical; the same; no different (from); just like; equivalent",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29816,7 +27332,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "令人愉快的；令人愉快的；舒服的；清爽",
     "en": "pleasant; agreeable; comfortable; refreshing",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29828,7 +27343,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "适合，相称",
     "en": "appropriate; adequate; suitable; fitting; worthy",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29840,7 +27354,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "可喜，令人满意",
     "en": "nice; likeable; desirable",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29852,7 +27365,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "潮湿；闷热的",
     "en": "humid; sultry",
-    "page": 66,
     "book": "n2"
   },
   {
@@ -29864,7 +27376,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "不能令人十分满意",
     "en": "unsatisfied; unsatisfactory; insufficient in some way; lacking something",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -29876,7 +27387,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "弱；微弱地；微弱；脆弱；精美的；微弱的（声音、阳光等）",
     "en": "weak; weakly; feeble; frail; delicate; faint (voice, sunlight, etc.)",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -29888,7 +27398,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "无能为力；不可避免的",
     "en": "cannot be helped; unavoidable",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -29900,7 +27409,6 @@ window.N2_VOCAB = [
     "category": "い形容詞",
     "cn": "年轻，朝气蓬勃",
     "en": "youthful; young; young-looking",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -29912,7 +27420,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "模糊；模糊的；不清楚；阴凉；声誉不佳的；模糊的",
     "en": "vague; ambiguous; unclear; shady; disreputable; fuzzy",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -29924,7 +27431,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "令人愉快的；令人愉快的；舒适",
     "en": "pleasant; agreeable; comfortable",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -29936,7 +27442,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "生动；明亮的；杰出的；清除；新鲜的；充满活力的",
     "en": "vivid; bright; brilliant; clear; fresh; vibrant",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -29948,7 +27453,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "开放（态度等）；心胸开阔；坦率；自由主义；开放（空间）；宽敞",
     "en": "open (attitude, etc.); openhearted; frank; liberal; open (space); spacious",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -29960,7 +27464,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "压倒性的",
     "en": "overwhelming",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -29972,7 +27475,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "特别的；特别的；特殊的；特别的；特别；尤其是",
     "en": "particular; special; exceptional; especial; particularly; especially",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -29984,7 +27486,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "新的；新鲜的；小说",
     "en": "new; fresh; novel",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -29996,7 +27497,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "极端（措施、想法等）；激进的；暴力（语言）；费力（运动、工作等）；过多的；要求严格",
     "en": "extreme (measure, idea, etc.); radical; violent (language); strenuous (exercise, work, etc.); excessive; demanding",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30008,7 +27508,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "常见的；常有的",
     "en": "common; typical",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30020,7 +27519,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "过量；剩余；过多；过剩",
     "en": "excess; surplus; superabundance; overabundance",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30032,7 +27530,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "可怜的；凄惨的",
     "en": "pitiful; miserable",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30044,7 +27541,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "微弱的；隐约的",
     "en": "faint; slight",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30056,7 +27552,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "简单的；简单的；随和；轻快；简单化；不负责任的",
     "en": "easy; simple; easygoing; lighthearted; simplistic; irresponsible",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30068,7 +27563,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "自己的方便；一个人的方式；自私；周围环境；环境；做事方式",
     "en": "one's own convenience; one's way; selfishness; surroundings; environment; way of doing things",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30080,7 +27574,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "低价；便宜的；便宜；肤浅（例如同情）；浅；便宜（例如政府）",
     "en": "low-priced; cheap; inexpensive; shallow (e.g. sympathy); superficial; cheap (e.g. government)",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30092,7 +27585,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "活泼；积极的；蓬勃；动画；轻快的",
     "en": "lively; active; vigorous; animated; brisk",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30104,7 +27596,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "片面的；单方面；任意的",
     "en": "one-sided; unilateral; arbitrary",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30116,7 +27607,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "过度；不节制的",
     "en": "excessive; immoderate",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30128,7 +27618,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "故意的；故意的",
     "en": "intentional; on purpose",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30140,7 +27629,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "简洁；简短的；简洁；紧凑（风格）",
     "en": "concise; brief; succinct; compact (style)",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30152,7 +27640,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "和谐；和平；快乐的；和蔼可亲；光滑的；免于麻烦",
     "en": "harmonious; peaceful; happy; amicable; smooth; free from trouble",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30164,7 +27651,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "完美；完全的；完美无瑕",
     "en": "perfect; complete; flawless",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30176,7 +27662,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "夸张；过度；夸大了；双曲线；夸夸其谈；宏伟的",
     "en": "exaggerated; overdone; overblown; hyperbolic; bombastic; grandiose",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30188,7 +27673,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "固体；公司；肥硕；魁梧；强的；结实的",
     "en": "solid; firm; stout; burly; strong; sturdy",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30200,7 +27684,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "大的；大的；激烈的；重大的；全幅布料（和服宽约 72 厘米；西服宽约 140 厘米）",
     "en": "big; large; drastic; substantial; full-width cloth (approx. 72 cm wide for traditional Japanese clothing; approx. 140 cm wide for Western clothing)",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30212,7 +27695,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "不寻常的；非常规；偏心；小说；原来的；引人注目的",
     "en": "unusual; unconventional; eccentric; novel; original; striking",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30224,7 +27706,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "粗略（估计、轮廓等）；广阔；一般的；松动的；慷慨的；开放的",
     "en": "rough (estimate, outline, etc.); broad; general; loose; generous; openhanded",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30236,7 +27717,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "快；迅速的；警报；聪明的；聪明的；精明的",
     "en": "quick; prompt; alert; smart; clever; astute",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30248,7 +27728,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "胆怯的；胆小；容易受到惊吓",
     "en": "cowardly; timid; easily frightened",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30260,7 +27739,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "目标",
     "en": "objective",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30272,7 +27750,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "冷静；安静的；温和的；和平；温和的；中等",
     "en": "calm; quiet; gentle; peaceful; mild; moderate",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30284,7 +27761,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "突然；突然；迅速的；锋利的；激烈的；激进的",
     "en": "sudden; abrupt; rapid; sharp; drastic; radical",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30296,7 +27772,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "物有所值；经济；有利的（价格、交易等）；有用；有帮助的",
     "en": "good-value; economical; advantageous (price, deal, etc.); useful; helpful",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30308,7 +27783,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "快速（例如进展）",
     "en": "rapid (e.g. progress)",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30320,7 +27794,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "温暖；温和的；温带",
     "en": "warm; mild; temperate",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30332,7 +27805,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "强大；强",
     "en": "powerful; strong",
-    "page": 67,
     "book": "n2"
   },
   {
@@ -30344,7 +27816,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "巨大的；巨大；巨大的",
     "en": "huge; gigantic; enormous",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30356,7 +27827,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "时事性的；与时事有关的",
     "en": "topical; relating to current affairs",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30368,7 +27838,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "畅快；舒服的；轻松自在；随和；无忧无虑",
     "en": "carefree; comfortable; at ease; easygoing; happy-go-lucky",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30380,7 +27849,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "灵活；轻盈；柔软的；柔韧；健美操",
     "en": "flexible; lithe; soft; pliable; calisthenics",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30392,7 +27860,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "谦虚；谦虚的",
     "en": "modest; humble",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30404,7 +27871,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "充分的；足够的",
     "en": "sufficient; enough",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30416,7 +27882,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "有利的；有利；有前途；令人满意的；状态良好",
     "en": "favourable; favorable; promising; satisfactory; in good shape",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30428,7 +27893,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "垂直；垂直",
     "en": "vertical; perpendicular",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30440,7 +27904,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "肯定的",
     "en": "affirmative",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30452,7 +27915,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "听话；温顺；温顺；不受影响；诚实的；弗兰克",
     "en": "obedient; meek; docile; unaffected; honest; frank",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30464,7 +27926,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "幸福；福利；喜悦；福利；幸福",
     "en": "happiness; well-being; joy; welfare; blessedness",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30476,7 +27937,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "准确；正确的；精确的；准确的",
     "en": "accurate; correct; precise; exact",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30488,7 +27948,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "个人；独特的；独特的；特征；个人的；特殊的",
     "en": "individual; distinctive; unique; characteristic; personal; idiosyncratic",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30500,7 +27959,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "正式的；官方的；常规的；恰当的；合法的；由于（手续）",
     "en": "formal; official; regular; proper; legal; due (formalities)",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30512,7 +27970,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "温柔；温暖的；关怀；周到；细致；详细的",
     "en": "tender; warm; caring; thoughtful; meticulous; detailed",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30524,7 +27981,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "精神上的；精神；情绪化的",
     "en": "mental; spiritual; emotional",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30536,7 +27992,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "困难；困难；麻烦；苦恼；不可行；无能力（执行）",
     "en": "difficulty; hardship; trouble; distress; infeasibility; inability (to carry out)",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30548,7 +28003,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "面临许多困难；前景黯淡",
     "en": "having many difficulties in store; grim prospects",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30560,7 +28014,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "专横；强制的；咄咄逼人；强制；霸道的",
     "en": "overbearing; coercive; pushy; forcible; high-handed",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30572,7 +28025,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "总计；完全的；全力以赴；一般的；广泛的；全面的",
     "en": "total; complete; all-out; general; extensive; full-scale",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30584,7 +28036,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "奢侈的；奢华；丰富的；豪华；壮丽；辉煌的",
     "en": "extravagant; lavish; opulent; luxurious; magnificent; splendid",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30596,7 +28047,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "亲戚",
     "en": "relative",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30608,7 +28058,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "最糟糕的；可怕；可怕的；可怕；糟糕的；在最坏的情况下",
     "en": "worst; horrible; horrid; awful; terrible; in the worst case",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30620,7 +28069,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "坦率；坦率；直截了当；心胸开阔；直接的；直言不讳",
     "en": "frank; candid; straightforward; openhearted; direct; outspoken",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30632,7 +28080,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "最适合；最佳；最佳的；最好的",
     "en": "most suitable; optimum; optimal; best",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30644,7 +28091,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "平坦；等级；甚至；光滑的；冷静的；宁静",
     "en": "flat; level; even; smooth; calm; tranquil",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30656,7 +28102,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "微薄的；小小的；朴素的",
     "en": "small; modest; humble",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30668,7 +28113,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "色彩缤纷；丰富多彩的；多彩多姿的；五彩缤纷；杂色的；杂色的",
     "en": "colourful; colorful; multicoloured; multicolored; varicoloured; varicolored",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30680,7 +28124,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "新鲜；清爽；振奋精神；令人愉快的；愉快；清晰（声音）",
     "en": "fresh; refreshing; invigorating; pleasant; delightful; clear (voice)",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30692,7 +28135,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "种类繁多；多样性",
     "en": "a great variety of; diversity",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30704,7 +28146,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "定性的",
     "en": "qualitative",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30716,7 +28157,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "多样化；各种各样的",
     "en": "diverse; various",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30728,7 +28168,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "密集的；集中；专注的",
     "en": "intensive; concentrated; focused",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30740,7 +28179,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "数量大；大量",
     "en": "large quantity; large amount",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30752,7 +28190,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "独立的；负责任的；积极的；积极主动的；主观的",
     "en": "independent; responsible; active; proactive; subjective",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30764,7 +28201,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "短期",
     "en": "short-term",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30776,7 +28212,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "消极的；被动的；三心二意；没有动力",
     "en": "negative; passive; half-hearted; unmotivated",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30788,7 +28223,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "有效；恰当的；正确的；合适的；合理的",
     "en": "valid; proper; right; appropriate; reasonable",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30800,7 +28234,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "象征性的；象征性的",
     "en": "symbolic; symbolical",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30812,7 +28245,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "增量；一步一步；渐进的；逐步的",
     "en": "incremental; step-by-step; gradual; stepwise",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30824,7 +28256,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "严重；严重；严重；急性的",
     "en": "serious; severe; grave; acute",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30836,7 +28267,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "稳定；声音；坚硬的；可靠的；值得信赖的",
     "en": "steady; sound; solid; reliable; trustworthy",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30848,7 +28278,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "利己主义；以自我为中心；自私的",
     "en": "egoistic; self-centered; selfish",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30860,7 +28289,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "摘要",
     "en": "abstract",
-    "page": 68,
     "book": "n2"
   },
   {
@@ -30872,7 +28300,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "容易；简单的；非正式的；随手；便宜",
     "en": "easy; simple; informal; offhand; cheap",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -30884,7 +28311,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "微妙的；精美的；美好的；难的；复杂的；棘手的",
     "en": "subtle; delicate; fine; difficult; complex; tricky",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -30896,7 +28322,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "准确；精确的；精确的；合适的；易于；对",
     "en": "accurate; precise; exact; appropriate; apt; right",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -30908,7 +28333,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "敏感；警报；意识到的；易受影响的",
     "en": "sensitive; alert; aware; susceptible",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -30920,7 +28344,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "适当的；恰当的；合适的",
     "en": "appropriate; suitable; fitting; apt; proper; right",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -30932,7 +28355,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "状况不佳；状况不佳；紊乱；暴跌；不合时宜；失败",
     "en": "bad condition; poor condition; disorder; slump; being out of form; failure",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -30944,7 +28366,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "适合；恰当的；合适的；足够的；合身；公平",
     "en": "suitable; proper; appropriate; adequate; fit; fair",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -30956,7 +28377,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "不满意；不满；不高兴；抱怨；不快乐",
     "en": "dissatisfaction; discontent; displeasure; complaint; unhappiness",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -30968,7 +28388,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "方便；方便的；合适的；合理的；中等",
     "en": "handy; convenient; suitable; reasonable; moderate",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -30980,7 +28399,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "危险的；未解决；困扰；不安；不安全感",
     "en": "dangerous; unsettled; troubled; disturbed; insecure",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -30992,7 +28410,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "荒唐的；胡乱的；不靠谱的",
     "en": "nonsensical; random; unreliable",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31004,7 +28421,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "普通；常见的；平凡；平庸；不起眼；平庸的",
     "en": "ordinary; common; commonplace; mediocre; unremarkable; undistinguished",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31016,7 +28432,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "传统的；习惯；常规的",
     "en": "traditional; customary; conventional",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31028,7 +28443,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "合法的",
     "en": "legal",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31040,7 +28454,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "透明；清晰",
     "en": "transparent; clear",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31052,7 +28465,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "丰富；丰富；富有的；充足",
     "en": "abundant; plentiful; rich; ample",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31064,7 +28476,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "特别的；特别的；奇特；独特的",
     "en": "special; particular; peculiar; unique",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31076,7 +28487,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "正品；真实的；真正的；标准；正统；全面的",
     "en": "genuine; real; authentic; standard; orthodox; full-scale",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31088,7 +28498,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "相同；相同的；一且相同；平等的；公平的；平等待遇",
     "en": "identical; same; one and the same; equal; fair; equal treatment",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31100,7 +28509,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "巨大的；广阔的；巨大的；庞大；广泛的；大",
     "en": "huge; vast; enormous; colossal; extensive; large",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31112,7 +28520,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "平等；平等的；相同的权利；同等军衔；等价性",
     "en": "equality; equal; same rights; same rank; equivalence",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31124,7 +28531,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "近；附近）；附近；接近；快到了；就在拐角处",
     "en": "near; close (to); nearby; approaching; almost here; just around the corner",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31136,7 +28542,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "同样的；相同的；类似的",
     "en": "same; similar; like; equal",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31148,7 +28553,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "鲜红色；深红色； （脸）潮红；彻头彻尾的（例如谎言）；完全的；说出",
     "en": "bright red; deep red; flushed (of face); downright (e.g. lie); complete; utter",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31160,7 +28564,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "特殊性；独特性；特征；只有自己明白",
     "en": "peculiarity; uniqueness; characteristic; understood only by oneself",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31172,7 +28575,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "纯白色；空白（例如头脑、纸）",
     "en": "pure white; blank (e.g. mind, paper)",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31184,7 +28586,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "头脑迟钝；不敏感；乏味的；脸皮厚",
     "en": "thickheaded; insensitive; dull; thick-skinned",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31196,7 +28597,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "出色的；精彩的；漂亮的",
     "en": "splendid; magnificent; excellent; fine; superb; beautiful",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31208,7 +28608,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "温和的；冷静的；温和的；安静的；相投；友善的",
     "en": "mild; calm; gentle; quiet; congenial; amicable",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31220,7 +28619,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "奇怪的；诡异的；奇怪的；好奇的；想知道；神秘",
     "en": "strange; weird; odd; curious; wonder; mystery",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31232,7 +28630,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "缓坡；温和的；渐进的；简单的；顺利（过程）；温柔（例如语气）",
     "en": "gently sloping; gentle; gradual; easy; smooth (process); gentle (e.g. tone of voice)",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31244,7 +28641,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "迷人的；迷人；有吸引力的",
     "en": "charming; fascinating; attractive",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31256,7 +28652,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "（表面）光滑；玻璃状；天鹅绒般的；柔软的；顺利（行动、程序等）；流利（言语）",
     "en": "smooth (of a surface); glassy; velvety; soft; smooth (of an action, proceedings, etc.); fluent (speech)",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31268,7 +28663,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "民主的",
     "en": "democratic",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31280,7 +28674,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "丰富（味道、颜色等）；强烈（例如气味）；重的；浓（汤、妆等）；稠密；可能的",
     "en": "rich (flavor, color, etc.); strong (e.g. odor); heavy; thick (soup, makeup, etc.); dense; probable",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31292,7 +28685,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "不相关的；未连接；不相关的；冷漠；离婚；与某人无关",
     "en": "unrelated; unconnected; irrelevant; indifferent; divorced from; having nothing to do with one",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31304,7 +28696,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "胆怯的；懦夫；不公平；意思是；鬼鬼祟祟的；肮脏的",
     "en": "cowardly; craven; unfair; mean; sneaky; dirty",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31316,7 +28707,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "沉默寡言；沉默寡言；安静的；沉默的；不爱说话的",
     "en": "taciturn; reticent; quiet; silent; untalkative",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31328,7 +28718,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "疯狂的；狂热的；绝望的；不可避免的死亡；边缘交锋（不可避免的将死）",
     "en": "frantic; frenetic; desperate; inevitable death; brinkmate (inevitable checkmate)",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31340,7 +28729,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "专注于；沉浸在；为之疯狂；着迷于；致力于；忘记自己",
     "en": "absorbed in; immersed in; crazy about; obsessed with; devoted to; forgetting oneself",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31352,7 +28740,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "消极的；矛盾的",
     "en": "negative; contradictory",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31364,7 +28751,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "无能为力；无助；无能；无效",
     "en": "powerlessness; helplessness; incompetence; ineffectiveness",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31376,7 +28762,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "非凡的；罕见；卓越；异常；稀有的；惊人的",
     "en": "extraordinary; uncommon; remarkable; unusual; rare; prodigious",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31388,7 +28773,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "清晰；精确的；定；独特的",
     "en": "clear; precise; definite; distinct",
-    "page": 69,
     "book": "n2"
   },
   {
@@ -31400,7 +28784,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "柔软；投标；顺从的；柔软；柔和（颜色、光线等）；压抑的",
     "en": "soft; tender; pliant; supple; soft (colour, light, etc.); subdued",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31412,7 +28795,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "容易；简单的；普通的",
     "en": "easy; simple; plain",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31424,7 +28806,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "重要的；有用；有意义的；值得；有价值的；感兴趣的",
     "en": "significant; useful; meaningful; worthwhile; valuable; of interest",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31436,7 +28817,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "开朗；快活的；快乐；热闹；天气；季节",
     "en": "cheerful; jovial; merry; lively; weather; season",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31448,7 +28828,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "有效的；有效的；优子（柔道）",
     "en": "valid; effective; yuko (judo)",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31460,7 +28839,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "贪婪；贪婪；贪婪；贪婪的人",
     "en": "greed; avarice; covetousness; greedy person",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31472,7 +28850,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "上级；出色的；杰出的；杰出的",
     "en": "superior; excellent; brilliant; outstanding",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31484,7 +28861,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "额外的；更多的；太多了；太多；过多的；多余",
     "en": "extra; more; too much; too many; excessive; superfluous",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31496,7 +28872,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "有利；有利；更好的；更强；有利可图；有利可图的",
     "en": "advantageous; favourable; better; stronger; profitable; lucrative",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31508,7 +28883,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "胆怯；膝盖无力；胆怯的；看跌的",
     "en": "timid; weak-kneed; fainthearted; bearish",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31520,7 +28894,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "有影响力的；著名的；领导；强的；强大的；可能",
     "en": "influential; prominent; leading; strong; powerful; likely",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31532,7 +28905,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "聪明；聪明的；明亮的；聪明的；明智的；明智的",
     "en": "clever; intelligent; bright; smart; wise; sensible",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31544,7 +28916,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "令人愉快的；愉快；令人愉快的；快乐；快乐；有趣的",
     "en": "pleasant; delightful; enjoyable; joyful; cheerful; amusing",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31556,7 +28927,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "逻辑的",
     "en": "logical",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31568,7 +28938,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "丰富；丰富；富有的；充足；富裕；富裕的",
     "en": "abundant; plentiful; rich; ample; wealthy; affluent",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31580,7 +28949,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "任性的；自私的",
     "en": "selfish; willful",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31592,7 +28960,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "松动；松弛；平缓（坡度、曲线）；慢（速度）；宽容；自由主义",
     "en": "loose; slack; gentle (slope, curve); slow (speed); lenient; liberal",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31604,7 +28971,6 @@ window.N2_VOCAB = [
     "category": "な形容詞",
     "cn": "极少的；微小的",
     "en": "slight; small; a little",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31616,7 +28982,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "不凑巧；遗憾地",
     "en": "unfortunately; unluckily",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31628,7 +28993,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "甚至更多；还有更多；更是如此；比以往任何时候都多；一层； （建筑物的）最低层",
     "en": "even more; still more; all the more; more than ever; one layer; lowest floor (of a building)",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31640,7 +29004,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "敢于；特意",
     "en": "daringly; deliberately",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31652,7 +29015,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "到底，究竟；一体",
     "en": "the heck; in the world; on earth; the hell; one object; one body",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31664,7 +29026,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "明显地；显然",
     "en": "clearly; obviously",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31676,7 +29037,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "不知不觉间；不知何时",
     "en": "before one knows it; unnoticed",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31688,7 +29048,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "预先；事先",
     "en": "beforehand; in advance; ahead of time; previously",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31700,7 +29059,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "永远；一直到什么时候",
     "en": "forever; endlessly",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31712,7 +29070,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "出乎意料地；出奇；意外；意外；意外；奇怪",
     "en": "unexpectedly; surprisingly; unexpected; unanticipated; unforeseen; surprising",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31724,7 +29081,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "稍欠；不太理想",
     "en": "not quite; mediocre",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31736,7 +29092,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "突然；冷不防",
     "en": "suddenly; without warning",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31748,7 +29103,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "再来一个；另一个（一个）；相当；完全；足够的；有点（缺乏）",
     "en": "one more; another (one); quite; entirely; enough; somewhat (lacking)",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31760,7 +29114,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "哪个；反正；改日",
     "en": "eventually; either; some day",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31772,7 +29125,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "终于；越发；关键时刻到了",
     "en": "finally; at last; more and more",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31784,7 +29136,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "逐一；每次都",
     "en": "one by one; every single time",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31796,7 +29147,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "可以说；譬如说",
     "en": "so to speak",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31808,7 +29158,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "更加；格外",
     "en": "even more; all the more",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31820,7 +29169,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "永久地；永远",
     "en": "forever; permanently",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31832,7 +29180,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "一口气",
     "en": "in one go; in one gulp; in one breath; without stopping; without pausing; without a rest",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31844,7 +29191,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "恐怕，或许",
     "en": "probably; likely",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31856,7 +29202,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "同时；一下子；一致地",
     "en": "simultaneously; all at once; in unison",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31868,7 +29213,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "反倒",
     "en": "on the contrary; rather",
-    "page": 70,
     "book": "n2"
   },
   {
@@ -31880,7 +29224,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "曾经；过去",
     "en": "formerly; once",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -31892,7 +29235,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "很快；不久之后；不久；在不久的将来；关闭（通过）；附近",
     "en": "soon; before long; shortly; in the near future; close (by); near",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -31904,7 +29246,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "暂时；姑且；假定",
     "en": "supposing; even if; granting that; for argument's sake; temporarily; provisionally",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -31916,7 +29257,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "顺便说一下",
     "en": "by the way; incidentally",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -31928,7 +29268,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "第二次；再次；再次；两次",
     "en": "a second time; again; once more; twice",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -31940,7 +29279,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "稳步地",
     "en": "steadily",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -31952,7 +29290,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "不愧是；果然",
     "en": "as expected; indeed",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -31964,7 +29301,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "经常",
     "en": "always; constantly; at all times; habitually",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -31976,7 +29312,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "更加；并且",
     "en": "further; moreover",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -31988,7 +29323,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "目前；暂且；一段时间（从现在开始）；有一段时间（未来）",
     "en": "for the present; for the time being; for a while (from now); for some time (to come)",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32000,7 +29334,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "紧急；紧迫；即时；迅速的；表达；紧急地",
     "en": "urgent; pressing; immediate; prompt; express; urgently",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32012,7 +29345,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "早就",
     "en": "long ago; already",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32024,7 +29356,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "自然地；自然而然地",
     "en": "naturally",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32036,7 +29367,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "无论如何；姑且",
     "en": "anyway; in any case",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32048,7 +29378,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "屡次",
     "en": "repeatedly",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32060,7 +29389,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "暂且不论；总之",
     "en": "leaving aside; anyway",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32072,7 +29400,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "直接；亲自；第一手资料",
     "en": "directly; in person; firsthand",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32084,7 +29411,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "暂且；先",
     "en": "for now; first of all",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32096,7 +29422,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "事先；提前",
     "en": "in advance",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32108,7 +29433,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "想办法；总算；勉强",
     "en": "somehow; one way or another",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32120,7 +29444,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "真的；确实；的确；非常；极其；可怕地",
     "en": "really; truly; indeed; very; extremely; terribly",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32132,7 +29455,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "闲暇时；以轻松的方式；无忧无虑地；悄悄；和平地；放松",
     "en": "at leisure; in a relaxed manner; in a carefree manner; quietly; peacefully; to relax",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32144,7 +29466,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "至少",
     "en": "at least; at most; just",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32156,7 +29477,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "早点；提前",
     "en": "a little early; earlier than usual; ahead of time; in good time; rather quickly; a little faster than usual",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32168,7 +29488,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "清晰地；鲜明地",
     "en": "vividly; clearly",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32180,7 +29499,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "远远地；明显地",
     "en": "by far; much more",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32192,7 +29510,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "立即地；马上；当场",
     "en": "immediately; right away; on the spot",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32204,7 +29521,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "比较地；相对地",
     "en": "comparatively; relatively",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32216,7 +29532,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "合理地；在某种程度上；以自己的方式；追随其时尚",
     "en": "reasonably; to some extent; in its own way; after its fashion",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32228,7 +29543,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "广泛的；宽敞",
     "en": "extensive; spacious",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32240,7 +29554,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "心满意足；喜欢多少就多少；自由地；毫无保留地；完全",
     "en": "to one's heart's content; as much as one likes; freely; unreservedly; fully",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32252,7 +29565,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "再，又",
     "en": "again; once more; a second time",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32264,7 +29576,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "立刻；立即地；马上；毫不拖延；直接（面对、导致等）；自动（平均值、结果等）",
     "en": "at once; immediately; right away; without delay; directly (face, lead to, etc.); automatically (mean, result in, etc.)",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32276,7 +29587,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "忽然；无意间",
     "en": "suddenly; by chance",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32288,7 +29598,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "充足地；充分；丰富地；大量地；慷慨地；完全",
     "en": "plentifully; amply; abundantly; copiously; generously; fully",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32300,7 +29609,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "本来",
     "en": "originally; primarily; essentially; intrinsically; naturally; by nature",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32312,7 +29620,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "屡次",
     "en": "often; repeatedly",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32324,7 +29631,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "模糊不清；发呆",
     "en": "vaguely; absentmindedly",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32336,7 +29642,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "偶然；偶尔",
     "en": "testicles; balls",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32348,7 +29653,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "真的；确实；非常；极其；非常；真诚地",
     "en": "really; truly; very; extremely; exceedingly; sincerely",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32360,7 +29664,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "仅，只",
     "en": "simply; merely; only; solely",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32372,7 +29675,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "怎能；万一",
     "en": "no way; surely not",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32384,7 +29686,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "相当大；大大；很多",
     "en": "considerably; greatly; a lot",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32396,7 +29697,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "越发，更加",
     "en": "increasingly; more and more",
-    "page": 71,
     "book": "n2"
   },
   {
@@ -32408,7 +29708,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "不久；马上",
     "en": "soon; before long",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32420,7 +29719,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "相当；非常；除非",
     "en": "very; considerably; unless",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32432,7 +29730,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "偶尔；很少",
     "en": "rarely",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32444,7 +29741,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "故意地",
     "en": "deliberately; on purpose",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32456,7 +29752,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "亲自",
     "en": "oneself; for oneself; personally; in person",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32468,7 +29763,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "特意；专程",
     "en": "specially; all the way",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32480,7 +29774,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "不久；终于",
     "en": "eventually; before long",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32492,7 +29785,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "比较；相对地；相当；相当；漂亮的；出乎意料地",
     "en": "comparatively; relatively; fairly; rather; pretty; unexpectedly",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32504,7 +29796,6 @@ window.N2_VOCAB = [
     "category": "副詞（一般）",
     "cn": "总而言之",
     "en": "in short; in a word; to sum up; to put it simply; to make a long story short; after all",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32516,7 +29807,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "清淡；爽快；轻易",
     "en": "easily; readily; quickly; flatly (refuse); lightly (seasoned food, applied make-up, etc.); plainly",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32528,7 +29818,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "杂乱无章；乱七八糟",
     "en": "messy; confused; chaotic; disorderly; mixed-up; jumbled up",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32540,7 +29829,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "生机勃勃；栩栩如生",
     "en": "in a lively way; vividly; freshly; animatedly; actively; energetically",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32552,7 +29840,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "清爽；完全不……",
     "en": "feeling refreshed; feeling relieved; neat; tidy; clean; frank",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32564,7 +29851,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "兴高采烈；心情雀跃",
     "en": "cheerfully; excitedly",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32576,7 +29862,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "粗略地；大致",
     "en": "roughly; approximately; round about; more or less; cursorily; briefly",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32588,7 +29873,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "迷迷糊糊地打瞌睡",
     "en": "falling into a doze; dozing off; nodding off",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32600,7 +29884,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "嘈杂；人心骚动",
     "en": "noisily (from many people talking); in a commotion; with a rustling sound (of leaves, branches, etc.); with a rippling sound (of the surface of a lake, etc.); feeling a chill; with a chill (up one's spine)",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32612,7 +29895,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "整齐地；规规矩矩地",
     "en": "properly; accurately; exactly; precisely; regularly; neatly",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32624,7 +29906,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "垂头丧气；无精打采",
     "en": "downheartedly; dejectedly; dispiritedly; despondently",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32636,7 +29917,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "正好；严密地；整齐地",
     "en": "exactly; precisely; punctually; on the dot; closely; tightly",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32648,7 +29928,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "手忙脚乱；拼命挣扎",
     "en": "struggling; wriggling; floundering; flailing; to get into a panic; to make a fuss",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32660,7 +29939,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "断然；干脆",
     "en": "clearly; plainly; distinctly; decisively; flatly; definitely",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32672,7 +29950,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "仔细地；慢慢地；充分地",
     "en": "carefully; without haste; thoroughly; deliberately; closely; meticulously",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32684,7 +29961,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "东张西望",
     "en": "restlessly; all around; goggling",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32696,7 +29972,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "一动不动；专注地；忍耐着",
     "en": "motionlessly; intently; patiently",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32708,7 +29983,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "锯齿状；参差不齐",
     "en": "jagged; serrated",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32720,7 +29994,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "清爽；舒畅；整洁",
     "en": "refreshingly; with a feeling of relief; pleasantly; off one's shoulder; shapely; neatly",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32732,7 +30005,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "挤得满满的；密密麻麻",
     "en": "tightly (packed); densely; closely; crammed",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32744,7 +30016,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "笑眯眯",
     "en": "with a friendly grin; smilingly",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32756,7 +30027,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "挤得紧紧的；塞得满满的",
     "en": "creaking; squeaking; packing in tightly; cramming; squeezing; hard (pressing, tying, twisting, etc.)",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32768,7 +30038,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "嫣然一笑；微微一笑",
     "en": "sweetly (smiling); broadly (grinning)",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32780,7 +30049,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "勉强；极限；最后一刻",
     "en": "grinding (sound); grating; gnashing; forcefully; strongly; with effort",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32792,7 +30060,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "窃笑；得意地笑",
     "en": "grinning; smirking",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32804,7 +30071,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "筋疲力尽；瘫软",
     "en": "limply; wearily; listlessly; languidly; exhaustedly; unenergetically",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32816,7 +30082,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "担心不安；纷纷飘落",
     "en": "to feel anxious; to feel nervous; to be kept in suspense; to feel excited; to feel thrilled; fluttering down",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32828,7 +30093,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "使劲；一口气；大幅度",
     "en": "suddenly; at once; in one go; with a jerk; with a gulp; considerably",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32840,7 +30104,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "啪嗒啪嗒；忙乱",
     "en": "flapping; rattling; fluttering; with a clatter; noisily; thrashing (around)",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32852,7 +30115,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "迅速有力地；不断地",
     "en": "rapidly; vigorously; by leaps and bounds; steadily",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32864,7 +30126,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "咔嚓一下；果断地",
     "en": "with a single stroke; lopping off (branches, etc.); short; drastically (slash a budget, etc.); resolutely; ruthlessly (discard, etc.)",
-    "page": 72,
     "book": "n2"
   },
   {
@@ -32876,7 +30137,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "突然遇见；突然倒下；戛然而止",
     "en": "with a clash; with a thud; with a bang; with a flop; unexpectedly (meeting someone); suddenly (ending)",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -32888,7 +30148,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "湿透；浑身湿淋淋",
     "en": "wet through; drenched",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -32900,7 +30159,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "完美地；顺利地",
     "en": "perfectly; right on the mark; spot on; bang on; enough; sufficiently",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -32912,7 +30170,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "闪闪发亮；崭新",
     "en": "with a glitter; with a sparkle; brand new; shiny and new; cleaned (of a plate, etc.); finished",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -32924,7 +30181,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "干劲十足；咔嚓咔嚓",
     "en": "vigorously (ripping, tearing, scratching, etc.); roughly; with a rip; with a crunch; stiff; starchy",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -32936,7 +30192,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "热乎乎；暖烘烘",
     "en": "comfortably warm; steaming hot (food); piping hot; glowing (with warmth)",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -32948,7 +30203,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "突然；完全断绝",
     "en": "with a clack; with a thud; with a tap; with a flop; with a thump; unexpectedly (meeting someone)",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -32960,7 +30214,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "松一口气；放心",
     "en": "with a feeling of relief; with a sigh of relief; deeply (sigh)",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -32972,7 +30225,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "突然；一下子；显眼地",
     "en": "suddenly; in a flash; quickly; rapidly; swiftly; nimbly",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -32984,7 +30236,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "宽松；舒适悠闲",
     "en": "comfortable; easy; calm; relaxed; loose; spacious",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -32996,7 +30247,6 @@ window.N2_VOCAB = [
     "category": "副詞（オノマトペ）",
     "cn": "窃窃私语；偷偷地",
     "en": "in a whisper; in a low voice; in undertones; in secret; stealthily",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33008,7 +30258,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "熨斗；熨烫",
     "en": "iron (for pressing clothes); hair iron; hair tong; curling tong",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33020,7 +30269,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "橱窗购物；窗外凝视",
     "en": "window-shopping; window-gazing",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33032,7 +30280,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "宣传活动",
     "en": "promotion; campaign; campaign (for an election, social change, etc.); movement; drive (fund-raising, recruitment, etc.)",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33044,7 +30291,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "出局；外部",
     "en": "out; failure; disqualification",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33056,7 +30302,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "网络；万维网",
     "en": "web; World Wide Web",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33068,7 +30313,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "裂缝；间隙；隔阂",
     "en": "gap; difference; disparity; discrepancy; disconnect",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33080,7 +30324,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "助理",
     "en": "assistant",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33092,7 +30335,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "错误；失手导致未能让跑步者出局",
     "en": "error; fumble that leads to failing to put out a runner",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33104,7 +30346,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "清晰；透明的；清理（​​跳高栏、跨栏等）；克服；通过；过去",
     "en": "clear; transparent; clearing (a high-jump bar, hurdle, etc.); overcoming; getting through; getting past",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33116,7 +30357,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "呼吁，控诉",
     "en": "appeal (e.g. for peace); plea; request; appeal (of something); attractiveness; allure",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33128,7 +30368,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "摩托车）；摩托车",
     "en": "motorcycle ); motorbike",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33140,7 +30379,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "货物；商品；商业物品",
     "en": "goods; merchandise; commercial items",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33152,7 +30390,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "接近，靠近；探讨，研究",
     "en": "approach (to a problem, issue, etc.); approach (of a long jump, aircraft's flight, etc.); inrun (of a ski jump); approach (to a building, mountain, etc.); approach shot",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33164,7 +30401,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "所有者（尤其是企业的所有者）",
     "en": "owner (esp. of a business)",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33176,7 +30412,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "照顾，护理；关怀",
     "en": "kea (Nestor notabilis); care (e.g. medical); attention; nursing",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33188,7 +30423,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "业余的",
     "en": "amateur",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33200,7 +30434,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "大衣；超过；过去；超越；夸张；过头了",
     "en": "overcoat; exceeding; going over; going beyond; exaggerated; overdone",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33212,7 +30445,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "视频游戏）；电脑游戏；控制台游戏",
     "en": "video game ); computer game; console game",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33224,7 +30456,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "字母表",
     "en": "alphabet",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33236,7 +30467,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "关闭；脱离；不工作",
     "en": "off; time off",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33248,7 +30478,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "客人",
     "en": "guest",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33260,7 +30489,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "（音乐的）安排（英语：arrange）；改编（故事、食谱等）；解释；拿；安排（物品、会议等）；组织",
     "en": "arrangement (of music) (eng: arrange); adaptation (of a story, recipe, etc.); interpretation; take; arranging (objects, a meeting, etc.); organization",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33272,7 +30500,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "定位；新人教育",
     "en": "orientation",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33284,7 +30511,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "教练；辅导；培训",
     "en": "coach; coaching; training",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33296,7 +30522,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "电子邮件",
     "en": "email",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33308,7 +30533,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "开；开启状态",
     "en": "on; switched on",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33320,7 +30544,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "咖啡杯；旋转茶杯（游乐设施）",
     "en": "coffee cup; spinning teacups (amusement ride)",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33332,7 +30555,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "插图；图片；草图；绘画；图",
     "en": "illustration; picture; sketch; drawing; figure",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33344,7 +30566,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "辅导员；辅导员",
     "en": "counselor; counsellor",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33356,7 +30577,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "合唱团",
     "en": "chorus",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33368,7 +30588,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "安装",
     "en": "installation (esp. software)",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33380,7 +30599,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "柜台；计数装置；柜台（银行、商店等）；柜台（酒吧、咖啡馆等）；酒吧；（足球中的）反击",
     "en": "counter; counting device; counter (at a bank, store, etc.); counter (at a bar, cafe, etc.); bar; counter-attack (in soccer)",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33392,7 +30610,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "成本",
     "en": "cost",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33404,7 +30621,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "导师",
     "en": "instructor",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33416,7 +30632,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "色彩缤纷；丰富多彩的",
     "en": "colorful; colourful",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33428,7 +30643,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "评语，解说，注释",
     "en": "comment",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33440,7 +30654,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "内部（建筑物、房间、车辆等）；室内设计",
     "en": "interior (of building, room, vehicle, etc.); interior design",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33452,7 +30665,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "钙（Ca）",
     "en": "calcium (Ca)",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33464,7 +30676,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "炸丸子（fre：）",
     "en": "croquette (fre:)",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33476,7 +30687,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "冲击，碰撞；强烈影响",
     "en": "impact (on); impression; effect; influence; impact (of a ball against a racket, bat, club, etc.)",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33488,7 +30698,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "队长",
     "en": "captain",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33500,7 +30709,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "竞演，会演",
     "en": "competition (fre: concours); contest",
-    "page": 73,
     "book": "n2"
   },
   {
@@ -33512,7 +30720,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "出口）；插座；电源点",
     "en": "outlet ); socket; power point",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33524,7 +30731,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "技能",
     "en": "skill",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33536,7 +30742,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "下载",
     "en": "download",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33548,7 +30753,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "竞赛，比赛",
     "en": "contest",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33560,7 +30764,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "学校",
     "en": "school",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33572,7 +30775,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "损坏，破坏",
     "en": "damage",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33584,7 +30786,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "控制",
     "en": "control",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33596,7 +30797,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "滑冰（尤其是冰上）；滑冰；溜冰鞋",
     "en": "skating (esp. ice); skate; skates",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33608,7 +30808,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "团队领导",
     "en": "team leader",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33620,7 +30819,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "复杂；自卑感； （建筑物、设施等的）综合体",
     "en": "complex; inferiority complex; complex (of buildings, facilities, etc.)",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33632,7 +30830,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "明星（演员、运动员等）；名人；星（符号）；星号；明星",
     "en": "star (actor, athlete, etc.); celebrity; star (symbol); asterisk; star",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33644,7 +30841,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "充电，加油；充值",
     "en": "charge (electrical); recharging; charge (fee); topping up (a contactless smart card); refuelling; charge",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33656,7 +30852,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "支持，赞助",
     "en": "support",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33668,7 +30863,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "馅料（西餐中）；填充；东西；材料；职员；工作人员",
     "en": "stuffing (in Western cuisine); filling; stuff; materials; staff; staff member",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33680,7 +30874,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "游览",
     "en": "tour",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33692,7 +30885,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "薪俸生活者，职员",
     "en": "office worker ; company employee; company man; salaryman",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33704,7 +30896,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "舞台（平台）；表现；展示；阶段（阶段）；部分；舞台",
     "en": "stage (platform); performance; show; stage (phase); part; stage",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33716,7 +30907,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "导游",
     "en": "tour guide",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33728,7 +30918,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "季节，旺季",
     "en": "season (period in which regulated games are played); season (division of the year); season (of a TV show, etc.); season (for doing something, e.g. ski season, entrance examination season)",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33740,7 +30929,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "运动鞋；运动鞋；培训师",
     "en": "sneaker; sneakers; trainers",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33752,7 +30940,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "手法，技巧",
     "en": "technique (eng: technic)",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33764,7 +30951,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "片材；电子表格；座位",
     "en": "sheet; spreadsheet; seat",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33776,7 +30962,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "空间，空地；空白，行间距",
     "en": "space; room; space (between letters, words, etc.); space (piece of type)",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33788,7 +30973,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "讨论",
     "en": "discussion",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33800,7 +30984,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "密封；贴纸",
     "en": "seal; sticker",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33812,7 +30995,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "跑车",
     "en": "sports car",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33824,7 +31006,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "沙漠；甜点",
     "en": "desert; dessert",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33836,7 +31017,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "默默地（如坟墓）；静静地（如死亡）；场景；视线；设想；设置",
     "en": "silently (as the grave); quietly (as in death); scene; sight; scenario; setting",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33848,7 +31028,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "健身房；健身中心",
     "en": "fitness club ; gym; fitness center",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33860,7 +31039,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "数码相机",
     "en": "digital camera",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33872,7 +31050,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "系统",
     "en": "system",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33884,7 +31061,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "顺利，无阻碍",
     "en": "smooth (i.e. without problems)",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33896,7 +31072,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "缺点，过失",
     "en": "disadvantage; drawback; demerit; bad point; minus",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33908,7 +31083,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "资格老的；高年级，年长者",
     "en": "senior",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33920,7 +31094,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "自助服务；自我",
     "en": "self-service; self-",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33932,7 +31105,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "总计；总计；加起来；综合的；全包；包罗万象的",
     "en": "total; totalling; adding up; comprehensive; all-inclusive; all-encompassing",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33944,7 +31116,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "碎纸机",
     "en": "shredder",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33956,7 +31127,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "软件",
     "en": "software",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33968,7 +31138,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "尖端；领头；领导",
     "en": "top; top position; senior management; senior bureaucrat; home page (of a website)",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33980,7 +31149,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "冲击，刺激，打击",
     "en": "shock (emotional); shock (physical); impact; jolt; crisis (esp. financial); event that rattles the markets",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -33992,7 +31160,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "目标，标的",
     "en": "target",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34004,7 +31171,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "隧道",
     "en": "tunnel; to tunnel (through a potential barrier); letting a grounder go through one's legs",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34016,7 +31182,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "商店",
     "en": "shop",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34028,7 +31193,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "型，类型",
     "en": "type; kind; sort; style; type (of person); one's type",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34040,7 +31204,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "纪录片",
     "en": "documentary",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34052,7 +31215,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "单肩包",
     "en": "shoulder bag",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34064,7 +31226,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "定时器；定时开关；跑表；计时员；自拍",
     "en": "timer; time switch; stopwatch; time keeper; self-timer",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34076,7 +31237,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "开车；开车旅行；驾驶；开车去（去）；开车去旅行；驾驶（例如汽车）",
     "en": "drive; trip by car; driving; to (go for a) drive; to go on a trip by car; to drive (e.g. a car)",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34088,7 +31248,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "系列",
     "en": "series",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34100,7 +31259,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "时机",
     "en": "timing",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34112,7 +31270,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "灯光下的比赛（例如棒球）；夜间比赛",
     "en": "game under lights (e.g. baseball) ; night game",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34124,7 +31281,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "单人间",
     "en": "single room",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34136,7 +31292,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "时间（用于，做）；时间（完成一场比赛、一圈等）；暂停；百里香",
     "en": "time (for, to do); time (to finish a race, lap, etc.); time-out; thyme",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34148,7 +31303,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "需要；需求；要求",
     "en": "needs; demands; requests",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34160,7 +31314,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "单纯，简单；质朴，朴素",
     "en": "simple; plain",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34172,7 +31325,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "轮胎；胎",
     "en": "tire; tyre",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34184,7 +31336,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "笔记本电脑（计算机）；笔记本（电脑）",
     "en": "laptop (computer); notebook (computer)",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34196,7 +31347,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "研讨会",
     "en": "symposium",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34208,7 +31358,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "动态",
     "en": "dynamic",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34220,7 +31369,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "硬；艰难的；硬件；硬盘（驱动器）",
     "en": "hard; tough; hardware; hard disk (drive)",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34232,7 +31380,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "手提箱",
     "en": "suitcase",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34244,7 +31391,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "钻石；行车时刻表",
     "en": "schedule (eng: dia(gram)); timetable; diagram; diamond",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34256,7 +31402,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "条形码",
     "en": "barcode; bar code; comb-over (hairstyle)",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34268,7 +31413,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "围巾（尤其是女性佩戴的轻质夏季围巾）",
     "en": "scarf (esp. a lightweight summer scarf worn by women)",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34280,7 +31424,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "跌倒；减少；降低；下降；击倒；地板",
     "en": "fall; decrease; drop; going down; knocking down; flooring",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34292,7 +31435,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "烧烤；户外烤肉",
     "en": "barbecue",
-    "page": 74,
     "book": "n2"
   },
   {
@@ -34304,7 +31446,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "集市；集市；特别促销（在百货商店）",
     "en": "bazaar; bazar; special sale (at a department store)",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34316,7 +31457,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "演示",
     "en": "presentation",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34328,7 +31468,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "制造商；厂商",
     "en": "manufacturer (esp. a major company); producer; maker; maker (person or device that makes something)",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34340,7 +31479,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "平衡，均等",
     "en": "balance",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34352,7 +31490,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "压力",
     "en": "pressure",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34364,7 +31501,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "模型",
     "en": "model; dummy; mock-up; model (profession); fashion model; model (of a vehicle, machine, etc.)",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34376,7 +31512,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "排球",
     "en": "volleyball",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34388,7 +31523,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "过程",
     "en": "process",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34400,7 +31534,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "独特，独一无二",
     "en": "unique; original; individual; unusual",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34412,7 +31545,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "面食（意大利面：）",
     "en": "pasta (ita:)",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34424,7 +31556,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "发型",
     "en": "hairstyle",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34436,7 +31567,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "欧洲",
     "en": "Europe",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34448,7 +31578,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "事务；商业",
     "en": "business",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34460,7 +31589,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "老手，老练的人",
     "en": "veteran (in a particular field); person with a lot of experience; old hand",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34472,7 +31600,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "灯；光；轻的",
     "en": "right; right field; right fielder; light; light (colour, food, comedy, etc.)",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34484,7 +31611,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "商务礼仪；商务礼仪",
     "en": "business manners; business etiquette",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34496,7 +31622,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "长凳",
     "en": "bench",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34508,7 +31633,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "竞争对手",
     "en": "rival; competitor; competition",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34520,7 +31644,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "自助餐（免费：）；自助餐",
     "en": "buffet (fre:); self-service meal",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34532,7 +31655,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "步伐",
     "en": "pace",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34544,7 +31666,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "最后；最终的；结尾；结论；最后一张；生锈",
     "en": "last; final; end; conclusion; last one; rust",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34556,7 +31677,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "挑选（英语：pick up）；选择；选择； （用车）接（某人）；拾音器（在电唱机中）；墨盒",
     "en": "picking out (eng: pick up); choosing; selection; picking (someone) up (in a vehicle); pickup (in a record player); cartridge",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34568,7 +31688,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "五金店（英语：家居中心）； DIY商店；家居装修零售商",
     "en": "hardware store (eng: home center); DIY store; home improvement retailer",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34580,7 +31699,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "标签",
     "en": "label",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34592,7 +31710,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "文件",
     "en": "file (for holding papers); file (collection of documents); filing; keeping on file; file",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34604,7 +31721,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "热；咖啡",
     "en": "hot; coffee",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34616,7 +31732,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "午餐时间",
     "en": "lunchtime",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34628,7 +31743,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "公平的；公正的；展销会",
     "en": "fair; fair ball; fair (event)",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34640,7 +31754,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "保龄球（特别是保龄球）",
     "en": "bowling (esp. tenpin)",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34652,7 +31765,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "跑步；背心（作为内衣或运动服穿着）；背心；单线态",
     "en": "running; tank top (worn as an undergarment or sportswear); vest; singlet",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34664,7 +31776,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "文件夹",
     "en": "folder",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34676,7 +31787,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "瓶子",
     "en": "bottle",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34688,7 +31798,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "要求，希望",
     "en": "request",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34700,7 +31809,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "油炸食品；飞球",
     "en": "fly (ball); fly (lure); fly (insect); deep-fried food",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34712,7 +31820,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "志愿者",
     "en": "volunteer",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34724,7 +31831,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "二手店；回收店",
     "en": "second-hand shop; recycle shop",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34736,7 +31842,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "水果",
     "en": "fruit",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34748,7 +31853,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "音量（声级）；体积；大部分；大量的；数量；数量",
     "en": "volume (sound level); volume; bulk; mass; amount; quantity",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34760,7 +31864,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "韵律，节奏",
     "en": "rhythm",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34772,7 +31875,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "新鲜的；植脂末；咖啡增白剂",
     "en": "fresh; non-dairy creamer; coffee whitener",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34784,7 +31886,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "壶；热水瓶",
     "en": "pot (esp. teapot, coffee pot); vacuum bottle; thermos flask",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34796,7 +31897,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "排练",
     "en": "rehearsal",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34808,7 +31908,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "地板；舞池；销售楼层； （建筑物的）楼层；层；故事",
     "en": "floor; dance floor; sales floor; floor (of a building); storey; story",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34820,7 +31919,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "市场",
     "en": "market",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34832,7 +31930,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "放松，松弛",
     "en": "relaxing; relaxation",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34844,7 +31941,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "高潮，热潮",
     "en": "boom; craze; fad; boom (of a boat)",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34856,7 +31952,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "减；负；零下；亏损；不利",
     "en": "minus; subtraction; taking away; negative (number); deficit; loss",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34868,7 +31963,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "娱乐；再创造",
     "en": "recreation; re-creation",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34880,7 +31974,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "刹车；停止（发展、行为等）；刹车",
     "en": "brake; stop (to a development, behavior, etc.); brakes",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34892,7 +31985,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "手册，指南",
     "en": "manual; operations manual; basic rules (pertaining to how a job should be carried out); standards; manual transmission",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34904,7 +31996,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "收据；收银单",
     "en": "receipt; cash-register slip",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34916,7 +32007,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "自尊心",
     "en": "pride; dignity; self-worth",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34928,7 +32018,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "经理； （学校或大学）运动队中负责行政和杂项职责的人员",
     "en": "manager; person in a (school or university) sports team in charge of administrative and miscellaneous duties",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34940,7 +32029,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "水平，水准",
     "en": "Revell; rebel; level; standard; grade; class",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34952,7 +32040,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "隐私",
     "en": "privacy",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34964,7 +32051,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "会议",
     "en": "meeting",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34976,7 +32062,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "记者",
     "en": "reporter",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -34988,7 +32073,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "加；添加；正数（数字）；加号；积极的象征；优势",
     "en": "plus; addition; positive (number); plus sign; positive symbol; advantage",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -35000,7 +32084,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "错误，失误",
     "en": "myth; mistake (eng: miss); error; blunder; Miss; Ms.",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -35012,7 +32095,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "出租",
     "en": "rental",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -35024,7 +32106,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "计划，方案",
     "en": "plan; scheme; package; deal; offer",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -35036,7 +32117,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "迷你-；迷你裙",
     "en": "mini-; miniskirt",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -35048,7 +32128,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "挡风玻璃刮水器；挡风玻璃刮水器",
     "en": "windshield wiper; windscreen wiper",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -35060,7 +32139,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "比赛；演奏；表演",
     "en": "praying; prayer; play; recreation; playing (a sport); game",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -35072,7 +32150,6 @@ window.N2_VOCAB = [
     "category": "カタカナ",
     "cn": "心情；气氛",
     "en": "mood; atmosphere",
-    "page": 75,
     "book": "n2"
   },
   {
@@ -35084,7 +32161,6 @@ window.N2_VOCAB = [
     "category": "接続詞",
     "cn": "或；有时；也许",
     "en": "or; alternatively; possibly",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35096,7 +32172,6 @@ window.N2_VOCAB = [
     "category": "接続詞",
     "cn": "因此，于是",
     "en": "therefore; so",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35108,7 +32183,6 @@ window.N2_VOCAB = [
     "category": "接続詞",
     "cn": "一个（尤其是两个）；另一个；单程；另一种方式；一个方向；另一个方向",
     "en": "one (esp. of two); the other; one way; the other way; one direction; the other direction",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35120,7 +32194,6 @@ window.N2_VOCAB = [
     "category": "接続詞",
     "cn": "虽然那样",
     "en": "even so; nevertheless",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35132,7 +32205,6 @@ window.N2_VOCAB = [
     "category": "接続詞",
     "cn": "以及",
     "en": "and; as well as",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35144,7 +32216,6 @@ window.N2_VOCAB = [
     "category": "接続詞",
     "cn": "不过；只是",
     "en": "however; only",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35156,7 +32227,6 @@ window.N2_VOCAB = [
     "category": "接続詞",
     "cn": "而且",
     "en": "moreover; besides",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35168,7 +32238,6 @@ window.N2_VOCAB = [
     "category": "接続詞",
     "cn": "不过",
     "en": "however; provided that",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35180,7 +32249,6 @@ window.N2_VOCAB = [
     "category": "接続詞",
     "cn": "因此",
     "en": "therefore; consequently",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35192,7 +32260,6 @@ window.N2_VOCAB = [
     "category": "接続詞",
     "cn": "然而",
     "en": "however; yet",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35204,7 +32271,6 @@ window.N2_VOCAB = [
     "category": "接続詞",
     "cn": "换言之；就是",
     "en": "namely; in other words",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35216,7 +32282,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "坏影响",
     "en": "bad influence; negative influence",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35228,7 +32293,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "不利条件；不利条件",
     "en": "unfavorable conditions; unfavourable conditions",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35240,7 +32304,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "另一个世界（尤其是小说中）；另一个世界；平行宇宙；异次元世界；异世界",
     "en": "another world (esp. in fiction); otherworld; parallel universe; different-dimension world; isekai",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35252,7 +32315,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "异文化",
     "en": "different culture; foreign culture",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35264,7 +32326,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "昏暗；阴沉的",
     "en": "dim; gloomy",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35276,7 +32337,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "淡妆；薄薄的积雪；撒雪",
     "en": "light makeup; light covering of snow; dusting of snow",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35288,7 +32348,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "淡淡的微笑",
     "en": "faint smile",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35300,7 +32359,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "各课；每一课",
     "en": "each lesson; each section",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35312,7 +32370,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "每个家庭；各家",
     "en": "each household",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35324,7 +32381,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "各组；每一组",
     "en": "each group",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35336,7 +32392,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "各设施；每处设施",
     "en": "each facility",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35348,7 +32403,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "各分店；每家分店",
     "en": "each branch",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35360,7 +32414,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "各项条件",
     "en": "each condition",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35372,7 +32425,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "审判任命（缓刑）；临时任命",
     "en": "appointment on trial (probation); provisional appointment",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35384,7 +32436,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "临时许可证；临时执照；临时牌照；临时牌照",
     "en": "temporary license; temporary licence; provisional license; provisional licence",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35396,7 +32447,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "暂定保留；暂定预订",
     "en": "tentative reservation; tentative booking",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35408,7 +32458,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "旧校舍；旧教学楼",
     "en": "old school building",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35420,7 +32469,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "农历新年（特别是农历新年）",
     "en": "lunar New Year (esp. the Chinese New Year)",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35432,7 +32480,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "旧系统；旧订单",
     "en": "old system; old order",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35444,7 +32491,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "现在的情况（即历史上的情况）；目前",
     "en": "present point (i.e. in history); at the present time",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35456,7 +32502,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "地址",
     "en": "address",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35468,7 +32513,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "现阶段；当前阶段；当前军衔；现年级",
     "en": "present stage; current phase; current rank; present grade",
-    "page": 76,
     "book": "n2"
   },
   {
@@ -35480,7 +32524,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "好印象；好印象",
     "en": "good impression; favorable impression",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35492,7 +32535,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "美好时光；繁荣；繁荣",
     "en": "good times; boom; prosperity",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35504,7 +32546,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "方便；有利；有利；权宜；权宜之计",
     "en": "convenient; favorable; favourable; expedient; expedience",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35516,7 +32557,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "高水平",
     "en": "high level",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35528,7 +32568,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "高效率；高性能",
     "en": "high efficiency; high performance",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35540,7 +32579,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "高收入",
     "en": "high income",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35552,7 +32590,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "重建",
     "en": "redevelopment",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35564,7 +32601,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "复试；审查；重新考虑；重新评价",
     "en": "re-examination; review; reconsideration; reappraisal",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35576,7 +32612,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "再就业",
     "en": "reemployment",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35588,7 +32623,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "再次修理",
     "en": "repair again; second repair",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35600,7 +32634,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "重建；重置（密码）",
     "en": "reestablish; reset (a password)",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35612,7 +32645,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "复审；重新调查；重新调查",
     "en": "reexamination; reinvestigation; resurvey",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35624,7 +32656,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "重新提交",
     "en": "resubmission; to submit again",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35636,7 +32667,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "转播；重新运行",
     "en": "rebroadcasting; rerun",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35648,7 +32678,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "最高等级；顶级",
     "en": "highest grade; top class",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35660,7 +32689,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "最年轻的",
     "en": "youngest",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35672,7 +32700,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "最大优先权；最高优先级；优先处理",
     "en": "maximum preference; maximum priority; priority handling",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35684,7 +32711,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "主要原材料；主要原料",
     "en": "principal raw material; main raw material",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35696,7 +32722,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "主要成分；主要成分",
     "en": "main ingredient; main component",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35708,7 +32733,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "亚军；准大奖",
     "en": "runner-up prize; second grand prize",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35720,7 +32744,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "半决赛",
     "en": "semifinal",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35732,7 +32755,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "（译作准V）获得亚军；获得第二名",
     "en": "(occ. written as 準Ｖ) being the runner-up; finishing second",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35744,7 +32766,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "各个外国国家；几个外国国家",
     "en": "various foreign countries; several foreign countries",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35756,7 +32777,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "各种原因",
     "en": "various reasons",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35768,7 +32788,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "许多问题；各种问题",
     "en": "many problems; various problems",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35780,7 +32799,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "第一年；初始（年）",
     "en": "first year; initial (year)",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35792,7 +32810,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "首次登陆；首次进入当地市场",
     "en": "first landing; first arrival in a market or region",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35804,7 +32821,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "初次访问",
     "en": "first visit",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35816,7 +32832,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "新学期",
     "en": "new school term",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35828,7 +32843,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "新企划；新项目",
     "en": "new project; new plan",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35840,7 +32854,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "新时代；新时期；新时代；新纪元",
     "en": "new era; new period; new age; new epoch",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35852,7 +32865,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "新车",
     "en": "new car",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35864,7 +32876,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "新产品",
     "en": "new product",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35876,7 +32887,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "新产品",
     "en": "new product",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35888,7 +32898,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "前任社长",
     "en": "former company president",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35900,7 +32909,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "前任总统（现任总统之前）；前总统",
     "en": "previous president (immediately preceding the incumbent); former president",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35912,7 +32920,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "前任町长",
     "en": "former town mayor",
-    "page": 77,
     "book": "n2"
   },
   {
@@ -35924,7 +32931,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "全自动",
     "en": "totally automatic",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -35936,7 +32942,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "全部商品",
     "en": "all products",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -35948,7 +32953,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "所有产品（公司、品牌等）；整个范围",
     "en": "all products (of a company, brand, etc.); entire range",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -35960,7 +32964,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "总销售额；总收益",
     "en": "total sales; total proceeds",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -35972,7 +32975,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "总人口",
     "en": "total population",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -35984,7 +32986,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "（下议院）大选；粉丝人气投票（尤其是偶像）；人气竞赛",
     "en": "general election (of the lower house); fan popularity voting (esp. for idols); popularity contest",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -35996,7 +32997,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "低价",
     "en": "low price",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36008,7 +33008,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "低热量",
     "en": "low-calorie",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36020,7 +33019,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "低（大气压）；低压系统；沮丧；气旋；脾气不好；心情不好",
     "en": "low (atmospheric) pressure; low-pressure system; depression; cyclone; bad temper; foul mood",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36032,7 +33030,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "半永久性",
     "en": "semipermanence",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36044,7 +33041,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "半透明；半透明的",
     "en": "semi-transparent; translucent",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36056,7 +33052,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "部分开放；半盛开时",
     "en": "partly open; in half bloom",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36068,7 +33063,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "私人；非公开的；秘密；闭门；关闭",
     "en": "private; non-public; secret; closed-door; closed",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36080,7 +33074,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "非正式的；非官方的",
     "en": "informal; unofficial",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36092,7 +33085,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "缺乏常识；轻率；毫无意义；非理性；荒谬",
     "en": "lack of common sense; thoughtlessness; senselessness; irrationality; absurdity",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36104,7 +33096,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "不稳定",
     "en": "instability; insecurity; crankiness",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36116,7 +33107,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "不可能的",
     "en": "impossible",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36128,7 +33118,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "缺陷；缺点；问题；漏洞；故障；失败",
     "en": "flaw; defect; problem; bug; malfunction; failure",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36140,7 +33129,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "不公平；不公正；偏袒",
     "en": "unfairness; injustice; partiality",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36152,7 +33140,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "拒绝（申请）",
     "en": "rejection (of an application)",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36164,7 +33151,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "不自然的；人造的；做作的；紧张的",
     "en": "unnatural; artificial; affected; strained",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36176,7 +33162,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "不自由；不好使；不方便",
     "en": "discomfort; inconvenience; poverty; want; destitution; lack",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36188,7 +33173,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "不足；不足；不完美的",
     "en": "insufficient; inadequate; imperfect",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36200,7 +33184,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "不准确；不正确；不精确；不精确",
     "en": "inaccurate; incorrect; inexact; imprecise",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36212,7 +33195,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "不方便；不方便的；不利；麻烦；难的；错误的",
     "en": "inconvenient; inexpedient; unfavourable; troublesome; difficult; wrong",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36224,7 +33206,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "不必要的；不必要",
     "en": "unnecessary; needless",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36236,7 +33217,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "执行副总裁",
     "en": "executive vice-president",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36248,7 +33228,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "副部长",
     "en": "vice minister",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36260,7 +33239,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "副领导",
     "en": "deputy leader",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36272,7 +33250,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "全新的",
     "en": "brand new",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36284,7 +33261,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "就在后面；就在后面；直接在后面",
     "en": "right behind; just behind; directly behind",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36296,7 +33272,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "夜深人静；午夜",
     "en": "dead of night; midnight",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36308,7 +33283,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "没有答复",
     "en": "unanswered",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36320,7 +33294,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "缺乏经验的",
     "en": "inexperienced",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36332,7 +33305,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "未使用",
     "en": "unused",
-    "page": 78,
     "book": "n2"
   },
   {
@@ -36344,7 +33316,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "缺乏计划；随意的",
     "en": "lacking a plan; haphazard",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36356,7 +33327,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "不负责任",
     "en": "irresponsibility",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36368,7 +33338,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "不含农药；非化学；有机的",
     "en": "pesticide-free; non-chemical; organic",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36380,7 +33349,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "前医生；曾任医生的人",
     "en": "former physician",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36392,7 +33360,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "前总理；前总理；前总理",
     "en": "former prime minister; former premier; former chancellor",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36404,7 +33371,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "前同事",
     "en": "former colleague",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36416,7 +33382,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "下学期",
     "en": "next semester",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36428,7 +33393,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "下个赛季",
     "en": "next season",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36440,7 +33404,6 @@ window.N2_VOCAB = [
     "category": "接頭辞",
     "cn": "明年；下一个财政年度",
     "en": "next year; next fiscal year",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36452,7 +33415,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "熬夜之后",
     "en": "after staying up all night",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36464,7 +33426,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "年初；新年伊始",
     "en": "beginning of the year; early in the New Year",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36476,7 +33437,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "暑假结束后；开学后",
     "en": "after summer vacation",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36488,7 +33448,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "充满一种气氛；清一色的氛围",
     "en": "filled with a single mood; dominated by one atmosphere",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36500,7 +33459,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "雇员；工人",
     "en": "employee; worker",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36512,7 +33470,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "交通人员（司机、售票员等）；船员；船员",
     "en": "transport staff (driver, conductor, etc.); crew member; crewman",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36524,7 +33481,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "销售人员；销售员",
     "en": "sales staff; salesperson",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36536,7 +33492,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "每隔一天",
     "en": "every other day",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36548,7 +33503,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "每隔一周",
     "en": "every other week",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36560,7 +33514,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "每四年一次",
     "en": "every four years",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36572,7 +33525,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "机械化；机械化",
     "en": "mechanization; mechanisation",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36584,7 +33536,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "（人口的）老龄化；老化",
     "en": "aging (of a population); ageing",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36596,7 +33547,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "国际化；国际化",
     "en": "internationalization; internationalisation",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36608,7 +33558,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "电脑化；电脑化",
     "en": "computerization; computerisation",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36620,7 +33569,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "西化；西化",
     "en": "westernization; westernisation",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36632,7 +33580,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "多种多样",
     "en": "diversification",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36644,7 +33591,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "作曲家",
     "en": "composer",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36656,7 +33602,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "摄影师",
     "en": "photographer",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36668,7 +33613,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "政治家；政治家",
     "en": "politician; statesman",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36680,7 +33624,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "专家；专家；专业的；权威；专家",
     "en": "specialist; expert; professional; authority; pundit",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36692,7 +33635,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "雕刻师；雕刻师；雕塑家",
     "en": "engraver; carver; sculptor",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36704,7 +33646,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "登山者；登山者",
     "en": "mountain climber; mountaineer",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36716,7 +33657,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "批评家；审稿人；解说员",
     "en": "critic; reviewer; commentator",
-    "page": 79,
     "book": "n2"
   },
   {
@@ -36728,7 +33668,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "在管理之下",
     "en": "under management; under control",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36740,7 +33679,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "在（的）控制下；在（的）统治下",
     "en": "under the control (of); under the dominion (of)",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36752,7 +33690,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "在指挥之下",
     "en": "under the command of",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36764,7 +33701,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "会计科；会计科",
     "en": "accounts section; accounting section",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36776,7 +33712,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "学生事务处",
     "en": "student affairs office",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36788,7 +33723,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "国际交流科；国际交流部门",
     "en": "international exchange section",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36800,7 +33734,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "总务科",
     "en": "general affairs section",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36812,7 +33745,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "秘书科",
     "en": "secretarial section",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36824,7 +33756,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "音乐会；独奏会",
     "en": "concert; recital",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36836,7 +33767,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "欢迎会",
     "en": "welcome party",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36848,7 +33778,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "车间；培训课程",
     "en": "workshop; training course",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36860,7 +33789,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "讲座（特别是著名演讲者的特别参与）；讲座会（一场或多场讲座的活动）",
     "en": "lecture (esp. special engagement by noted speaker); lecture meeting (event with one or more lectures)",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36872,7 +33800,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "聚会；混合器；聚会；集会；社会的；交流会",
     "en": "gathering; mixer; meetup; assembly; social; exchange meeting",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36884,7 +33811,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "试吃会；品尝会",
     "en": "tasting event; sampling session",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36896,7 +33822,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "晚宴；礼仪晚宴；晚餐会议（或午餐、早餐）",
     "en": "dinner party; ceremonial dinner; dinner meeting (or lunch, breakfast)",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36908,7 +33833,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "新年晚会（在年初举行，通常在一月份）",
     "en": "New Year's party (held in the beginning of the year, i.e. usually in January)",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36920,7 +33844,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "信息发布会；简报；说明会",
     "en": "information session; briefing; explanatory meeting",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36932,7 +33855,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "抽奖（活动）；抽奖；画",
     "en": "lottery (event); raffle; draw",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36944,7 +33866,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "研究小组；学习会",
     "en": "study group; study meeting",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36956,7 +33877,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "医学世界；医学界；医学界",
     "en": "medical world; medical circles; medical community",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36968,7 +33888,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "工业世界",
     "en": "the industrial world",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36980,7 +33899,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "自然；自然世界；自然境界",
     "en": "nature; the natural world; realm of nature",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -36992,7 +33910,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "价值观",
     "en": "sense of values; values; value system",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37004,7 +33921,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "婚姻观；婚姻观；对婚姻的态度",
     "en": "view of marriage; outlook on marriage; attitude towards marriage",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37016,7 +33932,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "世界观；世界观；世界观；背景（虚构作品）；世界；宇宙",
     "en": "worldview; outlook on the world; Weltanschauung; setting (for a fictional work); world; universe",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37028,7 +33943,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "电影院；电影院；电影院",
     "en": "movie theatre; movie theater; cinema",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37040,7 +33954,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "照相馆",
     "en": "photo studio",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37052,7 +33965,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "体育馆",
     "en": "gymnasium",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37064,7 +33976,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "博物馆",
     "en": "museum",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37076,7 +33987,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "艺术博物馆；美术馆",
     "en": "art museum; art gallery",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37088,7 +33998,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "身份证明；团结感",
     "en": "identification; sense of unity",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37100,7 +34009,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "解放感；自由的感觉；空间感；宽敞",
     "en": "sense of liberation; feeling of freedom; sense of space; spaciousness",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37112,7 +34020,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "紧张感；紧张的气氛；紧张；紧张",
     "en": "feeling of tension; air of tension; tension; nervousness",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37124,7 +34031,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "奢华的气息；高级感",
     "en": "air of luxury; high class feel",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37136,7 +34042,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "幸福的感觉；幸福感；欣快感",
     "en": "feeling of happiness; sense of well-being; euphoria",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37148,7 +34053,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "成就感；完整感；成就感；满足感",
     "en": "sense of fulfillment; sense of completeness; sense of accomplishment; sense of contentment",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37160,7 +34064,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "成就感",
     "en": "sense of accomplishment",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37172,7 +34075,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "满足感",
     "en": "feeling of satisfaction",
-    "page": 80,
     "book": "n2"
   },
   {
@@ -37184,7 +34086,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "温泉区（城镇内）",
     "en": "hot spring district (within a town)",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37196,7 +34097,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "住宅区",
     "en": "residential area",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37208,7 +34108,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "购物区；购物街；市中心",
     "en": "shopping district; shopping street; downtown",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37220,7 +34119,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "经济学",
     "en": "economics",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37232,7 +34130,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "语言学",
     "en": "linguistics",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37244,7 +34141,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "心理学",
     "en": "psychology",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37256,7 +34152,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "血型；血型",
     "en": "blood type; blood group",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37268,7 +34163,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "最新型号；最新型号；最新型",
     "en": "latest model; newest model; latest type",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37280,7 +34174,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "参与性；参与；动手实践",
     "en": "participatory; participating; hands-on",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37292,7 +34185,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "游客",
     "en": "tourist",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37304,7 +34196,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "观光客；观众；观众",
     "en": "sightseer; spectator; viewer",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37316,7 +34207,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "受邀者",
     "en": "invitee",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37328,7 +34218,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "樱花观赏者",
     "en": "cherry-blossom viewer",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37340,7 +34229,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "用户；顾客",
     "en": "user; customer",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37352,7 +34240,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "售罄",
     "en": "sold-out",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37364,7 +34251,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "任期届满；逾期",
     "en": "expiration of a term; becoming overdue",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37376,7 +34262,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "没时间了；超过最后期限；超时",
     "en": "being out of time; passing the deadline; time-out",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37388,7 +34273,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "奖学金",
     "en": "scholarship; stipend; bursary; grant-in-aid; student loan",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37400,7 +34284,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "税款",
     "en": "tax; duty",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37412,7 +34295,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "入会费；入场费",
     "en": "initiation fee; admission fee",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37424,7 +34306,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "入学费",
     "en": "matriculation fee",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37436,7 +34317,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "工作服；迷彩服",
     "en": "work clothes; fatigues",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37448,7 +34328,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "日常服装；普通衣服；休闲装；非正式礼服",
     "en": "everyday clothes; ordinary clothes; casual wear; informal dress",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37460,7 +34339,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "家居服；在家穿着舒适的衣服",
     "en": "loungewear; comfortable clothing worn at home",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37472,7 +34350,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "有点感冒；有感冒迹象",
     "en": "slightly ill with a cold; showing cold symptoms",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37484,7 +34361,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "有点疲倦",
     "en": "slightly tired; tending to be tired",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37496,7 +34372,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "丰满；相当超重",
     "en": "plump; rather overweight",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37508,7 +34383,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "旅游贸易；旅游业；旅游业务；旅游企业",
     "en": "tourist trade; travel industry; tourist business; tourist enterprise",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37520,7 +34394,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "渔业",
     "en": "fisheries industry",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37532,7 +34405,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "旅游业",
     "en": "travel industry",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37544,7 +34416,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "车票",
     "en": "ticket (for bus, train, etc.); passenger ticket; basic fare ticket (not valid on limited express trains without a supplemental express ticket)",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37556,7 +34427,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "通勤卡；季票",
     "en": "commuter pass; season ticket",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37568,7 +34438,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "折扣券；折扣票",
     "en": "discount coupon; discount ticket",
-    "page": 81,
     "book": "n2"
   },
   {
@@ -37580,7 +34449,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "温差；温度范围",
     "en": "temperature difference; temperature range",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37592,7 +34460,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "时代差异；年代差距",
     "en": "difference between eras; generation gap",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37604,7 +34471,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "地区差异",
     "en": "regional difference",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37616,7 +34482,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "地址；目的地",
     "en": "address; destination",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37628,7 +34493,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "目的地；下落；未来；前景",
     "en": "destination; whereabouts; future; prospects",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37640,7 +34504,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "申请处；申请材料提交地址",
     "en": "application destination; where to apply",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37652,7 +34515,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "就业地点",
     "en": "place of employment",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37664,7 +34526,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "入口；前门",
     "en": "entrance; front door",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37676,7 +34537,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "住宿主人；住宿处",
     "en": "lodging host; lodging place",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37688,7 +34548,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "联系信息（地址、电话号码等）",
     "en": "contact information (address, phone number, etc.)",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37700,7 +34559,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "预制；击倒；可拆卸（例如电机）；平板包装（家具）",
     "en": "prefabricated; knockdown; demountable (e.g. motor); flatpack (furniture)",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37712,7 +34570,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "多项选择（例如问题）",
     "en": "multiple choice (e.g. question)",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37724,7 +34581,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "日式风格； Nihon-shiki 罗马化（日语）",
     "en": "Japanese style; Nihon-shiki romanization (of Japanese)",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37736,7 +34592,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "客厅；客厅；客厅；接待处",
     "en": "drawing room; parlour; parlor; reception office",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37748,7 +34603,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "管理室；管理办公室",
     "en": "management office; control room",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37760,7 +34614,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "培训室；研修室",
     "en": "training room",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37772,7 +34625,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "自习室",
     "en": "study room",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37784,7 +34636,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "实验室",
     "en": "laboratory",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37796,7 +34647,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "办公室（房间）",
     "en": "office (room)",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37808,7 +34658,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "检查室；咨询室",
     "en": "examining room; consultation room",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37820,7 +34669,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "咨询室；咨询室；咨询室；咨询中心",
     "en": "counseling room; counselling room; consulting room; advisory centre",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37832,7 +34680,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "居住在海外的人；海外居民",
     "en": "person living overseas; overseas resident",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37844,7 +34691,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "高龄者，老年人",
     "en": "old person; elderly person; senior citizen",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37856,7 +34702,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "实施者；作者",
     "en": "implementor; author",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37868,7 +34713,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "表演者；演员；演员；演员表",
     "en": "performer; actor; actress; cast",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37880,7 +34724,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "高级学生；高级学习者；高级实践者；有经验的人",
     "en": "advanced student; advanced learner; advanced practitioner; experienced person",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37892,7 +34735,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "初学者",
     "en": "beginner",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37904,7 +34746,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "设计师",
     "en": "designer",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37916,7 +34757,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "目标（例如营销活动）； （调查、调查等）主题；目标受众；合资格人士；有权（）的人；收件人",
     "en": "target (e.g. of a marketing campaign); subject (of a survey, investigation, etc.); intended audience; eligible person; person entitled (to); recipient",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37928,7 +34768,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "有关人士；利害关系方；关联方",
     "en": "person concerned; interested party; related party",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37940,7 +34779,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "注册人；订户；登记者",
     "en": "registrant; subscriber; enrollee",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37952,7 +34790,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "新闻媒体；新闻机构；新闻工作者；新闻界人士",
     "en": "news media; news organization; newspeople; people in the press",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37964,7 +34801,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "工人；劳动者；劳动者；蓝领工人",
     "en": "worker; laborer; labourer; blue-collar worker",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37976,7 +34812,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "选集；作品集",
     "en": "anthology; collection of works",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -37988,7 +34823,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "文件收集",
     "en": "document collection",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -38000,7 +34834,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "单词书",
     "en": "word book",
-    "page": 82,
     "book": "n2"
   },
   {
@@ -38012,7 +34845,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "（书面）提案",
     "en": "(written) proposal",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38024,7 +34856,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "计划；协议；显现；节目",
     "en": "plan; protocol; manifest; program",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38036,7 +34867,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "证明书，证明材料",
     "en": "certificate; credentials; testimonial",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38048,7 +34878,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "书面申请",
     "en": "written application",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38060,7 +34889,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "报告",
     "en": "report",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38072,7 +34900,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "书面估算；引述；报价",
     "en": "written estimate; quotation; quote",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38084,7 +34911,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "申请；申请表",
     "en": "application; application form",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38096,7 +34922,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "正式收据（付款；通常是手写的）",
     "en": "formal receipt (of payment; oft. hand-written)",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38108,7 +34933,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "履历书",
     "en": "personal history document; curriculum vitae; resume",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38120,7 +34944,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "办公室",
     "en": "office",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38132,7 +34955,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "幼儿园；日托中心；日间托儿所",
     "en": "nursery school; day care center; day nursery",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38144,7 +34966,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "旅游信息中心；旅游信息中心",
     "en": "tourist information center; tourist information centre",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38156,7 +34977,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "研究所；实验室",
     "en": "research institute; laboratory",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38168,7 +34988,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "车站（公共汽车、电车等）；车站；停车地点",
     "en": "stop (bus, tram, etc.); station; stopping place",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38180,7 +34999,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "驾驶执照；驾驶执照；驾驶执照",
     "en": "driver's license; driver's licence; driving licence",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38192,7 +35010,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "会员卡；会员证书",
     "en": "membership card; membership certificate",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38204,7 +35021,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "学生卡；学生证",
     "en": "student card; student ID",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38216,7 +35032,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "许可；执照；许可证",
     "en": "permit; license; licence",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38228,7 +35043,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "登记簿；登记卡",
     "en": "registration book; registration card",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38240,7 +35054,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "保险卡",
     "en": "insurance card",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38252,7 +35065,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "金奖；金奖；金牌；一等奖",
     "en": "gold prize; gold award; gold medal; first-place prize",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38264,7 +35076,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "文学奖",
     "en": "literary prize",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38276,7 +35087,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "优秀奖；优异奖",
     "en": "award of excellence; merit award",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38288,7 +35098,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "国际性",
     "en": "international character",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38300,7 +35109,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "政治基调；政治味道（味道）",
     "en": "political tone; political flavour (flavor)",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38312,7 +35120,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "按字母顺序",
     "en": "alphabetical order",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38324,7 +35131,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "时间顺序",
     "en": "chronological order",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38336,7 +35142,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "按名册顺序",
     "en": "in roster order",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38348,7 +35153,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "从安全角度；在安全方面",
     "en": "from a safety standpoint; for safety reasons",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38360,7 +35164,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "从教育角度；在教育方面",
     "en": "from an educational standpoint",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38372,7 +35175,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "事实上；实际上；有效地；现实中；实际上",
     "en": "as a matter of fact; actually; effectively; in reality; in effect",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38384,7 +35186,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "液体状；液态",
     "en": "liquid state; liquid form",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38396,7 +35197,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "奶油味；奶油般的稠度",
     "en": "creaminess; cream-like consistency",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38408,7 +35208,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "颗粒状；粒状的",
     "en": "granular; granulated",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38420,7 +35219,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "滑雪场；滑雪场",
     "en": "ski resort; ski area",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38432,7 +35230,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "自行车停放区；自行车停放处",
     "en": "parking area for bicycles; bicycle parking",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38444,7 +35241,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "棒球场；棒球场；棒球场；球场",
     "en": "baseball ground; baseball field; baseball stadium; ballpark",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38456,7 +35252,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "厨房",
     "en": "kitchen",
-    "page": 83,
     "book": "n2"
   },
   {
@@ -38468,7 +35263,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "会员制",
     "en": "membership-based",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38480,7 +35274,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "自付费用系统（例如婚宴）；入场费制度；会员收费制度",
     "en": "pay-your-own-way system (e.g. for a wedding reception); entrance fee system; membership fee system",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38492,7 +35285,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "预订系统；预约系统；订阅基础",
     "en": "reservation system; appointment system; a subscription basis",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38504,7 +35296,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "安全；安全",
     "en": "safety; security",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38516,7 +35307,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "可能性",
     "en": "possibility; chance; likelihood; probability; potential; potentiality",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38528,7 +35318,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "风险；风险性；危险",
     "en": "risk; riskiness; danger",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38540,7 +35329,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "灵活性；柔韧性；柔软度；弹性",
     "en": "flexibility; pliability; softness; elasticity",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38552,7 +35340,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "重要性；重力",
     "en": "importance; gravity",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38564,7 +35351,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "生产力",
     "en": "productivity",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38576,7 +35362,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "多样性",
     "en": "diversity; variety",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38588,7 +35373,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "必要性；需要",
     "en": "necessity; need",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38600,7 +35384,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "方向；趋势；（行动的）过程；方向性；方向性；方向",
     "en": "direction; trend; course (of action); directionality; directivity; orientation",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38612,7 +35395,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "音乐整体；各种音乐",
     "en": "music in general",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38624,7 +35406,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "各门学问；学术整体",
     "en": "academic fields in general",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38636,7 +35417,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "日本人总体",
     "en": "Japanese people in general",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38648,7 +35428,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "海边；海滨；海岸；沿海地区",
     "en": "seaside; seashore; coast; coastland",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38660,7 +35439,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "沿海岸；海岸一带",
     "en": "along the coast; coastal area",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38672,7 +35450,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "沿铁路线；铁路线一带",
     "en": "along the railway line",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38684,7 +35461,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "教材费；教科书费用",
     "en": "textbook cost",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38696,7 +35472,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "电费单；电费单",
     "en": "electricity bill; electric bill",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38708,7 +35483,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "礼物费用",
     "en": "cost of a gift",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38720,7 +35494,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "啦啦队；啦啦队",
     "en": "cheering group; cheering squad",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38732,7 +35505,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "剧团；剧团",
     "en": "troupe; theatrical company",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38744,7 +35516,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "团队（球员、运动员）；队；代表团",
     "en": "team (of players, athletes); squad; delegation",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38756,7 +35527,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "空置土地；无人居住的土地；空地；空点",
     "en": "vacant land; unoccupied ground; empty lot; empty point",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38768,7 +35538,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "旅游景点；观光区",
     "en": "tourist attraction; sight-seeing area",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38780,7 +35549,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "当前位置；当前位置； “你在这里”（在地图上）",
     "en": "present location; current location; \"you are here\" (on map)",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38792,7 +35560,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "拟议地点；选址",
     "en": "proposed site; site chosen",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38804,7 +35571,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "住房区；住宅区",
     "en": "housing district; residential district",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38816,7 +35582,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "目的地（一个人正在前往）；目标",
     "en": "destination (one is heading towards); goal",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38828,7 +35593,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "度假村（地点）",
     "en": "resort (spot)",
-    "page": 84,
     "book": "n2"
   },
   {
@@ -38840,7 +35604,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "不在办公室或离开家时",
     "en": "while being out of the office or away from home",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38852,7 +35615,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "期间；持续时间",
     "en": "during; for the duration of",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38864,7 +35626,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "停业中；休业期间",
     "en": "closed for business; during a business closure",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38876,7 +35637,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "正在建设中",
     "en": "under construction",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38888,7 +35648,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "本周内；这周结束前",
     "en": "by the end of this week",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38900,7 +35659,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "在校期间；在学生时代；上学时",
     "en": "while in school; during one's student days; while attending school",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38912,7 +35670,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "旅行中；在旅途中",
     "en": "while traveling; on a trip",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38924,7 +35681,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "使用中；正在使用",
     "en": "in use; currently being used",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38936,7 +35692,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "火车票价",
     "en": "train fare",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38948,7 +35703,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "沉浸在英语中；全天接触英语",
     "en": "immersed in English; surrounded by English",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38960,7 +35714,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "埋头学习；整天学习",
     "en": "immersed in study; studying all day",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38972,7 +35725,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "整天练习；埋头练习",
     "en": "devoted entirely to practice",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38984,7 +35736,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "带孩子的家长；亲子同行者",
     "en": "parent accompanied by a child; family with children",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -38996,7 +35747,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "带着家人一起",
     "en": "taking the family along",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39008,7 +35758,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "带着孩子一起去（参加活动、结婚等）；父母与孩子",
     "en": "taking one's children along (to an event, into a new marriage, etc.); parent with child",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39020,7 +35769,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "作家；画家；抽屉；书法家；熟练的作家；熟练的画家",
     "en": "writer; painter; drawer; calligrapher; skilful writer; skilful painter",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39032,7 +35780,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "听者；听众；观众；面试官；提问者",
     "en": "hearer; listener; audience; interviewer; questioner",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39044,7 +35791,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "劳动者；劳动力；干活的人",
     "en": "worker; breadwinner; supporter; able person; able man; productive worker",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39056,7 +35802,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "扬声器；善于言谈的人",
     "en": "speaker; one who is skilled at speaking",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39068,7 +35813,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "读者（人）；读牌的人（在卡鲁塔游戏中）； (一首诗的)作曲家",
     "en": "reader (person); person who reads the cards (in karuta games); composer (of a poem)",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39080,7 +35824,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "图片展览；绘画展览；艺术展",
     "en": "exhibition of pictures; painting exhibition; art exhibition",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39092,7 +35835,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "照片展；照片展览；摄影展；摄影展",
     "en": "photo exhibition; exhibition of photographs; photograph exhibition; photographic exhibition",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39104,7 +35846,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "特别展览（博物馆等）",
     "en": "special exhibition (at museum, etc.)",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39116,7 +35857,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "不确定点；未澄清的问题；怀疑",
     "en": "point of uncertainty; unclarified issue; doubt",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39128,7 +35868,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "起点；出发点",
     "en": "starting point; point of departure",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39140,7 +35879,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "重要的一点；需要注意的一点",
     "en": "important point; point to make note of",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39152,7 +35890,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "变更之处；修改点",
     "en": "changed point; modification",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39164,7 +35901,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "问题（有争议的）；争议点；有问题的问题；问题",
     "en": "the problem (at issue); the point at issue; problematic issue; problem",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39176,7 +35912,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "符合预期；正如预期的那样；在假设或假设的范围内",
     "en": "within expectations; as expected; within the scope of hypothesis or assumption",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39188,7 +35923,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "数据内；在数据中",
     "en": "within the data",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39200,7 +35934,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "预算范围内",
     "en": "within budget",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39212,7 +35945,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "九点出发",
     "en": "departing at nine o'clock",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39224,7 +35956,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "从东京站出发",
     "en": "departing from Tokyo Station",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39236,7 +35967,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "脱离父母的独立",
     "en": "independence from parents",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39248,7 +35978,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "不真实；与现实脱节",
     "en": "unreality; becoming disconnected from reality",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39260,7 +35989,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "疏远阅读；不再爱读书",
     "en": "decline in reading; moving away from books",
-    "page": 85,
     "book": "n2"
   },
   {
@@ -39272,7 +36000,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "信息板；构建目录",
     "en": "information board; building directory",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39284,7 +36011,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "玻璃板；玻璃片",
     "en": "glass sheet; pane of glass",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39296,7 +36022,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "布告栏；显示板；布告栏；电子公告板；论坛",
     "en": "bulletin board; display board; notice board; electronic bulletin board; BBS",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39308,7 +36033,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "建筑（建筑）成本",
     "en": "construction (building) costs",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39320,7 +36044,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "燃料和照明成本；热力和电力成本；能源账单；公用事业成本",
     "en": "cost of fuel and lighting; cost of heat and electricity; energy bill; utility cost",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39332,7 +36055,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "材料成本",
     "en": "cost of materials",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39344,7 +36066,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "修理费；维修费用",
     "en": "repair fee; cost of repairs",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39356,7 +36077,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "伙食费；吃饭的钱；食宿费",
     "en": "food expenses; money for food; charge for board",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39368,7 +36088,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "邮费；邮寄费用",
     "en": "postage cost; mailing cost",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39380,7 +36099,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "住宿费（住宿舍费用）；住宿费",
     "en": "boarding expenses (for staying at a dormitory); lodging charge",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39392,7 +36110,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "座位表",
     "en": "seating chart",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39404,7 +36121,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "时间表；行程",
     "en": "schedule; itinerary",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39416,7 +36132,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "时间表；程序；程序；行程",
     "en": "schedule; program; programme; itinerary",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39428,7 +36143,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "公司职员般的打扮；上班族风格",
     "en": "office-worker style; office-worker appearance",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39440,7 +36154,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "商务人士般的打扮",
     "en": "businessperson-like style or appearance",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39452,7 +36165,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "日式风格；微风；微风",
     "en": "Japanese style; light wind; moderate breeze",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39464,7 +36176,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "销售部",
     "en": "sales department",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39476,7 +36187,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "规划部",
     "en": "planning department",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39488,7 +36198,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "田径俱乐部",
     "en": "track and field club",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39500,7 +36209,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "印刷品",
     "en": "printed matter",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39512,7 +36220,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "建筑物；结构",
     "en": "building; structure",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39524,7 +36231,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "人造物体；人造物体；人工制品；人工制品",
     "en": "artificial object; man-made object; artifact; artefact",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39536,7 +36242,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "目标物；对象物",
     "en": "target object; object of interest",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39548,7 +36253,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "邮寄物品；邮件",
     "en": "mailed item; postal item",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39560,7 +36264,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "按年级",
     "en": "by school year; by grade",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39572,7 +36275,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "按种类",
     "en": "by type; by category",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39584,7 +36286,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "按地区",
     "en": "by region",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39596,7 +36297,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "如何保持健康；如何保持健康；健康管理方法",
     "en": "how to keep fit; how to stay healthy; health management method",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39608,7 +36308,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "操作方法；操作程序",
     "en": "method of operation; operating procedure",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39620,7 +36319,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "应对方法；方法；如何处理（问题等）",
     "en": "coping method; approach; how to deal with (problem, etc.)",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39632,7 +36330,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "烹饪方法；烹饪方式；烹饪技术；食谱",
     "en": "method of cooking; way of cooking; cooking technique; recipe",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39644,7 +36341,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "稍大一些（数量）；相当多； （比平常多一点）；一点额外",
     "en": "somewhat larger (amount); quite a lot; a little more (than usual); a little extra",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39656,7 +36352,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "较小的；从小的方面",
     "en": "smallish; on the small side",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39668,7 +36363,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "稍粗；偏胖",
     "en": "plump; somewhat large",
-    "page": 86,
     "book": "n2"
   },
   {
@@ -39680,7 +36374,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "报价来源；引文来源；参考来源",
     "en": "quotation source; citation source; reference source",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39692,7 +36385,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "发件人；来源（传输的来源，例如电子邮件）",
     "en": "sender; source (of a transmission, e.g. email)",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39704,7 +36396,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "始创者",
     "en": "originator",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39716,7 +36407,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "就业率",
     "en": "employment rate",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39728,7 +36418,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "升读更高级别教育的比率",
     "en": "rate of advancement to the next higher level of education",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39740,7 +36429,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "成功率",
     "en": "success rate",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39752,7 +36440,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "选民投票率",
     "en": "voter turnout",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39764,7 +36451,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "美式；美国式做法",
     "en": "American style; American way",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39776,7 +36462,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "我行我素",
     "en": "one's own way",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39788,7 +36473,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "日式风格；日本时尚",
     "en": "Japanese style; Japanese fashion",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39800,7 +36484,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "势头；运动量",
     "en": "momentum; amount of exercise",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39812,7 +36495,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "工作量；工作量；工作率；生产单位",
     "en": "workload; quantity of work; work rate; units produced",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39824,7 +36506,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "消费金额",
     "en": "amount of consumption",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39836,7 +36517,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "产量；制造的商品数量",
     "en": "production output; number of goods manufactured",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39848,7 +36528,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "课程费用；学费",
     "en": "course fee; tuition fee",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39860,7 +36539,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "使用费；租金",
     "en": "use fee; rent",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39872,7 +36550,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "手续费",
     "en": "fee; charge (e.g. for a cancellation); commission; brokerage",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39884,7 +36561,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "影响力；影响力；杠杆",
     "en": "influence; clout; leverage",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39896,7 +36572,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "学力，学习实力",
     "en": "scholarly ability; scholarship; knowledge; literary ability",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39908,7 +36583,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "记忆；记忆能力",
     "en": "memory; ability to remember",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39920,7 +36594,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "语言学习能力；外语能力；语言能力",
     "en": "language learning ability; foreign language skills; linguistic ability",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39932,7 +36605,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "浓度；集中注意力的能力",
     "en": "concentration; ability to concentrate",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39944,7 +36616,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "主力；核心战力",
     "en": "main force; key player",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39956,7 +36627,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "活力；生命力",
     "en": "vitality; life force",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39968,7 +36638,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "说服力；说服力；说服力",
     "en": "persuasiveness; powers of persuasion; cogency",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39980,7 +36649,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "阅读理解；阅读和理解的能力",
     "en": "reading comprehension; ability to read and understand",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -39992,7 +36660,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "表达能力；表现力；表现力",
     "en": "power of expression; expressiveness; expressive power",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -40004,7 +36671,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "理解；综合师资力量",
     "en": "understanding; comprehensive faculty",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -40016,7 +36682,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "劳动；劳动；人手；劳动力",
     "en": "labor; labour; manpower; working force",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -40028,7 +36693,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "餐具；餐具",
     "en": "dinnerware; cutlery",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -40040,7 +36704,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "塑料类物品",
     "en": "plastic items; plastics",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -40052,7 +36715,6 @@ window.N2_VOCAB = [
     "category": "接尾辞",
     "cn": "易碎物品类",
     "en": "breakable items; fragile goods",
-    "page": 87,
     "book": "n2"
   },
   {
@@ -40064,7 +36726,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "推到明天；留到明天处理",
     "en": "to put off until tomorrow",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40076,7 +36737,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "费心；顾虑；照顾他人感受",
     "en": "to worry (about); to fuss (over); to be careful (about); to pay attention (to); to take (good) care of",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40088,7 +36748,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "钦佩；令人敬服",
     "en": "to admire greatly; to salute (in admiration); to take one's hat off to",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40100,7 +36759,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "被吸引注意；分心",
     "en": "to have one's attention caught (by); to be distracted (by); to be preoccupied (with); to be captivated (by); to be absorbed (in)",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40112,7 +36770,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "生气；恼火",
     "en": "to get angry; to get mad; to lose one's temper; to fly into a rage; to blow one's top; to go straight to one's head (of alcohol)",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40124,7 +36781,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "不高兴；感到不快",
     "en": "to take offense (at); to take offence (at); to feel hurt (by)",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40136,7 +36792,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "记住；理解",
     "en": "to comprehend; to understand; to enter one's head",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40148,7 +36803,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "搭话；招呼；叫住",
     "en": "to greet; to call out (to); to start talking (to); to invite; to get in touch (with); to give a shout (to)",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40160,7 +36814,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "所有的；一切的",
     "en": "every; all possible",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40172,7 +36825,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "打动人心；感动",
     "en": "to touch (a person's) heart; to impress (a person)",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40184,7 +36836,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "一石二鸟",
     "en": "killing two birds with one stone",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40196,7 +36847,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "下午一开始；下午第一件事",
     "en": "first thing in the afternoon",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40208,7 +36858,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "对自己的本领有信心",
     "en": "to be confident in one's skill",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40220,7 +36869,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "没有妨碍；没关系",
     "en": "no objection; allowable",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40232,7 +36880,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "涉及金钱；牵涉利益",
     "en": "to involve money; for money to be at stake",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40244,7 +36891,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "鸦雀无声；安静下来",
     "en": "to become completely quiet",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40256,7 +36902,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "取钱；提款",
     "en": "to withdraw money; to take money out",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40268,7 +36913,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "消磨时间",
     "en": "to kill time",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40280,7 +36924,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "把整钱换开；换零钱",
     "en": "to break a large bill; to get change",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40292,7 +36935,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "占用时间；花时间",
     "en": "to take the time (to do); to set aside time (for)",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40304,7 +36946,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "给人感觉不好；态度差",
     "en": "to give a bad impression; to be unpleasant",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40316,7 +36957,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "暂时离席；不在座位",
     "en": "to leave one's seat; to temporarily excuse oneself (from a meeting, etc.); to step outside; to be away (from one's desk, etc.)",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40328,7 +36968,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "心情沉重；感到有压力",
     "en": "to feel weighed down; to become reluctant",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40340,7 +36979,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "听人商量；提供建议",
     "en": "to give advice; to counsel; to take part in a consultation",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40352,7 +36990,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "机灵；体贴；考虑周到",
     "en": "to be sensible; to be smart; to be tasteful; to be thoughtful; to be tactful; to be sensitive",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40364,7 +37001,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "了不起的；相当大的",
     "en": "considerable; great; important; significant; a big deal",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40376,7 +37012,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "心满意足；释怀",
     "en": "to be satisfied; to find peace of mind; to feel good",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40388,7 +37023,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "仅仅，只不过",
     "en": "mere; simple; sheer",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40400,7 +37034,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "感觉；觉得",
     "en": "to feel (as if); to have a feeling (that); to have a hunch (that); to get a sense (that); to feel like doing; to want to do",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40412,7 +37045,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "忙得腾不出手；竭尽全力",
     "en": "having one's hands full; not having any room to do more; at the limit",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40424,7 +37056,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "分心；注意力不集中",
     "en": "to get distracted; to jump off the track",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40436,7 +37067,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "腾出手来；有空",
     "en": "to be free; to be available",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40448,7 +37078,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "有心情；愿意",
     "en": "to feel like; to feel inclined to do",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40460,7 +37089,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "得到；弄到手",
     "en": "to obtain; to get; to procure; to win; to secure",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40472,7 +37100,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "喜欢，中意",
     "en": "to like; to be pleased with; to be delighted with; to take a liking to; to suit one's fancy",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40484,7 +37111,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "拿在手中；得到",
     "en": "to hold (in one's hand); to take (into one's hand); to own; to obtain",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40496,7 +37122,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "介意；在意；担心",
     "en": "to mind (negative nuance); to care about; to worry; to pay undue (amount of) attention to (something)",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40508,7 +37133,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "能着手做；能专心做",
     "en": "to be able to concentrate on; to get down to",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40520,7 +37144,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "在意；挂念；感兴趣",
     "en": "to weigh on one's mind; to bother one; to worry about; to be concerned about; to care about; to feel uneasy",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40532,7 +37155,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "拿在手里；取来",
     "en": "to take in one's hand; to pick up; to obtain",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40544,7 +37166,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "吸引兴趣；引起某人的兴趣",
     "en": "to attract interest; to arouse someone's interest",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40556,7 +37177,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "到手；得到",
     "en": "to obtain; to come into possession of; to get hold of; to get one's hands on",
-    "page": 88,
     "book": "n2"
   },
   {
@@ -40568,7 +37188,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "手脚麻利；迅速",
     "en": "nimble; quick; agile",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40580,7 +37199,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "赶得上；来得及；够用",
     "en": "to be in time (for); to serve (suit, meet) the purpose; to be good enough; to be enough; to manage; to make do",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40592,7 +37210,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "伸出援助之手；帮助",
     "en": "to lend a hand; to help",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40604,7 +37221,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "专心投入；起劲",
     "en": "to give one's everything; to make one's best effort; to be enthused; to put your back into it",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40616,7 +37232,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "着眼长远",
     "en": "to look at the long term",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40628,7 +37243,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "认错；变得判若两人",
     "en": "to mistake (for something or someone else); to be unable to recognize",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40640,7 +37254,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "照看行李",
     "en": "to look after someone's luggage",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40652,7 +37265,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "掌握；学会；附着",
     "en": "to master (e.g. a skill); to become accustomed to (e.g. a lifestyle); to acquire (e.g. a habit); to retain",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40664,7 +37276,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "亲身感受；切身体会",
     "en": "to understand from experience",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40676,7 +37287,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "掌握；学会；穿戴",
     "en": "to learn; to acquire knowledge; to carry; to wear (clothes, etc.); to put on",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40688,7 +37298,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "谈得来；投机",
     "en": "to see eye to eye; to be on the same wavelength; to talk the same language",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40700,7 +37309,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "听到；耳闻",
     "en": "to hear; to hear by chance; to hear by accident; to catch (the sound)",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40712,7 +37320,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "谈话推进；事情有进展",
     "en": "for talks or arrangements to progress",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40724,7 +37331,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "听到；传入耳中",
     "en": "to reach one's ears; to come to one's knowledge; to hear about; to learn of (by chance); to enter one's ears (e.g. of water)",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40736,7 +37342,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "敲定细节；深入商谈",
     "en": "to work out the details; to finalize talks",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40748,7 +37353,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "倾听；认真听",
     "en": "to lend an ear; to hearken; to give an ear to; to listen carefully",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40760,7 +37364,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "生气；恼火",
     "en": "to get angry; to take offense; to take offence; to be furious",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40772,7 +37375,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "去看；见证；观察；看到；瞥见；遇到",
     "en": "to see; to witness; to observe; to catch sight of; to get a glimpse of; to encounter",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40784,7 +37386,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "引人注目；注意到；吸引眼球",
     "en": "to be noticeable; to notice; to catch one's eye",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40796,7 +37397,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "告一段落",
     "en": "to reach a stopping point; to settle down",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40808,7 +37408,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "映入眼帘；被看到",
     "en": "to catch the eye; to attract attention",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40820,7 +37419,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "从很久以前开始；自古以来；自古以来",
     "en": "from long ago; from old times; from time immemorial",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40832,7 +37430,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "着眼点；关注点",
     "en": "focus of one's attention; what one is looking for; viewpoint; point one is trying to make",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40844,7 +37441,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "置之不理；放着不管",
     "en": "to leave alone; to leave as is; to ignore; to neglect",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40856,7 +37452,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "看中；盯上；注意到",
     "en": "to have an eye on; to zero in on",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40868,7 +37463,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "仅仅；不过",
     "en": "mere; just; only",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40880,7 +37474,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "浏览；过目",
     "en": "to scan; to look over",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40892,7 +37485,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "不冷场；能维持场面",
     "en": "to keep a conversation or situation going",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40904,7 +37496,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "切勿疏忽大意",
     "en": "don't let your guard down; carelessness is the great enemy; danger comes soonest when it is despised",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40916,7 +37507,6 @@ window.N2_VOCAB = [
     "category": "慣用表現・その他",
     "cn": "落幕；结束",
     "en": "to lower the curtain (at the end of a play); to come to an end; to finish",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40928,7 +37518,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "亲自前往；造访",
     "en": "to go (to); to make one's way (to); to visit",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40940,7 +37529,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "在；来；去（尊敬语）",
     "en": "to be; to come; to go (honorific)",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40952,7 +37540,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "拜访；请教",
     "en": "to call on someone; to call at a place; to pay a visit; to wait on someone; to ask; to inquire",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40964,7 +37551,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "代为保管；收下（谦让语）",
     "en": "to keep in one's care; to receive (humble)",
-    "page": 89,
     "book": "n2"
   },
   {
@@ -40976,7 +37562,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "请别费心；不用招待",
     "en": "please don't fuss over me; don't go to any trouble; don't bother",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -40988,7 +37573,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "您的心意；您的感受",
     "en": "your feelings; your kind thought",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41000,7 +37584,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "各位顾客；尊敬的顾客",
     "en": "dear customers; to all customers",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41012,7 +37595,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "光临；前来（尊敬语）",
     "en": "to come; to go",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41024,7 +37606,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "不好意思；惶恐；感激",
     "en": "to be sorry; to beg someone's pardon; to feel small; to be much obliged; to be grateful; to be thankful",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41036,7 +37617,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "收到您的回复",
     "en": "to receive a reply",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41048,7 +37628,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "正在等候（敬语）",
     "en": "to be waiting (honorific)",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41060,7 +37639,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "光临；来到（尊敬语）",
     "en": "to arrive; to come",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41072,7 +37650,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "贵店",
     "en": "your store; your shop",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41084,7 +37661,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "实在不好意思；惶恐",
     "en": "I am sorry to trouble you; I am much obliged",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41096,7 +37672,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "请勿；请您克制",
     "en": "to ask someone to refrain",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41108,7 +37683,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "知道；了解（尊敬语）",
     "en": "to know; to be aware (honorific)",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41120,7 +37694,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "负责人阁下；尊敬的负责人",
     "en": "person in charge (respectful form)",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41132,7 +37705,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "看；观看（尊敬语）",
     "en": "to see; to look; to watch; to try to ...",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41144,7 +37716,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "刚才；方才",
     "en": "a short while ago; a moment ago; just now; some time ago",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41156,7 +37727,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "非常抱歉；实在失礼了",
     "en": "I sincerely apologize; that was very rude of me",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41168,7 +37738,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "弊公司；本公司（谦称）",
     "en": "our company; our firm",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41180,7 +37749,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "去；来（谦让语）；认输",
     "en": "to go; to come; to lose; to be defeated; to give up; to be beaten",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41192,7 +37760,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "吃；喝（尊敬语）",
     "en": "to eat; to drink",
-    "page": 90,
     "book": "n2"
   },
   {
@@ -41204,7 +37771,6 @@ window.N2_VOCAB = [
     "category": "敬語",
     "cn": "说；告诉（谦让语）",
     "en": "to say; to tell; to state; to express; to offer; to extend (greetings, congratulations, etc.)",
-    "page": 90,
     "book": "n2"
   }
 ];

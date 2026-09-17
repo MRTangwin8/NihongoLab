@@ -36,21 +36,8 @@ for (const word of ['届け', '申し込む', '同意', '遂行', '需要']) {
 const n2 = readJson('n2_vocab.json');
 assert.equal(n2.length, 3434);
 assertContinuous(n2, 'N2');
-assert.equal(Math.min(...n2.map((item) => item.page)), 10);
-assert.equal(Math.max(...n2.map((item) => item.page)), 90);
-const expectedPageCounts = [
-  55, 42, 44, 44, 44, 44, 44, 44, 44, 44, 40, 44, 42, 44, 44, 40, 41, 40, 37, 55,
-  48, 55, 42, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44,
-  44, 39, 44, 44, 44, 44, 44, 32, 42, 44, 44, 44, 44, 39, 44, 43, 40, 40, 44, 44,
-  40, 44, 39, 53, 66, 65, 33, 37, 35, 32, 38, 33, 36, 38, 31, 36, 34, 32, 42, 34,
-  20
-];
-expectedPageCounts.forEach((expected, index) => {
-  const page = index + 10;
-  assert.equal(n2.filter((item) => item.page === page).length, expected, `N2 page ${page}`);
-});
 
-const forbiddenFields = ['pdfpage', 'cnSource', 'enSource', 'ex', 'exCn', 'audio'];
+const forbiddenFields = ['page', 'pdfpage', 'cnSource', 'enSource', 'ex', 'exCn', 'audio'];
 for (const [label, items] of [['EJU', eju], ['N2', n2]]) {
   for (const item of items) {
     assert.ok(item.w && item.r && item.cn && item.en, `${label} No.${item.n} has a blank core field`);
@@ -64,22 +51,33 @@ assert.deepEqual(loadDataScript('vocab.js', 'EJU_VOCAB'), eju);
 assert.deepEqual(loadDataScript('n2_vocab.js', 'N2_VOCAB'), n2);
 
 const browser = { EJU_VOCAB: eju, N2_VOCAB: n2 };
-const appContext = vm.createContext({ window: browser, console, setTimeout, clearTimeout });
+const appContext = vm.createContext({ window: browser, console, setTimeout, clearTimeout, Blob, TextEncoder, Uint8Array, Uint32Array });
 vm.runInContext(fs.readFileSync(path.join(root, 'app.js'), 'utf8'), appContext);
 const core = browser.EjuCore;
 core.setBook('n2');
-assert.equal(core.inRange(10, 10, 'page').length, 55);
-assert.equal(core.inRange(10, 19, 'page').length, 449);
-assert.equal(core.inRange(90, 90, 'page').length, 20);
-assert.equal(core.inRange(1, 55, 'number').length, 55);
+assert.equal(core.inRange(1, 55).length, 55);
+assert.equal(core.inRange(3400, 3434).length, 35);
+for (const type of ['k2r_sel', 'r2k_sel', 'k2c', 'c2k_sel']) {
+  const questions = core.makePaper(core.inRange(1, 200), [type], 20);
+  assert.equal(questions.length, 20, `${type} should create 20 questions`);
+  assert.ok(questions.every((question) => question.mode === 'choice' && question.options.length === 4));
+}
+
+vm.runInContext(fs.readFileSync(path.join(root, 'xlsx.js'), 'utf8'), appContext);
+const workbookBlob = browser.EjuXlsx.build([{
+  name: '试题', cols: [{ min: 1, max: 1, width: 20 }], merges: [], freeze: 'A7', landscape: true,
+  rows: [{ r: 1, h: 30, cells: [{ c: 1, s: 1, v: '测试' }] }]
+}]);
+const workbookBytes = new Uint8Array(await workbookBlob.arrayBuffer());
+const workbookText = new TextDecoder().decode(workbookBytes);
+assert.match(workbookText, /state="frozen"/);
+assert.match(workbookText, /orientation="landscape"/);
+assert.match(workbookText, /fitToWidth="1"/);
 
 let exported = null;
-browser.EjuXlsx = {
-  build(sheets) { return sheets; },
-  download(workbook, filename) { exported = { workbook, filename }; }
-};
-core.exportList(core.inRange(10, 10, 'page'), { mode: 'page', start: 10, end: 10 });
-assert.equal(exported.filename, 'N2_单词表_p10-10.xlsx');
-assert.match(exported.workbook[0].rows[0].cells[0].v, /书上第10—10页/);
+browser.EjuXlsx.download = (workbook, filename) => { exported = { workbook, filename }; };
+core.exportList(core.inRange(1, 55));
+assert.equal(exported.filename, 'N2_单词表_1-55.xlsx');
+assert.ok(exported.workbook instanceof Blob);
 
-console.log('Vocabulary checks passed: EJU 3200, N2 3434, book pages 10-90.');
+console.log('Vocabulary checks passed: EJU 3200, N2 3434, no source-page metadata.');

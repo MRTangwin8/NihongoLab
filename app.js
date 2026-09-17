@@ -186,6 +186,24 @@
     return opts;
   }
 
+  function meaningWordOptions(item, pool) {
+    var answer = withSuru(item.w, item.suru);
+    var candidates = pool.filter(function (other) {
+      return other.n !== item.n && other.w && other.cn && other.cn !== item.cn;
+    });
+    var samePos = candidates.filter(function (other) { return other.posStd === item.posStd || other.pos === item.pos; });
+    shuffle(samePos); shuffle(candidates);
+    var options = [answer], seen = {};
+    seen[norm(answer)] = true;
+    samePos.concat(candidates).some(function (other) {
+      var value = withSuru(other.w, other.suru), key = norm(value);
+      if (!key || seen[key]) return false;
+      seen[key] = true; options.push(value);
+      return options.length >= 4;
+    });
+    return options.length === 4 ? shuffle(options) : null;
+  }
+
 
   /* ---------- near-miss options for the 汉字 <-> 假名 choice questions ----------
      Distractors are generated, never taken from a word list: a mix of edits that
@@ -379,6 +397,13 @@
       if (norm(item.cn) === norm(w)) return null;   /* e.g. 慈善 -> 慈善: nothing to ask */
       return { type: type, label: '写单词', prompt: item.cn, answer: w, item: item, mode: 'input' };
     }
+    if (type === 'c2k_sel') {
+      if (!item.cn || !item.w || item.cn.length > 30 || norm(item.cn) === norm(w)) return null;
+      var wopts = meaningWordOptions(item, pool);
+      if (!wopts) return null;
+      return { type: type, label: '选单词', prompt: item.cn, answer: w,
+        options: wopts, item: item, mode: 'choice' };
+    }
     if (type === 'fill') {
       var ex = item.ex || '';
       if (!ex || !item.w) return null;
@@ -425,10 +450,11 @@
 
   function buildSheet(title, subtitle, infoCells, rows, half, headers, small) {
     var sheet = { name: '', cols: [
-      { min: 1, max: 1, width: 6 }, { min: 2, max: 2, width: 10 }, { min: 3, max: 3, width: 18 },
-      { min: 4, max: 4, width: 21 }, { min: 5, max: 5, width: 3 }, { min: 6, max: 6, width: 6 },
-      { min: 7, max: 7, width: 10 }, { min: 8, max: 8, width: 18 }, { min: 9, max: 9, width: 21 }
-    ], merges: ['A1:I1', 'A2:I2', 'A4:B4', 'C4:D4', 'F4:G4', 'H4:I4'], rows: [] };
+      { min: 1, max: 1, width: 6 }, { min: 2, max: 2, width: 10 }, { min: 3, max: 3, width: 21 },
+      { min: 4, max: 4, width: 24 }, { min: 5, max: 5, width: 3 }, { min: 6, max: 6, width: 6 },
+      { min: 7, max: 7, width: 10 }, { min: 8, max: 8, width: 21 }, { min: 9, max: 9, width: 24 }
+    ], merges: ['A1:I1', 'A2:I2', 'A4:B4', 'C4:D4', 'F4:G4', 'H4:I4'], rows: [],
+      freeze: 'A7', landscape: true, fitToWidth: 1 };
 
     sheet.rows.push({ r: 1, h: 34, cells: [{ c: 1, v: title, s: 1 }] });
     sheet.rows.push({ r: 2, h: 22, cells: [{ c: 1, v: subtitle, s: 2 }] });
@@ -457,7 +483,7 @@
       } else {
         cells.push({ c: 6, v: null, s: 5 }, { c: 7, v: null, s: 5 }, { c: 8, v: null, s: 5 }, { c: 9, v: null, s: 5 });
       }
-      sheet.rows.push({ r: 7 + i, h: 26, cells: cells });
+      sheet.rows.push({ r: 7 + i, h: 30, cells: cells });
     }
     var footRow = 7 + half + 1;
     sheet.merges.push('A' + footRow + ':I' + footRow);
@@ -470,8 +496,7 @@
     if (!qs.length) { alert('当前范围与题型下没有可用题目。'); return; }
     var n = qs.length;
     var half = Math.ceil(n / 2);
-    var selection = arguments.length > 3 ? arguments[3] : null;
-    var range = rangeInfo(list, selection);
+    var range = rangeInfo(list);
 
     var AB = 'ABCD';
     var qRows = qs.map(function (q) {
@@ -495,10 +520,10 @@
     var bookLabel = activeBook && activeBook.label ? activeBook.label : '日语词汇';
     var sourceLabel = bookLabel;
     var q = buildSheet(bookLabel + '｜随机测试｜' + n + '题（' + range.shortLabel + '）',
-      '请根据题型填写读音或汉字｜每题1分，共' + n + '分',
+      '请根据题型填写读音、汉字或单词｜每题1分，共' + n + '分',
       ['姓名：', '日期：', '得分：', '／' + n], qRows, half, '作答');
     var a = buildSheet(bookLabel + '｜随机测试｜参考答案（' + range.shortLabel + '）',
-      '请根据题型填写读音或汉字｜每题1分，共' + n + '分',
+      '请根据题型填写读音、汉字或单词｜每题1分，共' + n + '分',
       ['范围：' + range.label, '来源：' + sourceLabel, '题数：' + n + '题',
         '配比：' + half + '＋' + (n - half)],
       aRows, half, '答案', true);
@@ -520,11 +545,11 @@
   var LIST_HEAD = ['No.', '\u5355\u8bcd', '\u8bfb\u97f3', '\u8bcd\u6027', '\u4e2d\u6587',
                    '\u82f1\u6587', '\u4f8b\u53e5', '\u4f8b\u53e5\u8bd1\u6587'];
 
-  function exportList(list, selection) {
+  function exportList(list) {
     if (!list.length) { alert('\u8be5\u8303\u56f4\u5185\u6ca1\u6709\u5355\u8bcd\u3002'); return; }
     var X = window.EjuXlsx;
     if (!X || !X.build) { alert('\u5bfc\u51fa\u6a21\u5757\u672a\u52a0\u8f7d\u3002'); return; }
-    var range = rangeInfo(list, selection);
+    var range = rangeInfo(list);
     var sheet = {
       name: '\u5355\u8bcd\u8868',
       cols: [{ min: 1, max: 1, width: 6 }, { min: 2, max: 2, width: 16 },
@@ -549,28 +574,25 @@
   }
 
   /* ---------- range helpers ---------- */
-  function rangeInfo(list, selection) {
-    var byPage = activeBook && activeBook.id === 'n2' && selection && selection.mode === 'page';
-    var values = list.map(function (item) { return byPage ? item.page : item.n; })
+  function rangeInfo(list) {
+    var values = list.map(function (item) { return item.n; })
       .filter(function (value) { return typeof value === 'number' && isFinite(value); });
     var fallbackStart = values.length ? Math.min.apply(Math, values) : '';
     var fallbackEnd = values.length ? Math.max.apply(Math, values) : '';
-    var start = selection && isFinite(selection.start) ? selection.start : fallbackStart;
-    var end = selection && isFinite(selection.end) ? selection.end : fallbackEnd;
+    var start = fallbackStart;
+    var end = fallbackEnd;
     return {
       start: start,
       end: end,
-      label: byPage ? '书上第' + start + '—' + end + '页' : '第' + start + '—' + end + '词',
-      shortLabel: byPage ? '书页' + start + '—' + end : start + '—' + end,
-      fileToken: byPage ? 'p' + start + '-' + end : start + '-' + end
+      label: '第' + start + '—' + end + '词',
+      shortLabel: start + '—' + end,
+      fileToken: start + '-' + end
     };
   }
 
-  function inRange(a, b, mode) {
-    var byPage = activeBook && activeBook.id === 'n2' && mode === 'page';
+  function inRange(a, b) {
     return VOCAB.filter(function (v) {
-      var value = byPage ? v.page : v.n;
-      return typeof value === 'number' && value >= a && value <= b;
+      return v.n >= a && v.n <= b;
     });
   }
 
