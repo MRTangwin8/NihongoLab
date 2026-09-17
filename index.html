@@ -45,6 +45,10 @@
   .btn.ghost{background:var(--surface);color:var(--navy)}
   .btn.ghost:hover{background:var(--soft)}
   .btn:disabled{opacity:.45;cursor:default}
+  .range-mode{display:inline-flex;border:1px solid var(--line);border-radius:7px;overflow:hidden;background:var(--surface)}
+  .range-mode button{font:inherit;font-size:13px;padding:6px 12px;border:0;border-right:1px solid var(--line);background:var(--surface);color:var(--muted);cursor:pointer}
+  .range-mode button:last-child{border-right:0}
+  .range-mode button.on{background:var(--navy);color:var(--on-primary)}
   .chips{display:flex;flex-wrap:wrap;gap:8px}
   .chip{font-size:13px;border:1px solid var(--line);border-radius:20px;padding:5px 13px;cursor:pointer;
     user-select:none;background:var(--surface);color:var(--muted)}
@@ -197,7 +201,11 @@
       <select id="posFilter" class="filter-select"><option value="all">全部词性</option></select>
     </div>
     <div class="row">
-      <label class="lb">范围</label>
+      <label class="lb" id="rangeLabel">序号范围</label>
+      <div class="range-mode hide" id="rangeMode" role="group" aria-label="范围单位">
+        <button type="button" class="on" data-range-mode="number">序号</button>
+        <button type="button" data-range-mode="page">书页</button>
+      </div>
       <select id="bucket"><option value="custom">自定义</option></select>
       <input type="number" id="start" value="1" min="1" max="80">
       <span class="muted">—</span>
@@ -340,10 +348,32 @@
   var $ = function (id) { return document.getElementById(id); };
   var startEl = $('start'), endEl = $('end'), bucketEl = $('bucket'), countEl = $('count');
   var bookEl = $('book'), categoryEl = $('category'), posEl = $('posFilter');
+  var rangeModeEl = $('rangeMode'), rangeMode = 'number';
   var pool = [], quiz = [], qi = 0, correct = 0, wrongs = [], answered = false, flow = null;
   var studyState = C.loadStudyState(), studyList = [], studyQueue = [], studyIndex = 0, studyRevealed = false;
 
-  function maxNumber() { return V.length ? V[V.length - 1].n : 1; }
+  function rangeBounds() {
+    var byPage = rangeMode === 'page' && C.getBook().id === 'n2';
+    var values = V.map(function (item) { return byPage ? item.page : item.n; })
+      .filter(function (value) { return typeof value === 'number' && isFinite(value); });
+    return {
+      min: values.length ? Math.min.apply(Math, values) : 1,
+      max: values.length ? Math.max.apply(Math, values) : 1
+    };
+  }
+
+  function rangeSelection() {
+    return {
+      mode: rangeMode,
+      start: parseInt(startEl.value, 10),
+      end: parseInt(endEl.value, 10)
+    };
+  }
+
+  function rangeText() {
+    return rangeMode === 'page' ? '书上第 ' + startEl.value + '—' + endEl.value + ' 页' :
+      '第 ' + startEl.value + '—' + endEl.value + ' 词';
+  }
 
   function fillSelect(select, values, allLabel) {
     select.innerHTML = '<option value="all">' + allLabel + '</option>';
@@ -355,9 +385,10 @@
 
   function rebuildBuckets() {
     bucketEl.innerHTML = '<option value="custom">自定义</option>';
-    var maximum = maxNumber();
-    for (var s = 1; s <= maximum; s += 100) {
-      var e = Math.min(s + 99, maximum);
+    var bounds = rangeBounds();
+    var size = rangeMode === 'page' ? 10 : 100;
+    for (var s = bounds.min; s <= bounds.max; s += size) {
+      var e = Math.min(s + size - 1, bounds.max);
       var o = document.createElement('option');
       o.value = s + '-' + e;
       o.textContent = s + ' – ' + e;
@@ -374,6 +405,13 @@
   function selectBook(id) {
     V = C.setBook(id);
     var book = C.getBook();
+    rangeMode = book.id === 'n2' ? 'page' : 'number';
+    rangeModeEl.classList.toggle('hide', book.id !== 'n2');
+    Array.prototype.forEach.call(rangeModeEl.querySelectorAll('button'), function (button) {
+      button.classList.toggle('on', button.dataset.rangeMode === rangeMode);
+    });
+    $('rangeLabel').textContent = rangeMode === 'page' ? '书页范围' : '序号范围';
+    $('randRange').textContent = rangeMode === 'page' ? '随机取 5 页' : '随机取一段（约100词）';
     $('bookSubtitle').textContent = book.label + '　共 ' + V.length + ' 词';
     document.title = book.label + ' · 日语学习工具';
     var categories = Array.from(new Set(V.map(function (item) { return item.category; }).filter(Boolean))).sort();
@@ -381,8 +419,11 @@
     fillSelect(categoryEl, categories, '全部类别');
     fillSelect(posEl, positions, '全部词性');
     rebuildBuckets();
-    startEl.max = maxNumber(); endEl.max = maxNumber();
-    startEl.value = 1; endEl.value = Math.min(100, maxNumber());
+    var bounds = rangeBounds();
+    startEl.min = bounds.min; endEl.min = bounds.min;
+    startEl.max = bounds.max; endEl.max = bounds.max;
+    startEl.value = bounds.min;
+    endEl.value = Math.min(bounds.min + (rangeMode === 'page' ? 9 : 99), bounds.max);
     var hasExamples = V.some(function (item) { return !!(item.ex && item.ex.trim()); });
     var hasListening = !!(window.speechSynthesis && window.SpeechSynthesisUtterance);
     Array.prototype.forEach.call(document.querySelectorAll('.chip'), function (chip) {
@@ -398,6 +439,23 @@
   bookEl.addEventListener('change', function () { selectBook(bookEl.value); });
   categoryEl.addEventListener('change', refreshPool);
   posEl.addEventListener('change', refreshPool);
+  rangeModeEl.addEventListener('click', function (event) {
+    var button = event.target.closest('button[data-range-mode]');
+    if (!button || C.getBook().id !== 'n2') return;
+    rangeMode = button.dataset.rangeMode;
+    Array.prototype.forEach.call(rangeModeEl.querySelectorAll('button'), function (item) {
+      item.classList.toggle('on', item === button);
+    });
+    $('rangeLabel').textContent = rangeMode === 'page' ? '书页范围' : '序号范围';
+    $('randRange').textContent = rangeMode === 'page' ? '随机取 5 页' : '随机取一段（约100词）';
+    rebuildBuckets();
+    var bounds = rangeBounds();
+    startEl.min = bounds.min; endEl.min = bounds.min;
+    startEl.max = bounds.max; endEl.max = bounds.max;
+    startEl.value = bounds.min;
+    endEl.value = Math.min(bounds.min + (rangeMode === 'page' ? 9 : 99), bounds.max);
+    refreshPool();
+  });
   bucketEl.addEventListener('change', function () {
     if (bucketEl.value === 'custom') return;
     var p = bucketEl.value.split('-');
@@ -405,12 +463,13 @@
   });
 
   function refreshPool() {
-    var maximum = maxNumber();
-    var a = parseInt(startEl.value || '1', 10), b = parseInt(endEl.value || String(maximum), 10);
-    if (isNaN(a)) a = 1; if (isNaN(b)) b = maximum;
-    if (a < 1) a = 1; if (b > maximum) b = maximum;
+    var bounds = rangeBounds();
+    var a = parseInt(startEl.value || String(bounds.min), 10), b = parseInt(endEl.value || String(bounds.max), 10);
+    if (isNaN(a)) a = bounds.min; if (isNaN(b)) b = bounds.max;
+    if (a < bounds.min) a = bounds.min; if (b > bounds.max) b = bounds.max;
     if (b < a) { var t = a; a = b; b = t; startEl.value = a; endEl.value = b; }
-    pool = C.inRange(a, b).filter(function (item) {
+    startEl.value = a; endEl.value = b;
+    pool = C.inRange(a, b, rangeMode).filter(function (item) {
       return (categoryEl.value === 'all' || item.category === categoryEl.value) &&
         (posEl.value === 'all' || item.posStd === posEl.value);
     });
@@ -431,9 +490,10 @@
   endEl.addEventListener('input', refreshPool);
 
   $('randRange').addEventListener('click', function () {
-    var maximum = maxNumber();
-    var s = 1 + Math.floor(Math.random() * Math.max(1, maximum - 99));
-    startEl.value = s; endEl.value = Math.min(s + 99, maximum); refreshPool();
+    var bounds = rangeBounds();
+    var span = rangeMode === 'page' ? 4 : 99;
+    var s = bounds.min + Math.floor(Math.random() * Math.max(1, bounds.max - bounds.min - span + 1));
+    startEl.value = s; endEl.value = Math.min(s + span, bounds.max); refreshPool();
   });
 
   /* --- type chips --- */
@@ -715,7 +775,7 @@
   function doExport() {
     refreshPool();
     if (!pool.length) { alert('该范围内没有单词。'); return; }
-    C.exportPaper(pool, activeTypes(), wantCount());
+    C.exportPaper(pool, activeTypes(), wantCount(), rangeSelection());
   }
   $('qplay').addEventListener('click', function () { C.speakWord(quiz[qi].item.n); });
   $('listBox').addEventListener('click', function (e) {
@@ -723,7 +783,7 @@
     if (b && b.dataset.n) C.speakWord(parseInt(b.dataset.n, 10));
   });
   $('exportBtn').addEventListener('click', doExport);
-  $('listExportBtn').addEventListener('click', function () { refreshPool(); C.exportList(pool); });
+  $('listExportBtn').addEventListener('click', function () { refreshPool(); C.exportList(pool, rangeSelection()); });
   $('exportBtn2').addEventListener('click', doExport);
   $('begin').addEventListener('click', startQuiz);
   $('again').addEventListener('click', startQuiz);
@@ -733,17 +793,18 @@
     refreshPool();
     var card = $('listCard');
     if (wasOpen) { card.classList.add('hide'); return; }
-    $('listMeta').textContent = '第 ' + startEl.value + '—' + endEl.value + ' 词，共 ' + pool.length + ' 词';
+    $('listMeta').textContent = rangeText() + '，共 ' + pool.length + ' 词';
     var withMeaning = pool.some(function (v) { return v.cn || v.en; });
+    var withPage = C.getBook().id === 'n2' && pool.some(function (v) { return typeof v.page === 'number'; });
     var rows = pool.map(function (v) {
       return '<tr><td class="num">' + v.n + '</td><td>' +
         (C.hasSpeech && C.hasSpeech(v.n) ? '<button class="playb" data-n="' + v.n + '" title="播放读音">🔊</button>' : '') +
-        '</td><td class="w">' + esc(C.withSuru(v.w, v.suru)) +
+        '</td>' + (withPage ? '<td class="num">' + v.page + '</td>' : '') + '<td class="w">' + esc(C.withSuru(v.w, v.suru)) +
         '</td><td class="r">' + esc(C.withSuru(v.r || '', v.suru)) + '</td><td class="muted">' + esc(v.posStd || v.pos || '') + '</td>' +
         (withMeaning ? '<td>' + esc(v.cn || '') + '</td><td class="muted">' + esc(v.en || '') + '</td>' : '') +
         '</tr>';
     }).join('');
-    $('listBox').innerHTML = '<table><thead><tr><th>№</th><th></th><th>单词</th><th>读音</th><th>词性</th>' +
+    $('listBox').innerHTML = '<table><thead><tr><th>№</th><th></th>' + (withPage ? '<th>书页</th>' : '') + '<th>单词</th><th>读音</th><th>词性</th>' +
       (withMeaning ? '<th>意思</th><th>英文</th>' : '') + '</tr></thead><tbody>' +
       rows + '</tbody></table>';
     card.classList.remove('hide');

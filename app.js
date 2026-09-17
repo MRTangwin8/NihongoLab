@@ -470,8 +470,8 @@
     if (!qs.length) { alert('当前范围与题型下没有可用题目。'); return; }
     var n = qs.length;
     var half = Math.ceil(n / 2);
-    var start = list.length ? list[0].n : '';
-    var end = list.length ? list[list.length - 1].n : '';
+    var selection = arguments.length > 3 ? arguments[3] : null;
+    var range = rangeInfo(list, selection);
 
     var AB = 'ABCD';
     var qRows = qs.map(function (q) {
@@ -494,17 +494,17 @@
 
     var bookLabel = activeBook && activeBook.label ? activeBook.label : '日语词汇';
     var sourceLabel = bookLabel;
-    var q = buildSheet(bookLabel + '｜随机测试｜' + n + '题（' + start + '—' + end + '）',
+    var q = buildSheet(bookLabel + '｜随机测试｜' + n + '题（' + range.shortLabel + '）',
       '请根据题型填写读音或汉字｜每题1分，共' + n + '分',
       ['姓名：', '日期：', '得分：', '／' + n], qRows, half, '作答');
-    var a = buildSheet(bookLabel + '｜随机测试｜参考答案（' + start + '—' + end + '）',
+    var a = buildSheet(bookLabel + '｜随机测试｜参考答案（' + range.shortLabel + '）',
       '请根据题型填写读音或汉字｜每题1分，共' + n + '分',
-      ['范围：第' + start + '—' + end + '词', '来源：' + sourceLabel, '题数：' + n + '题',
+      ['范围：' + range.label, '来源：' + sourceLabel, '题数：' + n + '题',
         '配比：' + half + '＋' + (n - half)],
       aRows, half, '答案', true);
 
-    var note = '抽题范围：《' + bookLabel + '》第' + start + '—' + end +
-      '词，共' + list.length + '词；纯片假名词不纳入汉字↔读音题型。';
+    var note = '抽题范围：《' + bookLabel + '》' + range.label +
+      '，共' + list.length + '词；纯片假名词不纳入汉字↔读音题型。';
     q.sheet.rows[q.sheet.rows.length - 1].cells[0].v = note;
     a.sheet.rows[a.sheet.rows.length - 1].cells[0].v = note;
 
@@ -512,7 +512,7 @@
     a.sheet.name = '答案';
 
     var blob = window.EjuXlsx.build([q.sheet, a.sheet]);
-    var fname = (activeBook ? activeBook.id.toUpperCase() : 'JLPT') + '_单词随机测试' + n + '题_' + start + '-' + end + '.xlsx';
+    var fname = (activeBook ? activeBook.id.toUpperCase() : 'JLPT') + '_单词随机测试' + n + '题_' + range.fileToken + '.xlsx';
     window.EjuXlsx.download(blob, fname);
   }
 
@@ -520,11 +520,11 @@
   var LIST_HEAD = ['No.', '\u5355\u8bcd', '\u8bfb\u97f3', '\u8bcd\u6027', '\u4e2d\u6587',
                    '\u82f1\u6587', '\u4f8b\u53e5', '\u4f8b\u53e5\u8bd1\u6587'];
 
-  function exportList(list) {
+  function exportList(list, selection) {
     if (!list.length) { alert('\u8be5\u8303\u56f4\u5185\u6ca1\u6709\u5355\u8bcd\u3002'); return; }
     var X = window.EjuXlsx;
     if (!X || !X.build) { alert('\u5bfc\u51fa\u6a21\u5757\u672a\u52a0\u8f7d\u3002'); return; }
-    var start = list[0].n, end = list[list.length - 1].n;
+    var range = rangeInfo(list, selection);
     var sheet = {
       name: '\u5355\u8bcd\u8868',
       cols: [{ min: 1, max: 1, width: 6 }, { min: 2, max: 2, width: 16 },
@@ -535,7 +535,7 @@
       rows: []
     };
     var listLabel = activeBook && activeBook.label ? activeBook.label : '\u65e5\u8bed\u8bcd\u6c47';
-    sheet.rows.push({ r: 1, h: 30, cells: [{ c: 1, s: 1, v: listLabel + ' \u00b7 \u5355\u8bcd\u8868\uff08\u7b2c' + start + '\u2014' + end + '\u8bcd\uff09' }] });
+    sheet.rows.push({ r: 1, h: 30, cells: [{ c: 1, s: 1, v: listLabel + ' \u00b7 \u5355\u8bcd\u8868\uff08' + range.label + '\uff09' }] });
     sheet.rows.push({ r: 2, h: 20, cells: [{ c: 1, s: 2, v: '\u5171 ' + list.length + ' \u8bcd\uff5c\u8bcd\u5934\u3001\u8bfb\u97f3\u3001\u8bcd\u6027\u3001\u4e2d\u82f1\u91ca\u4e49\u4e0e\u4f8b\u53e5\u4fe1\u606f\u3002' }] });
     sheet.rows.push({ r: 3, h: 22, cells: LIST_HEAD.map(function (t, i) { return { c: i + 1, s: 4, v: t }; }) });
     list.forEach(function (v, i) {
@@ -545,15 +545,36 @@
         { c: 5, s: 20, v: v.cn || '' }, { c: 6, s: 20, v: v.en || '' },
         { c: 7, s: 20, v: v.ex || '' }, { c: 8, s: 20, v: v.exCn || '' }] });
     });
-    X.download(X.build([sheet]), (activeBook ? activeBook.id.toUpperCase() : 'JLPT') + '_\u5355\u8bcd\u8868_' + start + '-' + end + '.xlsx');
+    X.download(X.build([sheet]), (activeBook ? activeBook.id.toUpperCase() : 'JLPT') + '_\u5355\u8bcd\u8868_' + range.fileToken + '.xlsx');
   }
 
   /* ---------- range helpers ---------- */
-  function inRange(a, b) {
-    return VOCAB.filter(function (v) { return v.n >= a && v.n <= b; });
+  function rangeInfo(list, selection) {
+    var byPage = activeBook && activeBook.id === 'n2' && selection && selection.mode === 'page';
+    var values = list.map(function (item) { return byPage ? item.page : item.n; })
+      .filter(function (value) { return typeof value === 'number' && isFinite(value); });
+    var fallbackStart = values.length ? Math.min.apply(Math, values) : '';
+    var fallbackEnd = values.length ? Math.max.apply(Math, values) : '';
+    var start = selection && isFinite(selection.start) ? selection.start : fallbackStart;
+    var end = selection && isFinite(selection.end) ? selection.end : fallbackEnd;
+    return {
+      start: start,
+      end: end,
+      label: byPage ? '书上第' + start + '—' + end + '页' : '第' + start + '—' + end + '词',
+      shortLabel: byPage ? '书页' + start + '—' + end : start + '—' + end,
+      fileToken: byPage ? 'p' + start + '-' + end : start + '-' + end
+    };
   }
 
-  var STUDY_KEY = 'nihongolab-vocab-study-v1';
+  function inRange(a, b, mode) {
+    var byPage = activeBook && activeBook.id === 'n2' && mode === 'page';
+    return VOCAB.filter(function (v) {
+      var value = byPage ? v.page : v.n;
+      return typeof value === 'number' && value >= a && value <= b;
+    });
+  }
+
+  var STUDY_KEY = 'nihongolab-vocab-study-v2';
 
   function studyMillis(value) {
     if (value instanceof Date) return value.getTime();
