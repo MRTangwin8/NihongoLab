@@ -9,19 +9,19 @@ NihongoLab 的 MIT 与 CC BY-SA 4.0 授权只适用于项目作者拥有权利�
 - https://www.edrdg.org/jmdict/j_jmdict.html
 - https://www.edrdg.org/edrdg/licence.html
 
-发布词库已经过去重、重排和重新编号，不保留商业教材的页码、章节、编排顺序、例句、音频映射、封面、图片或书目标签。
-
 ## 外部参考
 
-项目在编写和校订过程中参考了以下公开网站。链接仅用于说明参考关系，不表示复制其页面内容，也不表示这些网站认可本项目：
+项目在编写和校订过程中参考了以下公开网站/书籍：
 
 - 日本语能力测试 JLPT：https://www.jlpt.jp/
 - 日本学生支援机构 JASSO／EJU：https://www.jasso.go.jp/ryugaku/eju/
 - 毎日のんびり日本語教師：https://mainichi-nonbiri.com/japanese-grammar/
 - 日本語NET：https://nihongokyoshi-net.com/
 - まるごと：https://marugoto.jpf.go.jp/
+- EJU 日本留学試験対策 ハイレベル 頻出単語3200
+- JLPT N2 この一冊で合格する (日本語の森)
 
-网站名称、考试名称和商标归各自权利人所有。外部链接所指内容适用各网站自己的使用条款和许可。
+书籍、网站名称、考试名称和商标归各自权利人所有。外部链接所指内容适用各网站自己的使用条款和许可。
 
 ## 音频
 
