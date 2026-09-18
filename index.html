@@ -44,7 +44,7 @@
   .btn.ghost{background:var(--surface);color:var(--navy)}
   .btn.ghost:hover{background:var(--soft)}
   .btn:disabled{opacity:.45;cursor:default}
-  .chips{display:flex;flex-wrap:wrap;gap:8px}
+  .chips{display:flex;flex-wrap:wrap;gap:7px;max-width:920px}.chips#types{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}.chips#types .chip{text-align:center;white-space:normal;min-height:38px;display:flex;align-items:center;justify-content:center}.type-group{grid-column:1/-1;font-size:13px;font-weight:700;color:var(--primary-strong);margin-top:7px;padding:4px 2px;border-bottom:1px solid var(--line)}.type-group:first-child{margin-top:0}
   .chip{font-size:13px;border:1px solid var(--line);border-radius:20px;padding:5px 13px;cursor:pointer;
     user-select:none;background:var(--surface);color:var(--muted)}
   .chip.on{background:var(--navy);border-color:var(--navy);color:var(--on-primary)}
@@ -91,7 +91,7 @@
   .chip.off{display:none}
   .filter-select{min-width:210px}
   .module-nav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px}
-  .module-nav button{font:inherit;font-size:13px;padding:7px 14px;border-radius:18px;border:1px solid var(--line);background:var(--surface);color:var(--muted);cursor:pointer}
+  .module-nav button,.module-nav a{font:inherit;font-size:13px;padding:7px 14px;border-radius:18px;border:1px solid var(--line);background:var(--surface);color:var(--muted);cursor:pointer;text-decoration:none}
   .module-nav button.on{background:var(--navy);border-color:var(--navy);color:var(--on-primary)}
   .level-bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;margin:0 0 14px}
   .level-tabs{display:flex;border:1px solid var(--line);border-radius:7px;overflow:hidden;background:var(--surface)}
@@ -167,12 +167,15 @@
 </header>
 
 <div class="wrap">
+<form class="card" action="vocab/lookup.html" role="search" style="display:flex;gap:8px;flex-wrap:wrap"><input name="q" aria-label="搜索全库与词典" type="text" required placeholder="搜索单词、读音、中文或英文" style="flex:1;min-width:160px"><button class="btn" type="submit">查词</button><span class="meta" style="flex-basis:100%">全部词库 · 在线词典 · 例句</span></form>
   <div id="dataWarn" class="warn hide"></div>
 
   <div class="module-nav" id="moduleNav">
     <button class="on" data-module="vocab">词汇</button>
     <button data-module="grammar">语法</button>
     <button data-module="reading">阅读</button>
+    <button data-module="listening">听力</button>
+    <a href="analyze/index.html">句子分析</a>
   </div>
 
   <div class="card hide" id="grammarCard">
@@ -187,9 +190,9 @@
   </div>
 
   <div class="card hide" id="readingCard">
-    <h2>日语阅读</h2>
+    <h2 id="readingTitle">日语阅读</h2>
     <div class="level-bar"><div class="level-tabs" id="readingLevels" aria-label="阅读等级"></div><span class="meta" id="readingMeta"></span></div>
-    <div class="course-tools"><span class="meta">题干与选项均为日语，提交后显示答案和解析。</span><a class="course-directory" href="reading/index.html">打开完整阅读目录</a></div>
+    <div class="course-tools"><span class="meta" id="readingHint">题干与选项均为日语，提交后显示答案和解析。</span><a class="course-directory" id="readingDirectory" href="reading/index.html">打开完整阅读目录</a></div>
     <div id="readingList"></div>
   </div>
 
@@ -217,16 +220,16 @@
   <div class="card" id="vocabQuizSetup">
     <h2>② 题型</h2>
     <div class="chips" id="types">
-      <span class="chip" data-t="r2k">假名 → 汉字</span>
-      <span class="chip" data-t="k2r">汉字 → 假名</span>
+      <span class="type-group">选择题</span>
       <span class="chip on" data-t="k2r_sel">汉字 → 假名（选择）</span>
       <span class="chip on" data-t="r2k_sel">假名 → 汉字（选择）</span>
       <span class="chip on" data-t="k2c">汉字 → 中文（选择）</span>
       <span class="chip on" data-t="c2k_sel">中文 → 单词（选择）</span>
+      <span class="chip on" data-t="kata2c">片假名 → 意思（选择）</span><span class="chip on" data-t="c2kata">意思 → 片假名（选择）</span><span class="chip on" data-t="kata2hira">片假名读音 → 平假名（选择）</span><span class="chip on" data-t="hira2kata">平假名读音 → 片假名（选择）</span><span class="chip on" data-t="l2c">听朗读 → 选意思</span>
+      <span class="type-group">书写题</span>
+      <span class="chip" data-t="r2k">假名 → 汉字</span><span class="chip" data-t="k2r">汉字 → 假名</span>
       <span class="chip" data-t="c2k">中文 → 单词</span>
-      <span class="chip" data-t="fill">例句填空</span>
-      <span class="chip" data-t="l2k">听朗读 → 写单词</span>
-      <span class="chip" data-t="l2c">听朗读 → 选意思</span>
+      <span class="chip" data-t="kata2c_write">片假名 → 意思</span><span class="chip" data-t="c2kata_write">意思 → 片假名</span><span class="chip" data-t="kata2hira_write">片假名读音 → 平假名</span><span class="chip" data-t="hira2kata_write">平假名读音 → 片假名</span><span class="chip" data-t="fill">例句填空</span><span class="chip" data-t="l2k">听朗读 → 写单词</span>
     </div>
     <div class="row" style="margin-top:12px">
       <label class="lb">题数</label>
@@ -240,6 +243,8 @@
       <button class="btn" id="begin">开始答题</button>
       <button class="btn ghost" id="exportBtn">导出 Excel 试卷</button>
       <button class="btn ghost" id="previewBtn">查看词表</button>
+      <button class="btn ghost" id="categoryListBtn">查看本分类全部词汇</button>
+      <button class="btn ghost" id="vocabSearchBtn">查询词汇</button>
       <button class="btn ghost" id="listExportBtn">导出词表 Excel</button>
     </div>
   </div>
@@ -893,9 +898,15 @@
     card.classList.remove('hide');
     card.scrollIntoView({ behavior: 'smooth', block: 'start' });
   });
+  $('categoryListBtn').addEventListener('click', function () {
+    var category = $('category').value;
+    location.href = 'vocab/index.html?book=' + encodeURIComponent(bookEl.value) +
+      (category && category !== 'all' ? '&category=' + encodeURIComponent(category) : '');
+  });
+  $('vocabSearchBtn').addEventListener('click', function () { location.href = 'vocab/index.html'; });
 
   var courseLevels = ['all', 'N5', 'N4', 'N3', 'N2', 'N1', 'EJU'];
-  var grammarLevel = 'all', readingLevel = 'all', grammarQuery = '', grammarShown = 120;
+  var grammarLevel = 'all', readingLevel = 'all', readingMode = 'reading', grammarQuery = '', grammarShown = 120;
 
   function buildLevelTabs(id) {
     $(id).innerHTML = courseLevels.map(function (level) {
@@ -932,13 +943,18 @@
   }
   function renderReading() {
     var items = courseItems(window.JA_READING, readingLevel);
+    var listening = readingMode === 'listening';
+    $('readingTitle').textContent = listening ? '日语听力' : '日语阅读';
+    $('readingHint').textContent = listening ? '播放日语音频后作答，提交后显示原文、答案和解析。' : '题干与选项均为日语，提交后显示答案和解析。';
+    $('readingDirectory').href = 'reading/index.html?mode=' + readingMode;
+    $('readingDirectory').textContent = listening ? '打开完整听力目录' : '打开完整阅读目录';
     $('readingMeta').textContent = '共 ' + items.length + ' 篇';
     $('readingList').innerHTML = items.map(function (x) {
-      var detailUrl = 'reading/detail.html?id=' + encodeURIComponent(x.id);
-      var excerpt = x.body.length > 92 ? x.body.slice(0, 92) + '…' : x.body;
+      var detailUrl = 'reading/detail.html?id=' + encodeURIComponent(x.id) + '&mode=' + readingMode;
+      var excerpt = listening ? '播放音频后完成问题，作答前不显示原文。' : (x.body.length > 92 ? x.body.slice(0, 92) + '…' : x.body);
       return '<article class="lesson"><span class="lesson-level">' + esc(x.level) + '</span><h3><a href="' + detailUrl + '">' + esc(x.title) + '</a></h3>' +
         '<div class="jp">' + esc(excerpt) + '</div><div class="source">' + (x.questions || []).length + ' 道日文选择题</div>' +
-        '<a class="lesson-more" href="' + detailUrl + '">开始阅读 →</a></article>';
+        '<a class="lesson-more" href="' + detailUrl + '">' + (listening ? '开始听力' : '开始阅读') + ' →</a></article>';
     }).join('');
   }
   buildLevelTabs('grammarLevels');
@@ -973,6 +989,7 @@
     var b = e.target.closest('button[data-module]');
     if (!b) return;
     var m = b.dataset.module;
+    if (m === 'reading' || m === 'listening') { readingMode = m; renderReading(); }
     Array.prototype.forEach.call($('moduleNav').querySelectorAll('button'), function (x) {
       x.classList.toggle('on', x === b);
     });
@@ -981,7 +998,7 @@
       if (node) node.style.display = m === 'vocab' ? '' : 'none';
     });
     $('grammarCard').classList.toggle('hide', m !== 'grammar');
-    $('readingCard').classList.toggle('hide', m !== 'reading');
+    $('readingCard').classList.toggle('hide', m !== 'reading' && m !== 'listening');
   });
 
   bookEl.value = 'n5';

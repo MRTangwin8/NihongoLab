@@ -155,17 +155,20 @@
     '<fill><patternFill patternType="solid"><fgColor rgb="FFFBE9E4"/><bgColor indexed="64"/></patternFill></fill>' +
     '<fill><patternFill patternType="solid"><fgColor rgb="FFE5F2E8"/><bgColor indexed="64"/></patternFill></fill>' +
     '</fills>' +
-    '<borders count="2">' +
+     '<borders count="5">' +
     '<border><left/><right/><top/><bottom/><diagonal/></border>' +
-    '<border><left style="thin"><color rgb="FFB8C6D1"/></left><right style="thin"><color rgb="FFB8C6D1"/></right>' +
+     '<border><left style="thin"><color rgb="FFB8C6D1"/></left><right style="thin"><color rgb="FFB8C6D1"/></right>' +
     '<top style="thin"><color rgb="FFB8C6D1"/></top><bottom style="thin"><color rgb="FFB8C6D1"/></bottom><diagonal/></border>' +
-    '</borders>' +
+     '<border><left/><right/><top style="thin"><color rgb="FFB8C6D1"/></top><bottom style="thin"><color rgb="FFB8C6D1"/></bottom><diagonal/></border>' +
+     '<border><left style="thin"><color rgb="FFB8C6D1"/></left><right/><top style="thin"><color rgb="FFB8C6D1"/></top><bottom style="thin"><color rgb="FFB8C6D1"/></bottom><diagonal/></border>' +
+     '<border><left/><right style="thin"><color rgb="FFB8C6D1"/></right><top style="thin"><color rgb="FFB8C6D1"/></top><bottom style="thin"><color rgb="FFB8C6D1"/></bottom><diagonal/></border>' +
+     '</borders>' +
     '<cellStyleXfs count="1"><xf numFmtId="0" fontId="0" fillId="0" borderId="0"/></cellStyleXfs>' +
-    '<cellXfs count="21">' +
+     '<cellXfs count="24">' +
     '<xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0"/>' +
     '<xf numFmtId="0" fontId="2" fillId="2" borderId="0" xfId="0" applyFont="1" applyFill="1" applyAlignment="1"><alignment horizontal="center" vertical="center"/></xf>' +
     '<xf numFmtId="0" fontId="3" fillId="3" borderId="0" xfId="0" applyFont="1" applyFill="1" applyAlignment="1"><alignment horizontal="center" vertical="center"/></xf>' +
-    '<xf numFmtId="0" fontId="4" fillId="4" borderId="1" xfId="0" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment vertical="center"/></xf>' +
+     '<xf numFmtId="0" fontId="4" fillId="4" borderId="1" xfId="0" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment horizontal="center" vertical="center"/></xf>' +
     '<xf numFmtId="0" fontId="1" fillId="2" borderId="1" xfId="0" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment horizontal="center" vertical="center"/></xf>' +
     '<xf numFmtId="0" fontId="0" fillId="0" borderId="1" xfId="0" applyFont="1" applyBorder="1" applyAlignment="1"><alignment horizontal="center" vertical="center"/></xf>' +
     '<xf numFmtId="0" fontId="5" fillId="0" borderId="0" xfId="0" applyFont="1" applyAlignment="1"><alignment vertical="center"/></xf>' +
@@ -183,7 +186,10 @@
     '<xf numFmtId="0" fontId="7" fillId="7" borderId="1" xfId="0" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment horizontal="center" vertical="center"/></xf>' +
     '<xf numFmtId="0" fontId="7" fillId="8" borderId="1" xfId="0" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment horizontal="center" vertical="center"/></xf>' +
     '<xf numFmtId="0" fontId="7" fillId="0" borderId="1" xfId="0" applyFont="1" applyBorder="1" applyAlignment="1"><alignment horizontal="left" vertical="top" wrapText="1"/></xf>' +
-    '</cellXfs>' +
+     '<xf numFmtId="0" fontId="4" fillId="4" borderId="2" xfId="0" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment horizontal="center" vertical="center"/></xf>' +
+     '<xf numFmtId="0" fontId="4" fillId="4" borderId="3" xfId="0" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment horizontal="center" vertical="center"/></xf>' +
+     '<xf numFmtId="0" fontId="4" fillId="4" borderId="4" xfId="0" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment horizontal="center" vertical="center"/></xf>' +
+     '</cellXfs>' +
     '<cellStyles count="1"><cellStyle name="Normal" xfId="0" builtinId="0"/></cellStyles>' +
     '</styleSheet>';
 

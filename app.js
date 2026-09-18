@@ -52,6 +52,8 @@
       return '動詞（五段活用）';
     }
     var raw = String(value || '');
+    if (/[・、,／/]/.test(raw) && !/^動詞（/.test(raw)) return raw.split(/[・、,／/]/).map(function(part){return standardPos(part.trim(), false, word, reading)}).filter(function(part,index,all){return all.indexOf(part)===index}).join('・');
+    if (raw === '名動') return '名詞・動詞（サ変活用）';
     /* Keep explicit noun labels instead of reclassifying them. */
     if (/^名詞（/.test(raw) || raw === '名詞') return raw;
     if (suru || value === '名動') return '動詞（サ変活用）';
@@ -353,6 +355,12 @@
     return shuffle(opts.map(function (v) { return withSuru(v, item.suru); }));
   }
 
+  function isKatakanaWord(value) { return !!value && /^[ァ-ヺー・]+$/.test(String(value)); }
+  function toKatakana(value) { return String(value || '').replace(/[ぁ-ゖ]/g, function (c) { return String.fromCharCode(c.charCodeAt(0) + 0x60); }); }
+  function toHiragana(value) { return String(value || '').replace(/[ァ-ヺ]/g, function (c) { return String.fromCharCode(c.charCodeAt(0) - 0x60); }); }
+  function scriptOptions(item, pool, convert) { var answer = convert(item.r), values = []; pool.forEach(function (o) { if (o.n !== item.n && o.r) { var v = convert(o.r); if (v !== answer && values.indexOf(v) < 0) values.push(v); } }); if (values.length < 3) return null; return shuffle(values.slice(0, 3).concat([answer])); }
+  function kataOptions(item, pool) { var answer = item.w, values = []; pool.forEach(function (o) { if (o.n !== item.n && isKatakanaWord(o.w) && o.w !== answer && values.indexOf(o.w) < 0) values.push(o.w); }); if (values.length < 3) return null; return shuffle(values.slice(0, 3).concat([answer])); }
+
   function buildQuestion(type, item, pool) {
     var w = withSuru(item.w, item.suru);
     var r = withSuru(item.r, item.suru);
@@ -404,6 +412,10 @@
       return { type: type, label: '选单词', prompt: item.cn, answer: w,
         options: wopts, item: item, mode: 'choice' };
     }
+    if (type === 'kata2c' || type === 'c2kata') { if (!isKatakanaWord(item.w) || !item.cn) return null; if (type === 'kata2c') { var ko = cnOptions(item, pool); if (!ko) return null; return { type: type, label: '片假名 → 意思（选择）', prompt: w, answer: item.cn, options: ko, item: item, mode: 'choice' }; } var kopts = kataOptions(item, pool); if (!kopts) return null; return { type: type, label: '意思 → 片假名（选择）', prompt: item.cn, answer: w, options: kopts, item: item, mode: 'choice' }; }
+    if (type === 'kata2c_write' || type === 'c2kata_write') { if (!isKatakanaWord(item.w) || !item.cn) return null; return { type: type, label: type === 'kata2c_write' ? '写意思' : '写片假名', prompt: type === 'kata2c_write' ? w : item.cn, answer: type === 'kata2c_write' ? item.cn : w, item: item, mode: 'input' }; }
+    if (type === 'kata2hira' || type === 'hira2kata') { if (!item.r) return null; var convert = type === 'kata2hira' ? toHiragana : toKatakana, scriptOpts = scriptOptions(item, pool, convert); if (!scriptOpts) return null; return { type: type, label: type === 'kata2hira' ? '片假名读音 → 平假名（选择）' : '平假名读音 → 片假名（选择）', prompt: type === 'kata2hira' ? toKatakana(item.r) : item.r, answer: convert(item.r), options: scriptOpts, item: item, mode: 'choice' }; }
+    if (type === 'kata2hira_write' || type === 'hira2kata_write') { if (!item.r) return null; return { type: type, label: type === 'kata2hira_write' ? '片假名读音 → 平假名' : '平假名读音 → 片假名', prompt: type === 'kata2hira_write' ? toKatakana(item.r) : item.r, answer: type === 'kata2hira_write' ? toHiragana(item.r) : toKatakana(item.r), item: item, mode: 'input' }; }
     if (type === 'fill') {
       var ex = item.ex || '';
       if (!ex || !item.w) return null;
@@ -447,21 +459,21 @@
   function bodyStyle(small) {
     return (window.EjuXlsx && window.EjuXlsx.bodyStyle) ? window.EjuXlsx.bodyStyle(small) : 5;
   }
+  function choiceCellStyle() { return (window.EjuXlsx && window.EjuXlsx.leftStyle) || 20; }
 
   function buildSheet(title, subtitle, infoCells, rows, half, headers, small) {
     var sheet = { name: '', cols: [
       { min: 1, max: 1, width: 6 }, { min: 2, max: 2, width: 10 }, { min: 3, max: 3, width: 21 },
       { min: 4, max: 4, width: 24 }, { min: 5, max: 5, width: 3 }, { min: 6, max: 6, width: 6 },
       { min: 7, max: 7, width: 10 }, { min: 8, max: 8, width: 21 }, { min: 9, max: 9, width: 24 }
-    ], merges: ['A1:I1', 'A2:I2', 'A4:B4', 'C4:D4', 'F4:G4', 'H4:I4'], rows: [],
+    ], merges: ['A1:I1', 'A2:I2'], rows: [],
       freeze: 'A7', landscape: true, fitToWidth: 1 };
 
     sheet.rows.push({ r: 1, h: 34, cells: [{ c: 1, v: title, s: 1 }] });
     sheet.rows.push({ r: 2, h: 22, cells: [{ c: 1, v: subtitle, s: 2 }] });
     sheet.rows.push({ r: 3, cells: [{ c: 1, v: null, s: 0 }] });
-    sheet.rows.push({ r: 4, h: 25, cells: [
-      { c: 1, v: infoCells[0], s: 3 }, { c: 3, v: infoCells[1], s: 3 },
-      { c: 6, v: infoCells[2], s: 3 }, { c: 8, v: infoCells[3], s: 3 }
+    sheet.rows.push({ r: 4, h: 30, cells: [
+      { c: 1, v: '　　' + infoCells[0], s: 22 }, { c: 2, v: '', s: 21 }, { c: 3, v: infoCells[1], s: 21 }, { c: 4, v: '', s: 21 }, { c: 5, v: '', s: 21 }, { c: 6, v: infoCells[2], s: 21 }, { c: 7, v: '', s: 21 }, { c: 8, v: infoCells[3], s: 21 }, { c: 9, v: '', s: 23 }
     ] });
     sheet.rows.push({ r: 5, cells: [{ c: 1, v: null, s: 0 }] });
     sheet.rows.push({ r: 6, h: 25, cells: [
@@ -476,14 +488,14 @@
       var bS = bodyStyle(small);
       var aS = small ? ((window.EjuXlsx && window.EjuXlsx.answerStyle) || bS) : bS;
       cells.push({ c: 1, v: i + 1, s: bS }, { c: 2, v: li.label, s: typeStyle(li.label, small) },
-        { c: 3, v: li.prompt, s: bS }, { c: 4, v: li.answer, s: aS });
+        { c: 3, v: li.prompt, s: li.choice ? choiceCellStyle() : bS }, { c: 4, v: li.answer, s: li.choice ? choiceCellStyle() : aS });
       if (ri) {
         cells.push({ c: 6, v: i + half + 1, s: bS }, { c: 7, v: ri.label, s: typeStyle(ri.label, small) },
-          { c: 8, v: ri.prompt, s: bS }, { c: 9, v: ri.answer, s: aS });
+          { c: 8, v: ri.prompt, s: ri.choice ? choiceCellStyle() : bS }, { c: 9, v: ri.answer, s: ri.choice ? choiceCellStyle() : aS });
       } else {
         cells.push({ c: 6, v: null, s: 5 }, { c: 7, v: null, s: 5 }, { c: 8, v: null, s: 5 }, { c: 9, v: null, s: 5 });
       }
-      sheet.rows.push({ r: 7 + i, h: 30, cells: cells });
+      sheet.rows.push({ r: 7 + i, h: (li.choice || (ri && ri.choice)) ? 72 : 30, cells: cells });
     }
     var footRow = 7 + half + 1;
     sheet.merges.push('A' + footRow + ':I' + footRow);
@@ -500,11 +512,8 @@
 
     var AB = 'ABCD';
     var qRows = qs.map(function (q) {
-      var p = q.prompt;
-      if (q.options) {
-        p = p + '\n' + q.options.map(function (o, i) { return AB.charAt(i) + '. ' + o; }).join('\u3000');
-      }
-      return { label: q.label, prompt: p, answer: '' };
+      if (q.options) return { label: q.label, prompt: q.prompt, answer: q.options.map(function (o, i) { return '□ ' + AB.charAt(i) + '. ' + o; }).join('\n'), choice: true };
+      return { label: q.label, prompt: q.prompt, answer: '' };
     });
     var aRows = qs.map(function (q) {
       var ans = q.answer;
@@ -756,3 +765,4 @@
     studyDateKey: studyDateKey
   };
 })();
+

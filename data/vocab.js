@@ -31594,7 +31594,7 @@ window.EJU_VOCAB = [
     "w": "当然",
     "r": "とうぜん",
     "suru": false,
-    "pos": "形動",
+    "pos": "名詞・な形容詞（形容動詞）・副詞",
     "cn": "理所当然",
     "en": "naturally",
     "book": "eju"
